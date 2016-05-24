@@ -1,0 +1,14 @@
+{
+    "plugins": [
+        "jsfiddle"
+    ],
+    "pluginsConfig": {
+        "jsfiddle":{
+            "type":"script",
+            "tabs":["html", "result"],
+            "height": "500",
+            "width": "500",
+            "fontColor": "000000"
+         }
+    }
+}
