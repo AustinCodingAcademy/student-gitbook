@@ -18,4 +18,4 @@ If you want to list it on your resume, Codecademy is not enough!
 
 ## Practice AND learning!
 * [Code Wars](https://www.codewars.com/)
-* [Exercism](http://exercism.io/) is great for learning how to test in different languages
+* [Exercism](http://exercism.io/) is great for learning how to testing syntax in different languages
