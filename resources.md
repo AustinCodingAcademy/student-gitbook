@@ -4,6 +4,7 @@
 * [Austin Digital Jobs](https://www.facebook.com/groups/austindigitaljobs)
 * [Austin Freelance Gigs](https://www.facebook.com/groups/freelanceatx/)
 * [Built In Austin](http://www.builtinaustin.com/)
+* [Capital Factory events](https://capitalfactory.com/events/)
 
 ## Meetups
 * [Refresh Austin](http://www.refreshaustin.org/)
@@ -17,4 +18,4 @@ If you want to list it on your resume, Codecademy is not enough!
 
 ## Practice AND learning!
 * [Code Wars](https://www.codewars.com/)
-* [Exercism](http://exercism.io/)
+* [Exercism](http://exercism.io/) is great for learning how to test in different languages
