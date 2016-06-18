@@ -1,5 +1,1 @@
-# Summary
-
-* [Introduction](README.md)
-* [Resources](resources.md)
-
+# Table of content
