@@ -4,6 +4,6 @@
     "gitbook-cli": "^2.1.3"
   },
   "scripts": {
-    "postinstall": "gitbook install && gitbook build && gitbook pdf ./ ./student-gitbook.pdf"
+    "postinstall": "gitbook install && gitbook build && echo $PATH & gitbook pdf ./ ./student-gitbook.pdf"
   }
 }
