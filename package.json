@@ -5,6 +5,5 @@
   },
   "scripts": {
     "postinstall": "gitbook install && gitbook build && gitbook pdf ./ ./student-gitbook.pdf"
-    ]
   }
 }
