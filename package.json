@@ -6,6 +6,6 @@
   "scripts": {
     "postinstall": "gitbook install && gitbook build && npm run path && npm run pdf",
     "path": "PATH=~/calibre:$PATH",
-    "pdf": "gitbook pdf ./ ./gitbook.pdf"
+    "pdf": "gitbook pdf ./ ./student-gitbook.pdf"
   }
 }
