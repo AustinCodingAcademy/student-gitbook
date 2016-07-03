@@ -1,0 +1,16 @@
+machine:
+  environment:
+    NAME: Student
+    FILE_ID: 0B9BrFrtW87-UeHM1b08wVDJxc2M
+  node:
+    version: 5.6.0
+dependencies:
+  post:
+    - wget -nv -O- https://raw.githubusercontent.com/kovidgoyal/calibre/master/setup/linux-installer.py | python -c "import sys; main=lambda x,y:sys.stderr.write('Download failed\n'); exec(sys.stdin.read()); main('~/calibre-bin', True)"
+    - PATH=$PATH:~/calibre-bin && gitbook pdf ./ ./$NAME/$NAME.pdf
+    - PATH=$PATH:~/calibre-bin && gitbook epub ./ ./$NAME/$NAME.epub
+    - PATH=$PATH:~/calibre-bin && gitbook mobi ./ ./$NAME/$NAME.mobi
+    - echo "{ \"access_token\": \"$DRIVE_ACCESS_TOKEN\", \"token_type\": \"Bearer\", \"refresh_token\": \"DRIVE_REFRESH_TOKEN\", \"expiry\": \"2016-07-03T18:15:44.882551476-05:00\"}" > ~/.gdrive/token_v2.json
+    - curl --silent -output gdrive https://docs.google.com/uc?id=0B3X9GlR6EmbnQ0FtZmJJUXEyRTA&export=download
+    - sudo chmod +x gdrive
+    - gdrive sync upload ./$NAME $FILE_ID
