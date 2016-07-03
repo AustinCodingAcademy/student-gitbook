@@ -7,6 +7,7 @@ machine:
 dependencies:
   post:
     - wget -nv -O- https://raw.githubusercontent.com/kovidgoyal/calibre/master/setup/linux-installer.py | python -c "import sys; main=lambda x,y:sys.stderr.write('Download failed\n'); exec(sys.stdin.read()); main('~/calibre-bin', True)"
+    - mkdir ./$NAME
     - PATH=$PATH:~/calibre-bin/calibre && gitbook pdf ./ ./$NAME/$NAME.pdf
     - PATH=$PATH:~/calibre-bin/calibre && gitbook epub ./ ./$NAME/$NAME.epub
     - PATH=$PATH:~/calibre-bin/calibre && gitbook mobi ./ ./$NAME/$NAME.mobi
