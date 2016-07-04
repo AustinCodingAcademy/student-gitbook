@@ -11,8 +11,8 @@ dependencies:
     - PATH=$PATH:~/calibre-bin/calibre && gitbook pdf ./ ./$NAME/$NAME.pdf
     - PATH=$PATH:~/calibre-bin/calibre && gitbook epub ./ ./$NAME/$NAME.epub
     - PATH=$PATH:~/calibre-bin/calibre && gitbook mobi ./ ./$NAME/$NAME.mobi
-    - mkdir ./.gdrive
-    - sed -e "s/\${DRIVE_ACCESS_TOKEN}/$DRIVE_ACCESS_TOKEN/" -e "s/\${DRIVE_REFRESH_TOKEN}/$(echo $DRIVE_REFRESH_TOKEN)/" token_v2.txt > ~/.gdrive/token_v2.json
+    - mkdir ~/.gdrive
+    - sed -e "s#DRIVE_ACCESS_TOKEN#$(echo $DRIVE_ACCESS_TOKEN)#g" -e "s#DRIVE_REFRESH_TOKEN#$(echo $DRIVE_REFRESH_TOKEN)#g" ./token_v2.txt > ~/.gdrive/token_v2.json
     - curl --silent -output gdrive https://docs.google.com/uc?id=0B3X9GlR6EmbnQ0FtZmJJUXEyRTA&export=download
     - sudo chmod +x gdrive
     - gdrive sync upload ./$NAME $FILE_ID
