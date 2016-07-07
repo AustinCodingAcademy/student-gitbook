@@ -1,6 +1,7 @@
 {
     "plugins": [
-        "jsfiddle"
+        "jsfiddle",
+        "ga"
     ],
     "pluginsConfig": {
         "jsfiddle":{
@@ -9,6 +10,12 @@
             "height": "500",
             "width": "500",
             "fontColor": "000000"
-         }
+         },
+         "ga": {
+            "token": "UA-68821515-2",
+            "configuration": {
+                "name": "student",
+            }
+        }
     }
 }
