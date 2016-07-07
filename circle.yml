@@ -13,6 +13,6 @@ dependencies:
     - PATH=$PATH:~/calibre-bin/calibre && gitbook mobi ./ ./$NAME/$NAME.mobi
     - mkdir ~/.gdrive
     - sed -e "s#DRIVE_ACCESS_TOKEN#$(echo $DRIVE_ACCESS_TOKEN)#g" -e "s#DRIVE_REFRESH_TOKEN#$(echo $DRIVE_REFRESH_TOKEN)#g" ./token_v2.txt > ~/.gdrive/token_v2.json
-    - curl --silent --output gdrive https://doc-08-48-docs.googleusercontent.com/docs/securesc/ha0ro937gcuc7l7deffksulhg5h7mbp1/sdvfucpnr6rrujg495afi5b9sfoksepj/1467590400000/15876260727594163214/\*/0B3X9GlR6EmbnQ0FtZmJJUXEyRTA\?e\=download
+    - curl --silent --output gdrive https://docs.google.com/uc?id=0B3X9GlR6EmbnQ0FtZmJJUXEyRTA&export=download
     - sudo chmod +x gdrive
     - ./gdrive sync upload ./$NAME $FILE_ID
