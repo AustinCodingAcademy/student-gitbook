@@ -5,6 +5,7 @@
 * [Intro](intro.md)
    * Prework
    * Install-Guide
+   * Syllabus
 * Intermediate
 * Advanced
 * [Continuing Your Learning](continuing_your_learning.md)
