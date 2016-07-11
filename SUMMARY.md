@@ -3,7 +3,7 @@
 * [Introduction](README.md)
 * [Resources](resources.md)
 * [Intro](intro.md)
-* Intermediate
+* [Intermediate](intermediate.md)
 * Advanced
 * [Continuing Your Learning](continuing_your_learning.md)
 

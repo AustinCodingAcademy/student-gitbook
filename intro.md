@@ -1,14 +1,6 @@
 # Intro
 
-
-## Prework
-
-### Codecademy
-  * Language Skills:
-    * [HTML/CSS](https://www.codecademy.com/learn/web)
-### Codeschool
-  * Development Skills:
-    * [Chrome Devtools (Lesson 1)](https://www.codeschool.com/courses/discover-devtools)
+## 
 
 ## Setting up your local environment
 
@@ -16,9 +8,9 @@ These are instructions for setting up a local environment in your computer to ha
 
 ### Light-weight code editor
 
-Install [Atom](http://atom.io/) on your laptop (Mac or Windows). The installation is straightforward. Once the installation is completed and you have run Brackets for the first time it will look something like this:
+Install [Atom](http://atom.io/) on your laptop \(Mac or Windows\). The installation is straightforward. Once the installation is completed and you have run Brackets for the first time it will look something like this:
 
-[Atom Installation Video](https://youtu.be/8sIwQabXSM8) 
+[Atom Installation Video](https://youtu.be/8sIwQabXSM8)
 
 Once Atom is installed add these extensions:
 
@@ -37,8 +29,10 @@ Once Atom is installed add these extensions:
 
 * [Login to GitHub Desktop Video](https://youtu.be/TLWxAW0eRB8)
 
+
 ### Google Chrome Browser
-* Download and install from http://www.google.com/chrome/
+
+* Download and install from [http:\/\/www.google.com\/chrome\/](http://www.google.com/chrome/)
 
 ## Syllabus
 
