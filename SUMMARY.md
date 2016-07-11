@@ -3,7 +3,7 @@
 * [Introduction](README.md)
 * [Resources](resources.md)
 * [Intro](intro.md)
-   * Pre-work
+   * [Pre-work](Intro-pre-work.md)
    * Install-Guide
    * Syllabus
 * [Intermediate](intermediate.md)
