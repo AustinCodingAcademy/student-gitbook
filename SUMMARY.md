@@ -5,7 +5,7 @@
 * [Intro](intro.md)
    * [Pre-work](Intro-pre-work.md)
    * [Install-Guide](intro-install-guide.md)
-   * Syllabus
+   * [Syllabus](intro-syllabus.md)
 * [Intermediate](intermediate.md)
    * [Pre-work](pre-work.md)
    * [Install-Guide](install-guide.md)
