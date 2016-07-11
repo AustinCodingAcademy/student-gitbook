@@ -4,7 +4,7 @@
 * [Resources](resources.md)
 * [Intro](intro.md)
    * [Pre-work](Intro-pre-work.md)
-   * Install-Guide
+   * [Install-Guide](intro-install-guide.md)
    * Syllabus
 * [Intermediate](intermediate.md)
    * [Pre-work](pre-work.md)
