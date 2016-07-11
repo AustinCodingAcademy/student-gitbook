@@ -4,4 +4,5 @@
 * [Resources](resources.md)
 * Intro
 * Intermediate
+* Advanced
 
