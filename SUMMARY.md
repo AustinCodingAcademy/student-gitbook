@@ -6,7 +6,7 @@
 * [Intermediate](intermediate.md)
    * [Pre-work](pre-work.md)
    * [Install-Guide](install-guide.md)
-   * Syllabus
+   * [Syllabus](syllabus.md)
 * Advanced
 * [Continuing Your Learning](continuing_your_learning.md)
 
