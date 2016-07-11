@@ -3,4 +3,5 @@
 * [Introduction](README.md)
 * [Resources](resources.md)
 * Intro
+* Intermediate
 
