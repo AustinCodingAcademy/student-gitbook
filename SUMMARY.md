@@ -3,6 +3,7 @@
 * [Introduction](README.md)
 * [Resources](resources.md)
 * [Intro](intro.md)
+   * Pre-work
 * [Intermediate](intermediate.md)
    * [Pre-work](pre-work.md)
    * [Install-Guide](install-guide.md)
