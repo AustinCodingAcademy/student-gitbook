@@ -87,7 +87,7 @@ Create Board Model, relationships
 ---
 ### Lesson Fourteen
 #### Deploying to Heroku
-#### Exersize
+#### Exercise
 
 ---
 ### Lesson Fifteen
