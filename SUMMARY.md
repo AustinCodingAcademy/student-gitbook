@@ -11,7 +11,7 @@
    * [Install-Guide](install-guide.md)
    * [Syllabus](syllabus.md)
 * Advanced
-   * Pre-work
+   * [Pre-work](advanced-pre-work.md)
    * Install-Guide
    * Syllabus
 * [Continuing Your Learning](continuing_your_learning.md)
