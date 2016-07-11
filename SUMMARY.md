@@ -4,6 +4,6 @@
 * [Resources](resources.md)
 * [Intro](intro.md)
 * [Intermediate](intermediate.md)
-* [Advanced](advanced.md)
+* [Advanced test](advanced.md)
 * [Continuing Your Learning](continuing_your_learning.md)
 
