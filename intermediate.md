@@ -95,7 +95,8 @@ Download and install from https://nodejs.org/1. Restart terminal1. type `node -v
 #### [Lesson Ten](https://github.com/AustinCodingAcademy/intermediate-textbook/blob/master/lessons/10LessonTen.md)* jQuery * `.ajax()` * Working with JSON* API * [reqr.es clone](reqres-api.herokuapp.com)
 #### App* [Address Book](https://github.com/AustinCodingAcademy/intermediate-textbook/blob/master/app-guides/10AddressBook.md)
 ---
-#### Final Project!!!#### App* [Gist Blog](https://github.com/AustinCodingAcademy/intermediate-textbook/blob/master/app-guides/11GistBlog.md)
+#### Final Project!!!
+#### App* [Gist Blog](https://github.com/AustinCodingAcademy/intermediate-textbook/blob/master/app-guides/11GistBlog.md)
 
 
 
