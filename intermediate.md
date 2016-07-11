@@ -70,13 +70,16 @@ Download and install from https://nodejs.org/1. Restart terminal1. type `node -v
 #### [Lesson Three](https://github.com/AustinCodingAcademy/intermediate-textbook/blob/master/lessons/03LessonThree.md)* Scope* Ternary Operator* Arrays * Locating Items * Assigning and Replacing Items
 #### App* [Tic Tac Toe](https://github.com/AustinCodingAcademy/intermediate-textbook/blob/master/app-guides/03TicTacToe.md)
 #### Test* [Lesson Three Tests](https://github.com/AustinCodingAcademy/frontend-intermediate-workbook/blob/gh-pages/test/03LessonThreeTest.js)
----#### [Lesson Four](https://github.com/AustinCodingAcademy/intermediate-textbook/blob/master/lessons/04LessonFour.md)* Popular Array Methods * pop/push * shift/unshift* Associative Arrays * keys and values * finding value by key * adding key/value
+---
+#### [Lesson Four](https://github.com/AustinCodingAcademy/intermediate-textbook/blob/master/lessons/04LessonFour.md)* Popular Array Methods * pop/push * shift/unshift* Associative Arrays * keys and values * finding value by key * adding key/value
 #### App* [Towers of Hanoi](https://github.com/AustinCodingAcademy/intermediate-textbook/blob/master/app-guides/04TowersOfHanoi.md)
 #### Test* [Lesson Four Tests](https://github.com/AustinCodingAcademy/frontend-intermediate-workbook/blob/gh-pages/test/04LessonFourTest.js)
----#### [Lesson Five](https://github.com/AustinCodingAcademy/intermediate-textbook/blob/master/lessons/05LessonFive.md)* More Operators * `++` / `--` * `+=`, `-=`, `*=`, `/=`* Loops * `for` / `while`
+---
+#### [Lesson Five](https://github.com/AustinCodingAcademy/intermediate-textbook/blob/master/lessons/05LessonFive.md)* More Operators * `++` / `--` * `+=`, `-=`, `*=`, `/=`* Loops * `for` / `while`
 #### App* [Mastermind](https://github.com/AustinCodingAcademy/intermediate-textbook/blob/master/app-guides/05Mastermind.md)
 #### Test* [Lesson Five Tests](https://github.com/AustinCodingAcademy/frontend-intermediate-workbook/blob/gh-pages/test/05LessonFiveTest.js)
----#### [Lesson Six](https://github.com/AustinCodingAcademy/intermediate-textbook/blob/master/lessons/06LessonSix.md)* Object Oriented Programming (OOP) * Creating Classes using the Constructor Method * `this` context * passing in arguments to contructor
+---
+#### [Lesson Six](https://github.com/AustinCodingAcademy/intermediate-textbook/blob/master/lessons/06LessonSix.md)* Object Oriented Programming (OOP) * Creating Classes using the Constructor Method * `this` context * passing in arguments to contructor
 #### App * [Checkers](https://github.com/AustinCodingAcademy/intermediate-textbook/blob/master/app-guides/06Checkers.md)
 #### Test* [Lesson Six Tests](https://github.com/AustinCodingAcademy/frontend-intermediate-workbook/blob/gh-pages/test/06LessonSixTest.js)
 ---
