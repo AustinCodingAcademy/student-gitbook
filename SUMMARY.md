@@ -5,5 +5,5 @@
 * Intro
 * Intermediate
 * Advanced
-* Continuing Your Learning
+* [Continuing Your Learning](continuing_your_learning.md)
 
