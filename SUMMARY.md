@@ -3,16 +3,7 @@
 * [Introduction](README.md)
 * [Resources](resources.md)
 * [Intro](intro.md)
-   * [Pre-work](Intro-pre-work.md)
-   * [Install-Guide](intro-install-guide.md)
-   * [Syllabus](intro-syllabus.md)
-* [Intermediate](intermediate.md)
-   * [Pre-work](pre-work.md)
-   * [Install-Guide](install-guide.md)
-   * [Syllabus](syllabus.md)
+* Intermediate
 * Advanced
-   * [Pre-work](advanced-pre-work.md)
-   * [Install-Guide](advanced-install-guide.md)
-   * [Syllabus](advanced-syllabus.md)
 * [Continuing Your Learning](continuing_your_learning.md)
 
