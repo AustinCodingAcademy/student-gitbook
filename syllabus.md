@@ -1,7 +1,6 @@
 # Intermediate Syllabus
 
-## Syllabus
-### [Lesson Zero](https://github.com/AustinCodingAcademy/intermediate-textbook/blob/master/lessons/00LessonZero.md)
+### Lesson Zero
 #### Taking Notes on Tonic
 #### Server-Side JavaScript
 * using `node` to open REPL or load a script
@@ -10,7 +9,7 @@
 ## Using Node
 
 ---
-#### [Lesson One](https://github.com/AustinCodingAcademy/intermediate-textbook/blob/master/lessons/01LessonOne.md)
+#### Lesson One
 * "strict mode"
 * comments
 * logging output
@@ -28,13 +27,13 @@
   * demonstrate use of "prompt" npm package
 
 #### App
-* [Pig Latin](https://github.com/AustinCodingAcademy/intermediate-textbook/blob/master/app-guides/01PigLatin.md)
+* Pig Latin
 
 #### Test
-* [Lesson One Tests](https://github.com/AustinCodingAcademy/frontend-intermediate-workbook/blob/gh-pages/test/01LessonOneTest.js)
+* Lesson One Tests
 
 ---
-#### [Lesson Two](https://github.com/AustinCodingAcademy/intermediate-textbook/blob/master/lessons/02LessonTwo.md)
+#### Lesson Two
 * Conditionals
   * `if` / `else` pattern
   * `if`/ `else if`/ `else` pattern
@@ -44,13 +43,13 @@
   * understand decomposition method
 
 #### App
-* [Rock, Paper, Scissors](https://github.com/AustinCodingAcademy/intermediate-textbook/blob/master/app-guides/02RockPaperScissors.md)
+* Rock, Paper, Scissors
 
 #### Test
-* [Lesson Two Tests](https://github.com/AustinCodingAcademy/frontend-intermediate-workbook/blob/gh-pages/test/02LessonTwoTest.js)
+* Lesson Two Tests
 
 ---
-#### [Lesson Three](https://github.com/AustinCodingAcademy/intermediate-textbook/blob/master/lessons/03LessonThree.md)
+#### Lesson Three
 * Scope
 * Ternary Operator
 * Arrays
@@ -61,7 +60,7 @@
 * [Tic Tac Toe](https://github.com/AustinCodingAcademy/intermediate-textbook/blob/master/app-guides/03TicTacToe.md)
 
 #### Test
-* [Lesson Three Tests](https://github.com/AustinCodingAcademy/frontend-intermediate-workbook/blob/gh-pages/test/03LessonThreeTest.js)
+* Lesson Three Tests
 
 ---
 #### [Lesson Four](https://github.com/AustinCodingAcademy/intermediate-textbook/blob/master/lessons/04LessonFour.md)
@@ -74,13 +73,13 @@
   * adding key/value
 
 #### App
-* [Towers of Hanoi](https://github.com/AustinCodingAcademy/intermediate-textbook/blob/master/app-guides/04TowersOfHanoi.md)
+* Towers of Hanoi
 
 #### Test
-* [Lesson Four Tests](https://github.com/AustinCodingAcademy/frontend-intermediate-workbook/blob/gh-pages/test/04LessonFourTest.js)
+* Lesson Four Tests
 
 ---
-#### [Lesson Five](https://github.com/AustinCodingAcademy/intermediate-textbook/blob/master/lessons/05LessonFive.md)
+#### Lesson Five
 * More Operators
   * `++` / `--`
   * `+=`, `-=`, `*=`, `/=`
@@ -88,26 +87,26 @@
   * `for` / `while`
 
 #### App
-* [Mastermind](https://github.com/AustinCodingAcademy/intermediate-textbook/blob/master/app-guides/05Mastermind.md)
+* Mastermind
 
 #### Test
-* [Lesson Five Tests](https://github.com/AustinCodingAcademy/frontend-intermediate-workbook/blob/gh-pages/test/05LessonFiveTest.js)
+* Lesson Five Tests
 
 ---
-#### [Lesson Six](https://github.com/AustinCodingAcademy/intermediate-textbook/blob/master/lessons/06LessonSix.md)
+#### Lesson Six
 * Object Oriented Programming (OOP)
   * Creating Classes using the Constructor Method
   * `this` context
   * passing in arguments to contructor
 
 #### App
- * [Checkers](https://github.com/AustinCodingAcademy/intermediate-textbook/blob/master/app-guides/06Checkers.md)
+ * Checkers
 
 #### Test
-* [Lesson Six Tests](https://github.com/AustinCodingAcademy/frontend-intermediate-workbook/blob/gh-pages/test/06LessonSixTest.js)
+* Lesson Six Tests
 
 ---
-#### [Lesson Seven](https://github.com/AustinCodingAcademy/intermediate-textbook/blob/master/lessons/07LessonSeven.md)
+#### Lesson Seven
 * Serving your app
 * jQuery
   * Asynchronous Programming
@@ -123,7 +122,7 @@
 * [Tic Tac Toe (jQuery)](https://github.com/AustinCodingAcademy/intermediate-textbook/blob/master/app-guides/06Checkers.md)
 
 ---
-#### [Lesson Eight](https://github.com/AustinCodingAcademy/intermediate-textbook/blob/master/lessons/08LessonEight.md)
+#### Lesson Eight
 * Popular jQuery methods
   * `.detach()`
   * `.each()`
@@ -132,10 +131,10 @@
   * `.append() and .prepend()`
 
 #### App
-* [Towers of Hanoi (jQuery)](https://github.com/AustinCodingAcademy/intermediate-textbook/blob/master/app-guides/07TowersOfHanoi-jQuery.md)
+* Towers of Hanoi (jQuery)
 
 ---
-#### [Lesson Nine](https://github.com/AustinCodingAcademy/intermediate-textbook/blob/master/lessons/09LessonNine.md)
+#### Lesson Nine
 * jQuery
   * `.find()`
   * Preventing Default Event
@@ -143,10 +142,10 @@
   * `.sortable()`
 
 #### App
-* [Todo](https://github.com/AustinCodingAcademy/intermediate-textbook/blob/master/app-guides/09Todo.md)
+* Todo
 
 ---
-#### [Lesson Ten](https://github.com/AustinCodingAcademy/intermediate-textbook/blob/master/lessons/10LessonTen.md)
+#### Lesson Ten
 * jQuery
   * `.ajax()`
   * Working with JSON
@@ -154,10 +153,10 @@
   * [reqr.es clone](reqres-api.herokuapp.com)
 
 #### App
-* [Address Book](https://github.com/AustinCodingAcademy/intermediate-textbook/blob/master/app-guides/10AddressBook.md)
+* Address Book
 
 ---
 
 #### Final Project!!!
 #### App
-* [Gist Blog](https://github.com/AustinCodingAcademy/intermediate-textbook/blob/master/app-guides/11GistBlog.md)
+* Gist Blog
