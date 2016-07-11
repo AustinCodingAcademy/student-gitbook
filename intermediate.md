@@ -1,13 +1,12 @@
 
 
+
 https://www.codeschool.com/courses/discover-devtools
 
 
 # Intermediate
 
 ## Prework
-
-## Codecademy
 
 [Codecademy](https://www.codecademy.com/) is a great resource for learning the syntax of different popular laguages, as well as familiarizing yourself with important tools. Make an account and get started coding now. Try to do at lease little bit every day, but don't be afraid to go on a binge.
 
