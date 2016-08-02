@@ -20,4 +20,23 @@ If you want to list it on your resume, Codecademy is not enough!
 ## Practice AND learning!
 * [Code Wars](https://www.codewars.com/)
 * [Exercism](http://exercism.io/) is great for learning how to testing syntax in different languages
+
+## Blogs
+* [Coding Horror](https://blog.codinghorror.com/)
+* [Github Engineering Blog](http://githubengineering.com/)
+* [Facebook Engineering Blog](https://code.facebook.com/posts/)
+* [Twitter Engineering Blog](https://blog.twitter.com/engineering)
+
+## Newsletters
+* [Hacker Newsletter](http://www.hackernewsletter.com/)
+
+## Casts
+* [Destroy All Software](https://www.destroyallsoftware.com/screencasts)
+* [JavaScript Jabber](https://devchat.tv/js-jabber)
+* [Boagworld Show](https://boagworld.com/show)
+* [Codeschool Screencasts](https://www.codeschool.com/screencasts)
+
+## Funny
+* [Devhumor](https://devhumor.com/)
+
 {% include "./footer.md" %}
