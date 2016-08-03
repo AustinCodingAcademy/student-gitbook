@@ -64,7 +64,8 @@ https://www.codeschool.com/courses/discover-devtools
 * demonstrate use of "prompt" npm package
 
 #### App
-* Pig Latin
+Pig Latin
+
 ---
 ## Lesson Two
 * Conditionals
@@ -75,7 +76,8 @@ https://www.codeschool.com/courses/discover-devtools
 * understand decomposition method
 
 #### App
-* Rock, Paper, Scissors
+Rock, Paper, Scissors
+
 ---
 ## Lesson Three
 * Scope
@@ -85,7 +87,8 @@ https://www.codeschool.com/courses/discover-devtools
 * Assigning and Replacing Items
 
 #### App
-* Tic Tac Toe
+Tic Tac Toe
+
 ---
 ## Lesson Four
 * Popular Array Methods
@@ -97,7 +100,8 @@ https://www.codeschool.com/courses/discover-devtools
 * adding key/value
 
 #### App
-* Towers of Hanoi
+Towers of Hanoi
+
 ---
 ## Lesson Five
 * More Operators
@@ -106,7 +110,7 @@ https://www.codeschool.com/courses/discover-devtools
   * Loops
   * `for` / `while`
 #### App
-* Mastermind
+Mastermind
 
 ---
 ## Lesson Six
@@ -115,7 +119,8 @@ https://www.codeschool.com/courses/discover-devtools
 * `this` context * passing in arguments to constructor
 
 #### App
-* Checkers
+Trip to Mars
+Checkers
 
 ---
 ## Lesson Seven
@@ -129,7 +134,8 @@ https://www.codeschool.com/courses/discover-devtools
 * `data-` attribute* Hosting on GitHub Pages
 
 ## App
-* Tic Tac Toe (jQuery)
+Tic Tac Toe (jQuery)
+
 ---
 ## Lesson Eight
 * Popular jQuery methods
@@ -140,7 +146,8 @@ https://www.codeschool.com/courses/discover-devtools
   * `.append() and .prepend()`
 
 #### App
-* Towers of Hanoi (jQuery)
+Towers of Hanoi (jQuery)
+
 ---
 ## Lesson Nine
 * jQuery
@@ -150,7 +157,8 @@ https://www.codeschool.com/courses/discover-devtools
 * `.sortable()`
 
 #### App
-* Todo
+Todo
+
 ---
 ## Lesson Ten
 * jQuery
@@ -160,9 +168,10 @@ https://www.codeschool.com/courses/discover-devtools
 * [reqr.es clone](reqres-api.herokuapp.com)
 
 #### App
-* Address Book
+Address Book
+
 ---
 ## Final Project!
 
 #### App
-* Gist Blog
+Gist Blog
