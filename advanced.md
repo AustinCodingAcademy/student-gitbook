@@ -38,44 +38,6 @@ Here are some extra resources to help with understanding the technologies we'll 
 * [Backbone.js For Beginners: Best Tutorials, Videos, And Learning Materials](http://whatpixel.com/backbonejs-top-learning-resources/)
 
 
-
-## Install Guide
-### Git
-1. Install
-  * Windows
-    * Git for Windows (https://git-for-windows.github.io/)
-    * Use Git Bash as your terminal from now on.
-      * Tips for Git Bash
-        * Copy is ctrl + insert
-        * Paste is shift + insert
-  * Mac
-    * Download and install from http://git-scm.com/downloads
-    * Highly recommend using [iTerm2](https://www.iterm2.com/) as your terminal
-1. Restart your terminal
-1. Type `git --version`, you should see a version number.
-
-### Atom Text Editor
-1. Download and install from https://atom.io/
-
-### Node.js
-1. Download and install from https://nodejs.org/
-1. Restart terminal
-1. type `node -v`, should get a version number if it works.
-
-### Google Chrome Browser
-* Download and install from http://www.google.com/chrome/
-
-### Chrome Plugins
-* [Cache Killer](https://chrome.google.com/webstore/detail/cache-killer/jpfbieopdmepaolggioebjmedmclkbap)
-* [Postman](https://chrome.google.com/webstore/detail/postman/fhbjgbiflinjbdggehcddcbncdddomop)
-
-### MongoDB
-* Download and install from https://www.mongodb.org/downloads#production
-
-### Robomongo
-* Download and install from https://robomongo.org/download
-
-
 # Syllabus
 
 ### [Lesson Zero](https://github.com/AustinCodingAcademy/intermediate-textbook/blob/master/lessons/00LessonZero.md)
