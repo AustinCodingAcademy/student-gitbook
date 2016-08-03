@@ -26,15 +26,18 @@ If you want to list it on your resume, Codecademy is not enough!
 * [Github Engineering Blog](http://githubengineering.com/)
 * [Facebook Engineering Blog](https://code.facebook.com/posts/)
 * [Twitter Engineering Blog](https://blog.twitter.com/engineering)
+* [Hacking UI](http://hackingui.com/#blog)
 
 ## Newsletters
 * [Hacker Newsletter](http://www.hackernewsletter.com/)
+* [Hacking UI](http://hackingui.com/)
 
 ## Casts
 * [Destroy All Software](https://www.destroyallsoftware.com/screencasts)
 * [JavaScript Jabber](https://devchat.tv/js-jabber)
 * [Boagworld Show](https://boagworld.com/show)
 * [Codeschool Screencasts](https://www.codeschool.com/screencasts)
+* [Hacking UI](http://hackingui.com/category/scaling-a-design-team/)
 
 ## Funny
 * [Devhumor](https://devhumor.com/)
