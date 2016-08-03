@@ -4,7 +4,7 @@
 
 ## Prework
 
-[Codecademy](https://www.codecademy.com/) is a great resource for learning the syntax of different popular laguages, as well as familiarizing yourself with important tools. Make an account and get started coding now. Try to do at lease little bit every day, but don't be afraid to go on a binge.
+[Codecademy](https://www.codecademy.com/) is a great resource for learning the syntax of different popular languages, as well as familiarizing yourself with important tools. Make an account and get started coding now. Try to do at lease little bit every day, but don't be afraid to go on a binge.
 
 [Code School](https://www.codeschool.com/) is another great resource for exposure to different subjects. Although not all subjects are free, the first lesson or two usually is.
 
@@ -46,7 +46,7 @@ https://www.codeschool.com/courses/discover-devtools
 #### Set up your SSH Keys for GitHub
 ## Using Node
 ---
-#### Lesson One
+## Lesson One
 * "strict mode"
 * comments
 * logging output
@@ -65,7 +65,7 @@ https://www.codeschool.com/courses/discover-devtools
 #### App
 * Pig Latin
 ---
-#### Lesson Two
+## Lesson Two
 * Conditionals
 * `if` / `else` pattern
 * `if`/ `else if`/ `else` pattern
@@ -75,7 +75,7 @@ https://www.codeschool.com/courses/discover-devtools
 #### App
 * Rock, Paper, Scissors
 ---
-#### Lesson Three
+## Lesson Three
 * Scope
 * Ternary Operator
 * Arrays
@@ -84,7 +84,7 @@ https://www.codeschool.com/courses/discover-devtools
 #### App
 * Tic Tac Toe
 ---
-#### Lesson Four
+## Lesson Four
 * Popular Array Methods
 * pop/push
 * shift/unshift
@@ -95,7 +95,7 @@ https://www.codeschool.com/courses/discover-devtools
 #### App
 * Towers of Hanoi
 ---
-#### Lesson Five
+## Lesson Five
 * More Operators
   * `++` / `--`
   * `+=`, `-=`, `*=`, `/=`
@@ -105,7 +105,7 @@ https://www.codeschool.com/courses/discover-devtools
 * Mastermind
 
 ---
-#### Lesson Six
+## Lesson Six
 * Object Oriented Programming (OOP)
 * Creating Classes using the Constructor Method
 * `this` context * passing in arguments to constructor
@@ -113,7 +113,7 @@ https://www.codeschool.com/courses/discover-devtools
 * Checkers
 
 ---
-#### Lesson Seven
+## Lesson Seven
 * Serving your app* jQuery
 * Asynchronous Programming
 * Callbacks
@@ -122,10 +122,10 @@ https://www.codeschool.com/courses/discover-devtools
 * Element selection
 * Element manipulation
 * `data-` attribute* Hosting on GitHub Pages
-#### App
+## App
 * Tic Tac Toe (jQuery)
 ---
-#### Lesson Eight
+## Lesson Eight
 * Popular jQuery methods
   * `.detach()`
   * `.each()`
@@ -135,7 +135,7 @@ https://www.codeschool.com/courses/discover-devtools
 #### App
 * Towers of Hanoi (jQuery)
 ---
-#### Lesson Nine
+## Lesson Nine
 * jQuery
 * `.find()`
 * Preventing Default Event
@@ -144,7 +144,7 @@ https://www.codeschool.com/courses/discover-devtools
 #### App
 * Todo
 ---
-#### Lesson Ten
+## Lesson Ten
 * jQuery
 * `.ajax()`
 * Working with JSON
@@ -153,6 +153,6 @@ https://www.codeschool.com/courses/discover-devtools
 #### App
 * Address Book
 ---
-#### Final Project!
+## Final Project!
 #### App
 * Gist Blog
