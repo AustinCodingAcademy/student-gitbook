@@ -62,6 +62,7 @@ https://www.codeschool.com/courses/discover-devtools
 * basic understanding of "truthiness" concept
 * Input Prompting
 * demonstrate use of "prompt" npm package
+
 #### App
 * Pig Latin
 ---
@@ -72,6 +73,7 @@ https://www.codeschool.com/courses/discover-devtools
 * nested conditionals* Modulo Operator
 * Named functions
 * understand decomposition method
+
 #### App
 * Rock, Paper, Scissors
 ---
@@ -81,6 +83,7 @@ https://www.codeschool.com/courses/discover-devtools
 * Arrays
 * Locating Items
 * Assigning and Replacing Items
+
 #### App
 * Tic Tac Toe
 ---
@@ -92,6 +95,7 @@ https://www.codeschool.com/courses/discover-devtools
 * keys and values
 * finding value by key
 * adding key/value
+
 #### App
 * Towers of Hanoi
 ---
@@ -109,6 +113,7 @@ https://www.codeschool.com/courses/discover-devtools
 * Object Oriented Programming (OOP)
 * Creating Classes using the Constructor Method
 * `this` context * passing in arguments to constructor
+
 #### App
 * Checkers
 
@@ -122,6 +127,7 @@ https://www.codeschool.com/courses/discover-devtools
 * Element selection
 * Element manipulation
 * `data-` attribute* Hosting on GitHub Pages
+
 ## App
 * Tic Tac Toe (jQuery)
 ---
@@ -132,6 +138,7 @@ https://www.codeschool.com/courses/discover-devtools
   * `.children()`
   * `.last()`
   * `.append() and .prepend()`
+
 #### App
 * Towers of Hanoi (jQuery)
 ---
@@ -141,6 +148,7 @@ https://www.codeschool.com/courses/discover-devtools
 * Preventing Default Event
 * jQuery UI
 * `.sortable()`
+
 #### App
 * Todo
 ---
@@ -150,9 +158,11 @@ https://www.codeschool.com/courses/discover-devtools
 * Working with JSON
 * API
 * [reqr.es clone](reqres-api.herokuapp.com)
+
 #### App
 * Address Book
 ---
 ## Final Project!
+
 #### App
 * Gist Blog
