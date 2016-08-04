@@ -16,6 +16,7 @@
 If you want to list it on your resume, Codecademy is not enough!
 * [Free books](https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md)
 * [Coursera](https://www.coursera.org/)
+* [Frontend Master](https://frontendmasters.com/courses/)
 
 ## Practice AND learning!
 * [Code Wars](https://www.codewars.com/)
