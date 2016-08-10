@@ -72,6 +72,7 @@ If you want to list it on your resume, Codecademy is not enough!
 * [CSS Selectors](http://code.tutsplus.com/tutorials/the-30-css-selectors-you-must-memorize--net-16048)
 * [Stuff You Can Do WITHOUT JavaScript](https://github.com/NamPNQ/You-Dont-Need-Javascript)
 * [Design Practice](https://99designs.com/blog/design-tutorials/25-tutorials-to-build-up-your-design-skills/)
+* [CSS Best Practices](https://make.wordpress.org/core/handbook/best-practices/coding-standards/css/)
 
 ### Fun Tools
 * [Funky Toggles](http://codepen.io/ashleynolan/pen/wBppKz)
