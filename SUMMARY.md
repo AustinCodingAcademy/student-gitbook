@@ -6,4 +6,3 @@
 * [Intermediate](intermediate.md)
 * [Advanced](advanced.md)
 * [Continuing Your Learning](continuing_your_learning.md)
-
