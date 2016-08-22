@@ -111,6 +111,7 @@ If you want to list it on your resume, Codecademy is not enough!
 * [Icons! Icons! Icons!](http://www.flaticon.com/)
 * [More Design Tools](http://www.thefreethinker.co/article/design-tools-1)
 * [Design Resources](http://rafaltomal.com/resources/)
+* [Icons Redoux](https://thenounproject.com/)
 
 #### Colors
 * [Using Accessible Colors](http://www.msfw.com/Services/ContrastRatioCalculator)
