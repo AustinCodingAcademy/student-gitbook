@@ -14,7 +14,7 @@
   * [Intro](intro.md)
   * [Intermediate](intermediate.md)
   * [Advanced](advanced.md)
-* [SanAntonio](sanantonio.md)
+* [San Antonio](sanantonio.md)
   * [Intro](intro.md)
   * [Intermediate](intermediate.md)
   * [Advanced](advanced.md)
