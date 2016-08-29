@@ -5,8 +5,11 @@ coming soon
 # Syllabus
 
 Lesson 1: Learning The Fundamentals
+
 Lesson 2: ASP.NET MVC Architecture
+
 Lesson 2: Defining the Model (ORM) – Entity Framework
+
 Lesson 3: Routes and URLs
 Lesson 3: Controllers and Actions
 Lesson 4: ASP.NET MVC Views
