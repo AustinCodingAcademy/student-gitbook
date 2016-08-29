@@ -14,7 +14,7 @@
   * [Intro](houston-intro.md)
   * [Intermediate](houston-intermediate.md)
   * [Advanced](houston-advanced.md)
-* [SanAntonio](sanantonio.md)
+* [San Antonio](sanantonio.md)
   * [Intro](sanantonio-intro.md)
   * [Intermediate](sanantonio-intermediate.md)
   * [Advanced](sanantonio-advanced.md)
