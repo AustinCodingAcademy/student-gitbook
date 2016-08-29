@@ -1,7 +1,6 @@
 # Summary
 
 * [Introduction](README.md)
-* [Resources](resources.md)
 * [Austin](austin.md)
   * [Intro](austin-intro.md)
   * [Intermediate](austin-intermediate.md)
@@ -18,3 +17,4 @@
   * [Intro](sanantonio-intro.md)
   * [Intermediate](sanantonio-intermediate.md)
   * [Advanced](sanantonio-advanced.md)
+* [Resources](resources.md)
