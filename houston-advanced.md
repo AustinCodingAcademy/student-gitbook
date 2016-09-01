@@ -1,3 +1,5 @@
+{% include "./header.md" %}
+
 # Pre-work
 
 coming soon
@@ -43,3 +45,5 @@ Lesson 10: Customizing and Extending ASP.NET MVC
 Lesson 10: Build a task based web application
 
 Course Assessment, Practice Exam and Certification Exam
+
+{% include "./footer.md" %}

@@ -1,6 +1,8 @@
+{% include "./header.md" %}
+
 # Pre-work
 
-Please visit [LearnCS.org](http://www.learncs.org/) and complete: 
+Please visit [LearnCS.org](http://www.learncs.org/) and complete:
 
 ### Learn the Basics
 * Hello, World!
@@ -55,3 +57,5 @@ Lesson 10: Debug Application and implement security
 Lesson 10: Build A Text Editor
 
 Course Assessment, Practice Exam and Certification Exam
+
+{% include "./footer.md" %}

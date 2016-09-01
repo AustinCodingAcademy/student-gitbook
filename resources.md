@@ -1,3 +1,5 @@
+{% include "./header.md" %}
+
 # Resources
 
 ## Job listings
@@ -129,3 +131,5 @@ If you want to list it on your resume, Codecademy is not enough!
 
 ## Funny
 * [Devhumor](https://devhumor.com/)
+
+{% include "./footer.md" %}

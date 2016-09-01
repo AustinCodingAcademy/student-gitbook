@@ -17,4 +17,5 @@
   * [Intro](sanantonio-intro.md)
   * [Intermediate](sanantonio-intermediate.md)
   * [Advanced](sanantonio-advanced.md)
+* [Internship](internship.md)
 * [Resources](resources.md)

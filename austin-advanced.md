@@ -1,3 +1,5 @@
+{% include "./header.md" %}
+
 # Advanced Prework
 ### Past Prework
 These should have been completed as part of the Intro and Intermediate courses. If they are not, they must be completed before the first day of class.
@@ -132,3 +134,5 @@ Create Board Model, relationships
 #### Browserify + Gulp
 #### Breaking up code into modules
 #### Foundation + Sass
+
+{% include "./footer.md" %}

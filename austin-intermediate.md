@@ -1,4 +1,4 @@
-
+{% include "./header.md" %}
 
 # Intermediate
 
@@ -175,3 +175,5 @@ Address Book
 
 #### App
 Gist Blog
+
+{% include "./footer.md" %}

@@ -1,3 +1,5 @@
+{% include "./header.md" %}
+
 # Intro
 
 ## Prework
@@ -55,3 +57,5 @@ Lesson 18 - Build Final Projects
 Lesson 19 - Build Final Projects
 
 Lesson 20 Final Project - Final Project
+
+{% include "./footer.md" %}
