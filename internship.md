@@ -14,7 +14,7 @@ As a functioning development team, we will be using tools you will commonly find
 
 ## Is There Any Compensation?
 
-While the majority of the work is open-source and unpaid, we are keeping the option of compensation and/or bounties for important projects that we need done. No proprietary or curriculum work will go unpaid.
+While the majority of the work is open-source and unpaid, we are considering the option of compensation and/or bounties for important projects that we need done. No proprietary or curriculum work will go unpaid.
 
 ## How Much Time Should I Contribute?
 
