@@ -2,6 +2,9 @@
 
 # Technology Resources
 
+[Here](https://coggle.it/diagram/52e97f8c5a143de239005d1b/56212c4e4c505e0045c0d3bda59b77e5977c2c9bd40f3fd0b451bdcf8da4aa52) is a great overview of different technologies and where they fit in the web development stack.
+
+
 ## AngularJS
 * [AngularJS by Google](https://angularjs.org/)
 * [AngularJS Tutorial](https://docs.angularjs.org/tutorial)
