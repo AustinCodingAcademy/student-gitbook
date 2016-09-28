@@ -30,5 +30,7 @@
 * [Learn Perl](http://learn-perl.org/)
 * [Perl Tutorial](http://www.perltutorial.org/)
 
+## SSL Certificates
+* [Running Discourse Over HTTPS](https://leland.me/https-discourse/)
 
 {% include "./footer.md" %}
