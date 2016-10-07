@@ -1,8 +1,11 @@
 COURSE CATALOG
 
 (1) Austin Coding Academy
+
 701 Brazos, 16th Floor
+
 Austin, Texas 78701
+
 PHONE (512) 827-8498
 
 *If you would like to have a hard copy or .pdf of this document, please email your request to Chris Lofton at clofton@austincodingacademy.com
