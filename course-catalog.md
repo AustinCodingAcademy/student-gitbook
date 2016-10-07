@@ -12,30 +12,31 @@ PHONE (512) 827-8498
 
 (2.b.) Published (October 4th, 2016)
 (2.c.) Effective (October 4th, 2016) 
+
 (3) TABLE OF CONTENTS
-¬¬
-History......……………………………………………………………………………………………………….…....……...…3
-Accreditation and Approvals...……………………………….…….………………………………………………..…3
-Description of Available Space, Facilities, and Equipment…………………………………….……......…3
-Management.……………………………………………..…….…………………………………..…………….……......…4
-Key Staff.…………………………………….…………………………………………………………..………….……......…5
-Fees and Tuition…………………..…………….……………………………………………..….……………….…......…6
-School Calendar.…………………………………….………………..……………………………………...….……......…6
-Normal Hours of Operation.…………………………………….…………………………………………...……….…7
-Admission and Enrollment Policies…………………………………….……………………………………..….…8
-Credit for Previous Education, Training, or Experience…………………………………….…………….10
-Cancellation and Refund Policies…………………………………….………………………………...……......…11
-Course Descriptions……………………………….………………………….…………....................................……..11
-A Synopsis of Each Subject Offered…………………………………….……………………………………….…12
-Course Hours…………………………….………………………….………………………………..……………….........13
-Grading System, Progress, and Probation.……………………….……………...……………….…….........…14
-Graduation…………………………………….………………………………………………………………….……….…15
-Attendance Policy……………………………………………………………….……..….……………………….......…15
-Student Conduct Policy…………………………......………………………….……………………………………….16
-Grievances……………………………………..…………………….………………………………………...……….....…17
-Placement Assistance Policy……….……………………………………………………….......................…..…….18
-Verification…………………………………….…………………………………………….…….…….........................…20
-Exhibits.…………………………………….…………………………………….……………..….……......…….Appendix
+History
+Accreditation and Approvals
+Description of Available Space, Facilities, and Equipment
+Management
+Key Staff
+Fees and Tuition
+School Calendar
+Normal Hours of Operation
+Admission and Enrollment Policies
+Credit for Previous Education, Training, or Experience
+Cancellation and Refund Policies
+Course Descriptions
+A Synopsis of Each Subject Offered
+Course Hours
+Grading System, Progress, and Probation
+Graduation
+Attendance Policy
+Student Conduct Policy
+Grievances
+Placement Assistance Policy
+Verification
+Exhibits
+
 (4) HISTORY and PHILOSOPHY
 
 History 
@@ -78,12 +79,14 @@ o	There are 2 spaces that we use.
 •	There is a flat screen TV and a projector to show demonstrations. 
 
 (7) MANAGEMENT
+
 OFFICERS, DIRECTORS, OR TRUSTEES
 
-o	Luke Filipos: Co-CEO, Director of Schools and Marketing, Luke handles much of the day to day operations including admissions, marketing and advertising, customer relations, payroll, and general growth strategy. He graduated from the University of Richmond with a degree in Psychology and worked with Southwestern, a sales training company, for 6 years and then started a textbook wholesale company with Chris Sica which still operates today. 
-o	Chris Sica: Co-CEO, Director of Business Development and Corporate Partnerships, Chris spearheads and manages corporate partnerships and outreach as well as managing growth strategy. He graduated from the University of Richmond with a degree in Bio Chemistry and worked with Southwestern, a sales training company, for 7 years and then started a textbook wholesale company with Luke Filipos.
+	o	Luke Filipos: Co-CEO, Director of Schools and Marketing, Luke handles much of the day to day operations including admissions, marketing and advertising, customer relations, payroll, and general growth strategy. He graduated from the University of Richmond with a degree in Psychology and worked with Southwestern, a sales training company, for 6 years and then started a textbook wholesale company with Chris Sica which still operates today. 
 
-o	Chris Lofton: Director of Academics, Chris oversees curriculum development with Kevin Colten and is responsible for all teacher onboarding, teacher training, quality control and student relations. Before working at ACA, Chris was a teacher with the University of Texas University Charter School Program, a teacher with KIPP in San Antonio, and a Teach For America corps member. He graduated from Texas State University with a degree in psychology.
+	o	Chris Sica: Co-CEO, Director of Business Development and Corporate Partnerships, Chris spearheads and manages corporate partnerships and outreach as well as managing growth strategy. He graduated from the University of Richmond with a degree in Bio Chemistry and worked with Southwestern, a sales training company, for 7 years and then started a textbook wholesale company with Luke Filipos.
+
+	o	Chris Lofton: Director of Academics, Chris oversees curriculum development with Kevin Colten and is responsible for all teacher onboarding, teacher training, quality control and student relations. Before working at ACA, Chris was a teacher with the University of Texas University Charter School Program, a teacher with KIPP in San Antonio, and a Teach For America corps member. He graduated from Texas State University with a degree in psychology.
 	
 
 
@@ -91,88 +94,116 @@ o	Chris Lofton: Director of Academics, Chris oversees curriculum development wit
 
 (8) KEY STAFF AND FACULTY
 
-o	Kevin Colten: Chief Technical Officer, Kevin Oversees curriculum development with Chris Lofton and is responsible for all technical tools and new material creation. Kevin graduated from Lamar University with a degree in Communications and also from App Academy with a certificate in software development. Kevin taught GED preparatory classes and some HTML material at Austin Community College’s Adult Ed program. Before working at ACA, Kevin was a senior developer at Continuum Analytics.
+	o	Kevin Colten: Chief Technical Officer, Kevin Oversees curriculum development with Chris Lofton and is responsible for all technical tools and new material creation. Kevin graduated from Lamar University with a degree in Communications and also from App Academy with a certificate in software development. Kevin taught GED preparatory classes and some HTML material at Austin Community College’s Adult Ed program. Before working at ACA, Kevin was a senior developer at Continuum Analytics.
 
-o	Cooper Dukette: Chief Financial Officer, Cooper manages all things finance including corporate budgets, evaluating new deals and partnerships, new money raising and general cash flow. He graduated from Texas A&M with a degree in finance and Acton School of Business with an MBA in Entrepreneurship. Before working at ACA he did finance consulting with small to medium sized companies in Austin.
+	o	Cooper Dukette: Chief Financial Officer, Cooper manages all things finance including corporate budgets, evaluating new deals and partnerships, new money raising and general cash flow. He graduated from Texas A&M with a degree in finance and Acton School of Business with an MBA in Entrepreneurship. Before working at ACA he did finance consulting with small to medium sized companies in Austin.
 
-o	Dan Cummins: Student Experience Coordinator, Dan graduated from the University of Richmond and has worked in the book industry. His role at ACA is to meet students’ needs. He will constantly reach out to students via surveys, phone calls, and personal meetings to ensure their success at ACA and eventually in their new jobs. 
-o	Eddie Garcia: Director of Admissions, Eddie is the point of contact for prospective students. He answers their questions and helps them decide if ACA is the right fit for them. 
-o	Nay Obeid: Marketing Specialist, Nay works with Luke in marketing and admissions. She takes part in all stages of the creative and execution process for marketing and advertising and also assists in the application process. Before working at ACA, she did freelance graphic design. Nay graduated from the American University of Beirut, in Lebanon.
+	o	Dan Cummins: Student Experience Coordinator, Dan graduated from the University of Richmond and has worked in the book industry. His role at ACA is to meet students’ needs. He will constantly reach out to students via surveys, phone calls, and personal meetings to ensure their success at ACA and eventually in their new jobs. 
+
+	o	Eddie Garcia: Director of Admissions, Eddie is the point of contact for prospective students. He answers their questions and helps them decide if ACA is the right fit for them. 
+
+	o	Nay Obeid: Marketing Specialist, Nay works with Luke in marketing and admissions. She takes part in all stages of the creative and execution process for marketing and advertising and also assists in the application process. Before working at ACA, she did freelance graphic design. Nay graduated from the American University of Beirut, in Lebanon.
+
 INSTRUCTORS
-o	Canaan Davis: Instructor, Canaan graduated from Lamar University in Beaumont, Texas. He is a full time web developer living in Austin, Texas. He currently teaches FSWD 103.  
-o	Travis Jefferson: Instructor, Travis graduated from Purdue University with a degree in Computer Engineering. He was worked as web developer for two and a half years and currently teaches FSWD 102.  
-o	Jon Woo: Instructor, Jon graduated from Texas State University with a degree in Computer Information in 2003 and has been working as a software developer since then. He is an instructor for FSWD 102.  
-o	Luke Stenis: Instructor, Luke graduated from the University of Texas with a Master’s degree in Communications. He has been working in web development for 2 years.  He currently teaches FSWD 101.  
-o	Ivo Meissner: Instructor, Ivo graduated from the University of Applied Sciences in 2011 and has been a web developer since he was 16 years old. With over 10 years of professional experience, Ivo share’s his experience in FSWD 101.  
-o	Rob Daly: Instructor, A graduate from Binghamton University, Rob has worked in web development for over a year. He augmented his coding skills with a Certificate of Completion from the Iron Yard, a full time coding bootcamp. After being a teaching assistance at the Coding Bootcamp at UT Austin for 6 months, Rob is now an instructor in FSWD 101. 
+
+	o	Canaan Davis: Instructor, Canaan graduated from Lamar University in Beaumont, Texas. He is a full time web developer living in Austin, Texas. He currently teaches FSWD 103. 
+
+	o	Travis Jefferson: Instructor, Travis graduated from Purdue University with a degree in Computer Engineering. He was worked as web developer for two and a half years and currently teaches FSWD 102.  
+
+	o	Jon Woo: Instructor, Jon graduated from Texas State University with a degree in Computer Information in 2003 and has been working as a software developer since then. He is an instructor for FSWD 102.  
+
+	o	Luke Stenis: Instructor, Luke graduated from the University of Texas with a Master’s degree in Communications. He has been working in web development for 2 years.  He currently teaches FSWD 101.  
+
+	o	Ivo Meissner: Instructor, Ivo graduated from the University of Applied Sciences in 2011 and has been a web developer since he was 16 years old. With over 10 years of professional experience, Ivo share’s his experience in FSWD 101.
+
+	o	Rob Daly: Instructor, A graduate from Binghamton University, Rob has worked in web development for over a year. He augmented his coding skills with a Certificate of Completion from the Iron Yard, a full time coding bootcamp. After being a teaching assistance at the Coding Bootcamp at UT Austin for 6 months, Rob is now an instructor in FSWD 101. 
 
 (9) FEES AND TUITION
 
 ACA’s Full Stack Web Development program is composed of 3 subjects. Each of our subjects is $2,490 for the 10 weeks of class. Tuition includes all costs of instruction with no other fees.  The entire program costs $7,470.00.
 
-•	FSWD 101 (Intro) Tuition: $2,490.00
-•	FSWD 102 (Intermediate) Tuition: $2,490.00
-•	FSWD 103 (Advanced) Tuition: $2,490.00
-•	Books: $0.00
-•	Supplies: $0.00
-•	Other Expenses: $0.00
-•	Total Cost for Entire Program: $7,470.00
+	•	FSWD 101 (Intro) Tuition: $2,490.00
+	•	FSWD 102 (Intermediate) Tuition: $2,490.00
+	•	FSWD 103 (Advanced) Tuition: $2,490.00
+	•	Books: $0.00
+	•	Supplies: $0.00
+	•	Other Expenses: $0.00
+	•	Total Cost for Entire Program: $7,470.00
+
 We allow Capital Factory to handout 2 diversity scholarships per quarter.
+
  (10) SCHOOL CALENDAR
 
 The entire course consists of 30 weeks of classes. Each subject offered is 10 weeks long and meets twice a week in the evenings, from 6:30-9:00 pm. Class is held either Monday and Wednesday or Tuesday and Thursday. All 3 subjects run concurrently. We run on a quarter system and have four sessions each year.
 
 HOLIDAYS TO BE OBSERVED 
 
-•	New Years
-•	The week in March in which South by Southwest occurs
-•	Memorial Day
-•	Independence Day
-•	Labor Day
-•	Week of Thanksgiving
-•	Time between Christmas and New Years, inclusive
+	•	New Years
+	•	The week in March in which South by Southwest occurs
+	•	Memorial Day
+	•	Independence Day
+	•	Labor Day
+	•	Week of Thanksgiving
+	•	Time between Christmas and New Years, inclusive
 
 ENROLLMENT PERIODS
+
 A student can enroll at anytime for an upcoming class. Enrollment for a class ends the day before the class begins. 
+
 BEGINNING AND ENDING DATES OF TERMS
+
 Q4 2016: Classes begin October 10th, 2016 and end December 23, 2016. 
 Q1 2017: Classes begin January 16th, 2017 and end March 21st, 2017.  
 Q2 2017: Classes begin April 17th, 2017 and end June 30th, 2017.
 Q3 2017: Classes begin July 17th, 2017 and end September 29th, 2017.
 Q4 2017: Classes begin October 9th, 2017 and end December 22nd, 2017.
+
 SCHEDULED VACATION PERIODS
+
 There will be no classes during the following time periods:
-•	December 24th, 2016 – January 15th, 2017
-•	March 22nd, 2017 – April 16th, 2017
-•	July 1st, 2017 – July 16th, 2017
-•	September 30th, 2017 – October 8th, 2017
-•	December 23rd, 2017 – January 14th, 2018
+
+	•	December 24th, 2016 – January 15th, 2017
+	•	March 22nd, 2017 – April 16th, 2017
+	•	July 1st, 2017 – July 16th, 2017
+	•	September 30th, 2017 – October 8th, 2017
+	•	December 23rd, 2017 – January 14th, 2018
 
 (11) NORMAL HOURS OF OPERATION
+
 SCHOOOL HOURS OF OPERATION
-Classes begin at 6:30 pm and end at 9:00 pm. Students should not show up earlier than 6 pm. Students must exit the building by 9:15 pm. 
+
+Classes begin at 6:30 pm and end at 9:00 pm. Students should not show up earlier than 6 pm. Students must exit the building by 9:15 pm.
+
 SCHOOL OFFICE OHOURS OF OPERATION
+
 There is a Student Experience Coordinator assigned to the students. The coordinator is available to the student from 9 am – 5 pm Monday through Friday and available via email and phone during off hours. The Student Experience Coordinator consistently checks in with students and supports them on their learning path.  
+
 CLASS SCHEDULES 
-•	FULL STACK WEB DEVELOPMENT (INTRO)
-o	Section 1 
-•	Mondays and Wednesdays 6:30 – 9:00 pm
-o	Section 2
-•	Tuesdays and Thursdays 6:30 – 9:00 pm
 
-•	FULL STACK WEB DEVELOPMENT (INTERMEDIATE)
-o	Section 1 
-•	Mondays and Wednesdays 6:30 – 9:00 pm
+	•	FULL STACK WEB DEVELOPMENT (INTRO)
+		o	Section 1 
+	•	Mondays and Wednesdays 6:30 – 9:00 pm
+		o	Section 2
+	•	Tuesdays and Thursdays 6:30 – 9:00 pm
 
-•	FULL STACK WEB DEVLOPMENT (ADVANCED)
-o	Section 1
-•	Tuesdays and Thursdays 6:30 – 9:00 pm
+	•	FULL STACK WEB DEVELOPMENT (INTERMEDIATE)
+		o	Section 1 
+	•	Mondays and Wednesdays 6:30 – 9:00 pm
+
+	•	FULL STACK WEB DEVLOPMENT (ADVANCED)
+		o	Section 1
+	•	Tuesdays and Thursdays 6:30 – 9:00 pm
 
 *More sections of each course may be offered based on sufficient enrollment for a subject. 
+
 BREAKS
+
 Students are given a 5-10 minute break halfway through classes. 
+
 MEALTIMES
+
 There are no meal times, but students may bring food or drinks to take care of their needs throughout the class period. 
+
 (12) ADMISSION/ENROLLMENT POLICIES
 
 The minimum age requirement at Austin Coding Academy is 18 years old. Students must have a high school diploma or GED. In order to be qualified for admission, students must pass the ACA Python coding assignment and an essay assignment. The ACA Python coding assignment includes sample code, and students must explain each line of code. If 80% (14 lines) of the lines of code are explained correctly, students pass the ACA Python coding assignment.  Students must also write a 1-2 page essay. A student passes the essay assignment by writing at least 1 page of coherent, grammatically correct text.
@@ -203,6 +234,7 @@ Explain each line of code using the Internet as a resource.
 18	print "All done!"
 
 Python Coding Assignment Sample Solution
+
 Line 1 is defining the variable “first num” to be the raw input, the actual number that is inputted. Also it is a prompt for the user to input the first number.
 Line 2 is defining the variable “sec num” to be the raw input, the actual number that is inputted. Also it is a prompt for the user to input the second number.
 Line 3 is a break.
@@ -235,6 +267,7 @@ Please complete 1 of the 2 essay prompts below. Most students take about two pag
 Upon application to the director of admissions and demonstration of the proficiency in the elements that will be taught in the FULL STACK WEB DEVELOPMENT (INTRO), a student may be granted admission to FULL STACK WEB DEVELOPMENT (INTERMEDIATE). Upon application to the director of admissions and demonstration of the proficiency in the elements that will be taught in the FULL STACK WEB DEVELOPMENT (INTRO) and FULL STACK WEB DEVELOPMENT (INTERMEDIATE), a student may be granted admission to FULL STACK WEB DEVELOPMENT (ADVANCED).
 
 (15) CANCELLATION AND REFUND POLICIES
+
 See Appendix 1 for full Refund and Cancellation Policies.
 
 (16) COURSE DESCRIPTIONS
@@ -290,68 +323,78 @@ Subject Description:	The purpose of this subject is to teach students how to bui
 
 Program Outline: Full Stack Web Development
 The program consists of completing the following 3 subjects:
-•	FULL STACK WEB DECELOPMENT (INTRO) - HTML, CSS, Git, and Responsive Web Design
-o	50 Clock Hours
-o	10 Weeks
-•	FULL STACK WEB DEVELOPMENT (INTERMEDIATE) – JavsaScript, jQuery, and Object-Oriented Design
-o	50 Clock Hours
-o	10 Weeks
-•	FULL STACK WEB DEVELOPMENT (ADVANCED) - Full Stack Web Development: MongoDB, Backbone, Node, and Express
-o	50 Clock Hours
-o	10 Weeks
+	•	FULL STACK WEB DECELOPMENT (INTRO) - HTML, CSS, Git, and Responsive Web Design
+		o	50 Clock Hours
+		o	10 Weeks
+	•	FULL STACK WEB DEVELOPMENT (INTERMEDIATE) – JavsaScript, jQuery, and Object-Oriented Design
+		o	50 Clock Hours
+		o	10 Weeks
+	•	FULL STACK WEB DEVELOPMENT (ADVANCED) - Full Stack Web Development: MongoDB, Backbone, Node, and Express
+		o	50 Clock Hours
+		o	10 Weeks
+	
 (18) GRADING SYSTEM, PROGRESS POLICY, AND PROBATION
 
 Our teaching methodology is designed to build learning habits that last well beyond a student’s time with us in class. By valuing questions over answers and process over results in class, we develop students who excel at finding answers and producing results throughout their careers. 
+
 GRADING SYSTEM
+
 All assignments are graded. This includes homework, in-class projects, and the final project. Instructors create a rubric for each assignment and use it to assign a grade to each assignment. Grades are stored online using our campus management system called Campus Manager. When students login to Campus Manager, they can see their course average and grade on each assignment.
+
 PROGRESS POLICY
+
 Satisfactory progress means completing all assignments and scoring an average of 70% or higher. 
 Progress evaluation occurs once a week when instructors grade assignments and share feedback with students. 2-4 times throughout the course, a “checkpoint” is given to students which is equivalent to a test. The checkpoints ensure all students have accomplished all learning objectives. Failure to meet a learning objective will result in a tutoring session. At the end of each subject, students who completed the curriculum will receive a certificate showing they passed the subject and detailing that level of proficiency; additionally, we have an exit consultation with each student to help them figure out the next step, whether that is moving forward on a track with us, continuing their education on their own, launching a project, or finding employment. 
 
 
 PROBATION
-•	If students do not display satisfactory progress, students will be placed on an improvement plan and work closely with our temporary instructors to improve. Students will be placed on probation for unsatisfactory progress if their course average remains below 70% for 3 weeks and students do not attempt to raise their average by redoing unacceptable assignments. 
-•	A student who remains on probation for 3 weeks and does complete and correct assignments to increase his or her average to 70% or above will be terminated from the class and may not be readmitted until a minimum of one grading period has passed, pursuant to Title 40, Texas Administrative Code, Section 807.221-224.
-•	Students will be directed to look at their course average once a week and have continuous access to their grades via our Campus Manager application. 
-•	Students will be marked Incomplete if they do not finish all required work for a subject. If students return within 12 months, they may complete the work and receive credit at no additional cost. 
-•	A student who is obligated for the full tuition may request a grade of Incomplete if the student withdraws for an appropriate reason unrelated to the students’ academic status, pursuant to Texas Education Code, Section 132.061(f).
-•	Students will be marked Withdrawal if they leave the school and give verbal notice that they are not coming back or if they miss 6 consecutive class days. 
-•	Students who do not finish all required assignments and maintain a course average above 70% will be assigned to “Repeat Subject”. 
-•	Students may complete “Remedial Work” to make up for unsatisfactory progress either during a subject or after a subject completion. Their “Remedial Work” will be reviewed and a determination will be made as to whether they will be allowed to continue with the program. 
- (19) GRADUATION
-•	Students are recognized when they complete all 3 subjects: FSWD 101, FSWD 102, or FSWD103 by completing all required work for that subject and maintaining an average at 70% or above. 
-•	Upon completion of the entire program, students will be given a Certificate of Completion.
-•	A person graduates by completing each of the 3 subjects in the program. 
+
+	•	If students do not display satisfactory progress, students will be placed on an improvement plan and work closely with our temporary instructors to improve. Students will be placed on probation for unsatisfactory progress if their course average remains below 70% for 3 weeks and students do not attempt to raise their average by redoing unacceptable assignments. 
+	•	A student who remains on probation for 3 weeks and does complete and correct assignments to increase his or her average to 70% or above will be terminated from the class and may not be readmitted until a minimum of one grading period has passed, pursuant to Title 40, Texas Administrative Code, Section 807.221-224.
+	•	Students will be directed to look at their course average once a week and have continuous access to their grades via our Campus Manager application. 
+	•	Students will be marked Incomplete if they do not finish all required work for a subject. If students return within 12 months, they may complete the work and receive credit at no additional cost. 
+	•	A student who is obligated for the full tuition may request a grade of Incomplete if the student withdraws for an appropriate reason unrelated to the students’ academic status, pursuant to Texas Education Code, Section 132.061(f).
+	•	Students will be marked Withdrawal if they leave the school and give verbal notice that they are not coming back or if they miss 6 consecutive class days. 
+	•	Students who do not finish all required assignments and maintain a course average above 70% will be assigned to “Repeat Subject”. 
+	•	Students may complete “Remedial Work” to make up for unsatisfactory progress either during a subject or after a subject completion. Their “Remedial Work” will be reviewed and a determination will be made as to whether they will be allowed to continue with the program. 
+	 (19) GRADUATION
+	•	Students are recognized when they complete all 3 subjects: FSWD 101, FSWD 102, or FSWD103 by completing all required work for that subject and maintaining an average at 70% or above. 
+	•	Upon completion of the entire program, students will be given a Certificate of Completion.
+	•	A person graduates by completing each of the 3 subjects in the program. 
 
 (20) ATTENDANCE POLICY
 
 Students are expected to attend each of the 60 classes offered over the 30-week period of each subject. All tests missed must be taken on the first day of attendance after the absence. A school shall charge for a full day of absence when the student fails to attend all of the scheduled class on that day. A student who misses more than 10% of class hours will be placed on attendance probation with conditions stipulated by the school director. Enrollment in the program will be *terminated for a student who is absent for more than 25% (37.5 hours) of the class hours of the program. Five tardies to class will be counted as one absence. A student whose enrollment was terminated due to unsatisfactory attendance may reenroll on attendance probation in a subsequent term in the next 12 calendar months. Such reenrollment does not circumvent the approved refund policy. If the reenrolled student on attendance probation is absent for more than 25% of the class hours, the student's enrollment in the program will be *terminated, and the student will not be readmitted to the program. This policy will be strictly enforced absent exigent circumstances.
+
 *ACA will not terminate the enrollment of a student for lack of attendance at a point at which a refund would not be due.
+
 (21) STUDENT CONDUCT POLICY 
 
 Students on the ACA campus are expected to behave in a manner that will create a safe and orderly academic environment for themselves and others. Students found in violation of these conduct expectations will be subject to disciplinary action which may include a written warning, dismissal, and/or referral to law enforcement officials. Below is a partial list of inappropriate behaviors that will be subject to disciplinary action. This list is not all-inclusive.	
 
-•	Academic dishonesty, including any form of plagiarism, cheating, falsification of records, or collaboration with others to defraud
-•	Actions that disrupt teaching, learning, administration, or interfere with the rights of others.
-•	Non-compliance with the directives of school faculty and staff
-•	Violation of written policies, rules, or procedures
-•	Theft of any kind, and related behaviors such as possessing stolen property or using the property of others without their permission.
-•	Damage to property or destruction of property 
-•	Creation of unsafe conditions
-•	Carrying out a false alarm or creating an emergency situation such as a fire or a bomb threat.
-•	Hurting others, threatening others, or engaging in behavior that may result in harm to others
-•	Selling, consuming, and/or possessing alcoholic beverages
-•	Possessing or using drugs not prescribed for the student by a physician; selling any drugs; possessing or using illegal drugs or narcotics
-•	Possessing a firearm or other deadly or dangerous weapons such as knives, knuckles, clubs, baseball bats, and hammers while on the property of the school or in any part of the school building
-•	Sexual harassment in any form by students or any member of the administration, faculty, or staff is prohibited. The school is committed to creating and maintaining an environment for all school personnel and students that is free of harassment, forced sexual activity, or any other sexual communication or conduct that interferes with performance in the classroom or the workplace
-o	Sexual Harassment Defined
-•	Unwelcome sexual advances, requests for sexual favors, and other verbal or physical conduct of a sexual nature constitute sexual harassment when:
-•	submission to such conduct is made either explicitly or implicitly a term or condition of an individual's employment,
-•	submission to or rejection of such conduct by an individual is used as the basis for employment decisions affecting such individuals, or
-•	such conduct has the purpose or effect of unreasonably interfering with an individual's work performance or creating an intimidating, hostile, or offensive working environment.
-•	
+	•	Academic dishonesty, including any form of plagiarism, cheating, falsification of records, or collaboration with others to defraud
+	•	Actions that disrupt teaching, learning, administration, or interfere with the rights of others.
+	•	Non-compliance with the directives of school faculty and staff
+	•	Violation of written policies, rules, or procedures
+	•	Theft of any kind, and related behaviors such as possessing stolen property or using the property of others without their permission.
+	•	Damage to property or destruction of property 
+	•	Creation of unsafe conditions
+	•	Carrying out a false alarm or creating an emergency situation such as a fire or a bomb threat.
+	•	Hurting others, threatening others, or engaging in behavior that may result in harm to others
+	•	Selling, consuming, and/or possessing alcoholic beverages
+	•	Possessing or using drugs not prescribed for the student by a physician; selling any drugs; possessing or using illegal drugs or narcotics
+	•	Possessing a firearm or other deadly or dangerous weapons such as knives, knuckles, clubs, baseball bats, and hammers while on the property of the school or in any part of the school building
+	•	Sexual harassment in any form by students or any member of the administration, faculty, or staff is prohibited. The school is committed to creating and maintaining an environment for all school personnel and students that is free of harassment, forced sexual activity, or any other sexual communication or conduct that interferes with performance in the classroom or the workplace
+	o	Sexual Harassment Defined
+	•	Unwelcome sexual advances, requests for sexual favors, and other verbal or physical conduct of a sexual nature constitute sexual harassment when:
+	•	submission to such conduct is made either explicitly or implicitly a term or condition of an individual's employment,
+	•	submission to or rejection of such conduct by an individual is used as the basis for employment decisions affecting such individuals, or
+	•	such conduct has the purpose or effect of unreasonably interfering with an individual's work performance or creating an intimidating, hostile, or offensive working environment.
+
 Reenrollment after Dismissal for Violation of Student Conduct Expectations
+
 After one six-week term has elapsed, a student whose enrollment was terminated for violation of student conduct expectations that did not result in the involvement of law enforcement officials will have one opportunity for reenrollment in a subsequent term in the next 12 calendar months.
+
  (22) GRIEVANCES 
 
 IT IS THE SCHOOL'S POLICY TO RESOLVE STUDENT GRIEVANCES BY WORKING DIRECTLY WITH  THE STUDENT, INSTRUCTOR, AND OTHER AFFECTED STUDENT(S). STUDENTS WITH UNRESOLVED GRIEVANCES MAY CONTACT:
@@ -361,9 +404,7 @@ Career Schools and Colleges, Room 226T
 101 East 15th Street
 Austin, Texas 78778-0001
 Phone: (512) 936-6959
-http://csc.twc.state.tx.us/
-	
-
+[http://csc.twc.state.tx.us/](http://csc.twc.state.tx.us/)
 
 
 (23) PLACEMENT ASSISTANCE POLICY
@@ -399,8 +440,6 @@ Job placement assistance is available at no charge for all students who are awar
 
 I hereby certify that the statements and information in this catalog are true and correct to the best of my knowledge and belief.
 
-
-_____________________________
 Luke Filipos
 
  
@@ -413,28 +452,28 @@ A full refund will be made to any student who cancels the enrollment contract wi
 
 REFUND POLICY
 
-1.	Refund computations will be based on scheduled course time of classes through the last documented day of an academically related activity. Leaves of absence, suspensions and school holidays will not be counted as part of the scheduled classes. 
-2.	The effective date of termination for refund purposes will be the earliest of the following: 
-a.	 the date of termination, if the student is terminated by the school;
-b.	 the date of receipt of written notice from the student; or 
-c.	the first of the following dates when the student’s participation in an academically related activity cannot be documented: at the end of the first week of each academic term, at the end of the first month of each academic term, at the midpoint of each academic term, and at the end of each academic term.
-3.	If tuition and fees are collected in advance of entrance, and if after expiration of the 72 hour cancellation privilege the student does not enter school, not more than $100 in any administrative fees charged shall be retained by the school for the entire residence program.
-4.	If a student enters a residence and withdraws or is otherwise terminated, the school or college may retain not more than $100 in administrative fees charged for the entire program. The minimum refund of the remaining tuition and fees will be the pro rata portion of tuition, fees, and other charges that the number of hours remaining in the portion of the course or program for which the student has been charged after the effective date of termination bears to the total number of hours in the portion of the course or program for which the student has been charged, except that a student may not collect a refund if the student has completed 75 percent or more of the total number of hours in the portion of the program for which the student has been charged on the effective date of termination. 
-5.	Refunds for items of extra expense to the student, such as books, tools, or other supplies should be handled separately from refund of tuition and other academic fees. The student will not be required to purchase instructional supplies, books and tools until such time as these materials are required. Once these materials are purchased, no refund will be made. For full refunds, the school can withhold costs for these types of items from the refund as long as they were necessary for the portion of the program attended and separately stated in the enrollment agreement. Any such items not required for the portion of the program attended must be included in the refund. 
-6.	A student who withdraws for a reason unrelated to the student’s academic status after the 75 percent completion mark and requests a grade at the time of withdrawal shall be given a grade of “incomplete” and permitted to reenroll in the course or program during the 12-month period following the date the student withdrew without payment of additional tuition for that portion of the course or program.
-7.	A full refund of all tuition and fees is due and refundable in each of the following cases:
-a.	an enrollee is not accepted by the school; 
-b.	if the course of instruction is discontinued by the school and this prevents the student from completing the course; or 
-c.	if the student's enrollment was procured as a result of any misrepresentation in advertising, promotional materials of the school, or representations by the owner or representatives of the school. 
+	1.	Refund computations will be based on scheduled course time of classes through the last documented day of an academically related activity. Leaves of absence, suspensions and school holidays will not be counted as part of the scheduled classes. 
+	2.	The effective date of termination for refund purposes will be the earliest of the following: 
+		a.	 the date of termination, if the student is terminated by the school;
+		b.	 the date of receipt of written notice from the student; or 
+		c.	the first of the following dates when the student’s participation in an academically related activity cannot be documented: at the end of the first week of each academic term, at the end of the first month of each academic term, at the midpoint of each academic term, and at the end of each academic term.
+	3.	If tuition and fees are collected in advance of entrance, and if after expiration of the 72 hour cancellation privilege the student does not enter school, not more than $100 in any administrative fees charged shall be retained by the school for the entire residence program.
+	4.	If a student enters a residence and withdraws or is otherwise terminated, the school or college may retain not more than $100 in administrative fees charged for the entire program. The minimum refund of the remaining tuition and fees will be the pro rata portion of tuition, fees, and other charges that the number of hours remaining in the portion of the course or program for which the student has been charged after the effective date of termination bears to the total number of hours in the portion of the course or program for which the student has been charged, except that a student may not collect a refund if the student has completed 75 percent or more of the total number of hours in the portion of the program for which the student has been charged on the effective date of termination. 
+	5.	Refunds for items of extra expense to the student, such as books, tools, or other supplies should be handled separately from refund of tuition and other academic fees. The student will not be required to purchase instructional supplies, books and tools until such time as these materials are required. Once these materials are purchased, no refund will be made. For full refunds, the school can withhold costs for these types of items from the refund as long as they were necessary for the portion of the program attended and separately stated in the enrollment agreement. Any such items not required for the portion of the program attended must be included in the refund. 
+	6.	A student who withdraws for a reason unrelated to the student’s academic status after the 75 percent completion mark and requests a grade at the time of withdrawal shall be given a grade of “incomplete” and permitted to reenroll in the course or program during the 12-month period following the date the student withdrew without payment of additional tuition for that portion of the course or program.
+	7.	A full refund of all tuition and fees is due and refundable in each of the following cases:
+		a.	an enrollee is not accepted by the school; 
+		b.	if the course of instruction is discontinued by the school and this prevents the student from completing the course; or 
+		c.	if the student's enrollment was procured as a result of any misrepresentation in advertising, promotional materials of the school, or representations by the owner or representatives of the school. 
 
 A full or partial refund may also be due in other circumstances of program deficiencies or violations of requirements for career schools and colleges.
 
 REFUND POLICY FOR STUDENTS CALLED TO ACTIVE MILITARY SERVICE
 
-8.	A student of the school or college who withdraws from the school or college as a result of the student being called to active duty in a military service of the United States or the Texas National Guard may elect one of the following options for each program in which the student is enrolled:
-a.	if tuition and fees are collected in advance of the withdrawal, a pro rata refund of any tuition, fees, or other charges paid by the student for the program and a cancellation of any unpaid tuition, fees, or other charges owed by the student for the portion of the program the student does not complete following withdrawal;
-b.	a grade of incomplete with the designation "withdrawn-military" for the courses in the program, other than courses for which the student has previously received a grade on the student's transcript, and the right to re-enroll in the program, or a substantially equivalent program if that program is no longer available, not later than the first anniversary of the date the student is discharged from active military duty without payment of additional tuition, fees, or other charges for the program other than any previously unpaid balance of the original tuition, fees, and charges for books for the program; or
-c.	the assignment of an appropriate final grade or credit for the courses in the program, but only if the instructor or instructors of the program determine that the student has: (1) 
-i.	satisfactorily completed at least 90 percent of the required coursework for the program; and 
-ii.	demonstrated sufficient mastery of the program material to receive credit for completing the program. 
-9.	The payment of refunds will be totally completed such that the refund instrument has been negotiated or credited into the proper account(s) within 60 days after the effective date of termination.
+	8.	A student of the school or college who withdraws from the school or college as a result of the student being called to active duty in a military service of the United States or the Texas National Guard may elect one of the following options for each program in which the student is enrolled:
+		a.	if tuition and fees are collected in advance of the withdrawal, a pro rata refund of any tuition, fees, or other charges paid by the student for the program and a cancellation of any unpaid tuition, fees, or other charges owed by the student for the portion of the program the student does not complete following withdrawal;
+		b.	a grade of incomplete with the designation "withdrawn-military" for the courses in the program, other than courses for which the student has previously received a grade on the student's transcript, and the right to re-enroll in the program, or a substantially equivalent program if that program is no longer available, not later than the first anniversary of the date the student is discharged from active military duty without payment of additional tuition, fees, or other charges for the program other than any previously unpaid balance of the original tuition, fees, and charges for books for the program; or
+		c.	the assignment of an appropriate final grade or credit for the courses in the program, but only if the instructor or instructors of the program determine that the student has: (1) 
+			i.	satisfactorily completed at least 90 percent of the required coursework for the program; and 
+			ii.	demonstrated sufficient mastery of the program material to receive credit for completing the program. 
+	9.	The payment of refunds will be totally completed such that the refund instrument has been negotiated or credited into the proper account(s) within 60 days after the effective date of termination.
