@@ -54,29 +54,29 @@ Austin Coding Academy is Approved and Regulated by the Texas Workforce Commissio
 
 (6) DESCRIPTION OF AVAILABLE SPACE, FACILITES, AND EQUIPMENT
 
-•	Location: Capital Factory, 701 Brazos St, 16th floor, Austin, TX 78701. 
-o	2 large classrooms
-•	Equipment
-o	Microphone
-o	Expo Markers 
-o	Campus Manager – our attendance and grading management system
-o	Git-Hub – an online software management service
-o	Rocket Chat – team communication software
-o	Git-Book – a software we use to host our curriculum
-o	Atom – text editor
-o	Students must bring their own laptops to class. 
+* Location: Capital Factory, 701 Brazos St, 16th floor, Austin, TX 78701. 
+	* 2 large classrooms
+* Equipment
+	* Microphone
+	* Expo Markers 
+	* Campus Manager – our attendance and grading management system
+	* Git-Hub – an online software management service
+	* Rocket Chat – team communication software
+	* Git-Book – a software we use to host our curriculum
+	* Atom – text editor
+	* Students must bring their own laptops to class. 
 
-•	Description of Classroom
-o	Our Capital Factory locations allows us to maximize learning outcomes for our students by providing us appropriate classroom space.
-o	There are 2 spaces that we use.
-•	Classroom 1 
-•	An estimated 600 square feet
-•	There is ample room to work and plug in laptops. 
-•	There is white wall to project the lesson and code examples. 
-•	Classroom 2
-•	An estimated 500 square feet
-•	There is ample room to work and plug in laptops. 
-•	There is a flat screen TV and a projector to show demonstrations. 
+* Description of Classroom
+	* Our Capital Factory locations allows us to maximize learning outcomes for our students by providing us appropriate classroom space.
+* There are 2 spaces that we use.
+* Classroom 1 
+	* An estimated 600 square feet
+	* There is ample room to work and plug in laptops. 
+	* There is white wall to project the lesson and code examples. 
+* Classroom 2
+	* An estimated 500 square feet
+	* There is ample room to work and plug in laptops. 
+	* There is a flat screen TV and a projector to show demonstrations. 
 
 (7) MANAGEMENT
 
