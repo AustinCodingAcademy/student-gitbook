@@ -5,7 +5,7 @@ COURSE CATALOG
 Austin, Texas 78701
 PHONE (512) 827-8498
 
-
+*If you would like to have a hard copy or .pdf of this document, please email your request to Chris Lofton at clofton@austincodingacademy.com
 
 (2.a.) Catalog Volume 001
 
@@ -282,7 +282,7 @@ FULL STACK WEB DEVELOPMENT
 	FSWD 101	Full Stack Web Development (Intro)	40/10/50
 	FSWD 102	Full Stack Web Development (Intermediate)	40/10/50
 	FSWD 103	Full Stack Web Development (Advanced)	40/10/50
-		Total Hours for Program Completion	120/30/150
+	Total Hours for Program Completion	120/30/150
 
 The course lasts for 30 weeks. Each subject takes 10 weeks. Students must complete all major projects in order to be eligible for graduation. Students will receive a Certificate of Completion upon satisfactory completion of the course.  
 
