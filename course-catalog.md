@@ -14,28 +14,28 @@ PHONE (512) 827-8498
 (2.c.) Effective (October 4th, 2016) 
 
 (3) TABLE OF CONTENTS
-	* History
-	* Accreditation and Approvals
-	* Description of Available Space, Facilities, and Equipment
-	* Management
-	* Key Staff
-	* Fees and Tuition
-	* School Calendar
-	* Normal Hours of Operation
-	* Admission and Enrollment Policies
-	* Credit for Previous Education, Training, or Experience
-	* Cancellation and Refund Policies
-	* Course Descriptions
-	* A Synopsis of Each Subject Offered
-	* Course Hours
-	* Grading System, Progress, and Probation
-	* Graduation
-	* Attendance Policy
-	* Student Conduct Policy
-	* Grievances
-	* Placement Assistance Policy
-	* Verification
-	* Exhibits
+		* History
+		* Accreditation and Approvals
+		* Description of Available Space, Facilities, and Equipment
+		* Management
+		* Key Staff
+		* Fees and Tuition
+		* School Calendar
+		* Normal Hours of Operation
+		* Admission and Enrollment Policies
+		* Credit for Previous Education, Training, or Experience
+		* Cancellation and Refund Policies
+		* Course Descriptions
+		* A Synopsis of Each Subject Offered
+		* Course Hours
+		* Grading System, Progress, and Probation
+		* Graduation
+		* Attendance Policy
+		* Student Conduct Policy
+		* Grievances
+		* Placement Assistance Policy
+		* Verification
+		* Exhibits
 
 (4) HISTORY and PHILOSOPHY
 
