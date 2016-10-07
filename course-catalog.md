@@ -14,28 +14,28 @@ PHONE (512) 827-8498
 (2.c.) Effective (October 4th, 2016) 
 
 (3) TABLE OF CONTENTS
-History
-Accreditation and Approvals
-Description of Available Space, Facilities, and Equipment
-Management
-Key Staff
-Fees and Tuition
-School Calendar
-Normal Hours of Operation
-Admission and Enrollment Policies
-Credit for Previous Education, Training, or Experience
-Cancellation and Refund Policies
-Course Descriptions
-A Synopsis of Each Subject Offered
-Course Hours
-Grading System, Progress, and Probation
-Graduation
-Attendance Policy
-Student Conduct Policy
-Grievances
-Placement Assistance Policy
-Verification
-Exhibits
+	History
+	Accreditation and Approvals
+	Description of Available Space, Facilities, and Equipment
+	Management
+	Key Staff
+	Fees and Tuition
+	School Calendar
+	Normal Hours of Operation
+	Admission and Enrollment Policies
+	Credit for Previous Education, Training, or Experience
+	Cancellation and Refund Policies
+	Course Descriptions
+	A Synopsis of Each Subject Offered
+	Course Hours
+	Grading System, Progress, and Probation
+	Graduation
+	Attendance Policy
+	Student Conduct Policy
+	Grievances
+	Placement Assistance Policy
+	Verification
+	Exhibits
 
 (4) HISTORY and PHILOSOPHY
 
@@ -152,11 +152,11 @@ A student can enroll at anytime for an upcoming class. Enrollment for a class en
 
 BEGINNING AND ENDING DATES OF TERMS
 
-Q4 2016: Classes begin October 10th, 2016 and end December 23, 2016. 
-Q1 2017: Classes begin January 16th, 2017 and end March 21st, 2017.  
-Q2 2017: Classes begin April 17th, 2017 and end June 30th, 2017.
-Q3 2017: Classes begin July 17th, 2017 and end September 29th, 2017.
-Q4 2017: Classes begin October 9th, 2017 and end December 22nd, 2017.
+	Q4 2016: Classes begin October 10th, 2016 and end December 23, 2016. 
+	Q1 2017: Classes begin January 16th, 2017 and end March 21st, 2017.  
+	Q2 2017: Classes begin April 17th, 2017 and end June 30th, 2017.
+	Q3 2017: Classes begin July 17th, 2017 and end September 29th, 2017.
+	Q4 2017: Classes begin October 9th, 2017 and end December 22nd, 2017.
 
 SCHEDULED VACATION PERIODS
 
@@ -214,46 +214,46 @@ Python Coding Assignment
 
 Explain each line of code using the Internet as a resource.
 
-1	first_num = raw_input("Please input first number: ")  
-2	sec_num = raw_input("Please input second number: ")  
-3  
-4	answer = int(first_num) + int(sec_num)  
-5  
-6	print "Now I will add your two numbers: ", answer  
-7  
-8	print "Pretty cool, huh?"  
-9  
-10	print "Now I'll count backwards from ", answer  
-11  
-12	counter = answer  
-13  
-14	while (counter >= 0):  
-15		print counter  
-16		counter = counter - 1  
-17  
-18	print "All done!"
+	1	first_num = raw_input("Please input first number: ")  
+	2	sec_num = raw_input("Please input second number: ")  
+	3  
+	4	answer = int(first_num) + int(sec_num)  
+	5  
+	6	print "Now I will add your two numbers: ", answer  
+	7  
+	8	print "Pretty cool, huh?"  
+	9  
+	10	print "Now I'll count backwards from ", answer  
+	11  
+	12	counter = answer  
+	13  
+	14	while (counter >= 0):  
+	15		print counter  
+	16		counter = counter - 1  
+	17  
+	18	print "All done!"
 
 Python Coding Assignment Sample Solution
 
-Line 1 is defining the variable “first num” to be the raw input, the actual number that is inputted. Also it is a prompt for the user to input the first number.
-Line 2 is defining the variable “sec num” to be the raw input, the actual number that is inputted. Also it is a prompt for the user to input the second number.
-Line 3 is a break.
-Line 4 is defining the variable “answer” to be the sum of the integer for the variable “first num” and the integer for the variable “second num”
-Line 5 is a break
-Line 6 is telling the system to display “No I will add your two numbers:” and leaving a space at the end to put the number which defines the variable “answer” which is the sum of the 2 inputted numbers.
-Line 7 is a break
-Line 8 is telling the system to display “Pretty cool, huh?”
-Line 9 is a break
-Line 10 is telling the system to display “No I’ll count backwards from…the number defining the variable “answer” which is the sum of the 2 inputted numbers. 
-Line 11 is a break.
-Line 12 is defining the variable “counter” to be the variable “answer” which is the sum of the 2 inputted numbers.
-Line 13 is a break
-Line 14 is establishing the conditions for the loop function to be while the counter is less than or equal to 0, the loop function will run.
-Line 15 is telling the system to display the number which is the solution to the “counter” variable.
-Line 16 is defining the variable “counter” to be one less than the previous counter.
-Line 14 – 16 is a loop function which counts down from the sum of the 2 inserted numbers. It will stop after 0 because 0-1=-1, and -1 is not >=0.
-Line 17 is a break
-Line 18 is telling the system to display “All done!”
+	Line 1 is defining the variable “first num” to be the raw input, the actual number that is inputted. Also it is a prompt for the user to input the first number.
+	Line 2 is defining the variable “sec num” to be the raw input, the actual number that is inputted. Also it is a prompt for the user to input the second number.
+	Line 3 is a break.
+	Line 4 is defining the variable “answer” to be the sum of the integer for the variable “first num” and the integer for the variable “second num”
+	Line 5 is a break
+	Line 6 is telling the system to display “No I will add your two numbers:” and leaving a space at the end to put the number which defines the variable “answer” which is the sum of the 2 inputted numbers.
+	Line 7 is a break
+	Line 8 is telling the system to display “Pretty cool, huh?”
+	Line 9 is a break
+	Line 10 is telling the system to display “No I’ll count backwards from…the number defining the variable “answer” which is the sum of the 2 inputted numbers. 
+	Line 11 is a break.
+	Line 12 is defining the variable “counter” to be the variable “answer” which is the sum of the 2 inputted numbers.
+	Line 13 is a break
+	Line 14 is establishing the conditions for the loop function to be while the counter is less than or equal to 0, the loop function will run.
+	Line 15 is telling the system to display the number which is the solution to the “counter” variable.
+	Line 16 is defining the variable “counter” to be one less than the previous counter.
+	Line 14 – 16 is a loop function which counts down from the sum of the 2 inserted numbers. It will stop after 0 because 0-1=-1, and -1 is not >=0.
+	Line 17 is a break
+	Line 18 is telling the system to display “All done!”
 
 
 ACA Essay Assignment
@@ -273,14 +273,16 @@ See Appendix 1 for full Refund and Cancellation Policies.
 (16) COURSE DESCRIPTIONS
 
 FULL STACK WEB DEVELOPMENT 
+
 The purpose of this program is to prepare students for an entry-level software developer position. Graduates may find suitable employment in companies utilizing web development technology such as banks, marketing firms, software development companies, military institutions, design shops, etc. Graduates may also freelance, which means that they take on contract work to design websites and engineer web applications.  Additionally graduates may use their knowledge to build proprietary software and start their own companies. Upon completion of this program, students will be able to build full stack web applications similar to Trello, Twitter, or Facebook.
+
 FULL STACK WEB DEVELOPMENT
-Subject #	Subject Title	Class Time Hours
-Lec/Lab/Total
-FSWD 101	Full Stack Web Development (Intro)	40/10/50
-FSWD 102	Full Stack Web Development (Intermediate)	40/10/50
-FSWD 103	Full Stack Web Development (Advanced)	40/10/50
-	Total Hours for Program Completion	120/30/150
+
+	Subject #	Subject Title	Class Time Hours Lec/Lab/Total
+	FSWD 101	Full Stack Web Development (Intro)	40/10/50
+	FSWD 102	Full Stack Web Development (Intermediate)	40/10/50
+	FSWD 103	Full Stack Web Development (Advanced)	40/10/50
+		Total Hours for Program Completion	120/30/150
 
 The course lasts for 30 weeks. Each subject takes 10 weeks. Students must complete all major projects in order to be eligible for graduation. Students will receive a Certificate of Completion upon satisfactory completion of the course.  
 
@@ -357,7 +359,8 @@ PROBATION
 	•	Students will be marked Withdrawal if they leave the school and give verbal notice that they are not coming back or if they miss 6 consecutive class days. 
 	•	Students who do not finish all required assignments and maintain a course average above 70% will be assigned to “Repeat Subject”. 
 	•	Students may complete “Remedial Work” to make up for unsatisfactory progress either during a subject or after a subject completion. Their “Remedial Work” will be reviewed and a determination will be made as to whether they will be allowed to continue with the program. 
-	 (19) GRADUATION
+	
+(19) GRADUATION
 	•	Students are recognized when they complete all 3 subjects: FSWD 101, FSWD 102, or FSWD103 by completing all required work for that subject and maintaining an average at 70% or above. 
 	•	Upon completion of the entire program, students will be given a Certificate of Completion.
 	•	A person graduates by completing each of the 3 subjects in the program. 
@@ -385,7 +388,8 @@ Students on the ACA campus are expected to behave in a manner that will create a
 	•	Possessing or using drugs not prescribed for the student by a physician; selling any drugs; possessing or using illegal drugs or narcotics
 	•	Possessing a firearm or other deadly or dangerous weapons such as knives, knuckles, clubs, baseball bats, and hammers while on the property of the school or in any part of the school building
 	•	Sexual harassment in any form by students or any member of the administration, faculty, or staff is prohibited. The school is committed to creating and maintaining an environment for all school personnel and students that is free of harassment, forced sexual activity, or any other sexual communication or conduct that interferes with performance in the classroom or the workplace
-	o	Sexual Harassment Defined
+
+Sexual Harassment Defined
 	•	Unwelcome sexual advances, requests for sexual favors, and other verbal or physical conduct of a sexual nature constitute sexual harassment when:
 	•	submission to such conduct is made either explicitly or implicitly a term or condition of an individual's employment,
 	•	submission to or rejection of such conduct by an individual is used as the basis for employment decisions affecting such individuals, or
