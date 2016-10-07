@@ -14,10 +14,10 @@ PHONE (512) 827-8498
 (2.c.) Effective (October 4th, 2016) 
 
 (3) TABLE OF CONTENTS
-		* History
-		* Accreditation and Approvals
-		* Description of Available Space, Facilities, and Equipment
-		* Management
+		*History
+		*Accreditation and Approvals
+		*Description of Available Space, Facilities, and Equipment
+		*Management
 		* Key Staff
 		* Fees and Tuition
 		* School Calendar
