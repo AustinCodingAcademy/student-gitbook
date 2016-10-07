@@ -182,17 +182,17 @@ CLASS SCHEDULES
 
 	•	FULL STACK WEB DEVELOPMENT (INTRO)
 		o	Section 1 
-		•	Mondays and Wednesdays 6:30 – 9:00 pm
+			•	Mondays and Wednesdays 6:30 – 9:00 pm
 		o	Section 2
-		•	Tuesdays and Thursdays 6:30 – 9:00 pm
+			•	Tuesdays and Thursdays 6:30 – 9:00 pm
 
 	•	FULL STACK WEB DEVELOPMENT (INTERMEDIATE)
 		o	Section 1 
-		•	Mondays and Wednesdays 6:30 – 9:00 pm
+			•	Mondays and Wednesdays 6:30 – 9:00 pm
 
 	•	FULL STACK WEB DEVLOPMENT (ADVANCED)
 		o	Section 1
-		•	Tuesdays and Thursdays 6:30 – 9:00 pm
+			•	Tuesdays and Thursdays 6:30 – 9:00 pm
 
 *More sections of each course may be offered based on sufficient enrollment for a subject. 
 
