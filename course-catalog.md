@@ -182,17 +182,17 @@ CLASS SCHEDULES
 
 	•	FULL STACK WEB DEVELOPMENT (INTRO)
 		o	Section 1 
-	•	Mondays and Wednesdays 6:30 – 9:00 pm
+		•	Mondays and Wednesdays 6:30 – 9:00 pm
 		o	Section 2
-	•	Tuesdays and Thursdays 6:30 – 9:00 pm
+		•	Tuesdays and Thursdays 6:30 – 9:00 pm
 
 	•	FULL STACK WEB DEVELOPMENT (INTERMEDIATE)
 		o	Section 1 
-	•	Mondays and Wednesdays 6:30 – 9:00 pm
+		•	Mondays and Wednesdays 6:30 – 9:00 pm
 
 	•	FULL STACK WEB DEVLOPMENT (ADVANCED)
 		o	Section 1
-	•	Tuesdays and Thursdays 6:30 – 9:00 pm
+		•	Tuesdays and Thursdays 6:30 – 9:00 pm
 
 *More sections of each course may be offered based on sufficient enrollment for a subject. 
 
@@ -259,8 +259,8 @@ Python Coding Assignment Sample Solution
 ACA Essay Assignment
 
 Please complete 1 of the 2 essay prompts below. Most students take about two pages to complete the essay, but feel free to extend it as long as you need.
-•	Where do you see yourself in five years?
-•	What is an important truth that you believe that very few people agree with you on?
+* Where do you see yourself in five years?
+* What is an important truth that you believe that very few people agree with you on?
 
 (14) CREDIT FOR PREVIOUS EDUCATION, TRAINING, OR EXPERIENCE
 
@@ -319,21 +319,21 @@ Subject Description:	The purpose of this subject is to teach students how to bui
 
  (18) COURSE HOURS
 
-•	Each subject consists of 50 total hours. There is also an estimated 100 homework hours.
-•	Including all 3 subjects (FSDW 101, FSWD 102, FSWD 103), students will earn a total of 150 class hours and complete an estimated 300 homework hours. 
-•	Classes meet for 2.5 hours with one 10-minute break taken each class. 
+* Each subject consists of 50 total hours. There is also an estimated 100 homework hours.
+* Including all 3 subjects (FSDW 101, FSWD 102, FSWD 103), students will earn a total of 150 class hours and complete an estimated 300 homework hours. 
+* Classes meet for 2.5 hours with one 10-minute break taken each class. 
 
 Program Outline: Full Stack Web Development
 The program consists of completing the following 3 subjects:
-	•	FULL STACK WEB DECELOPMENT (INTRO) - HTML, CSS, Git, and Responsive Web Design
-		o	50 Clock Hours
-		o	10 Weeks
-	•	FULL STACK WEB DEVELOPMENT (INTERMEDIATE) – JavsaScript, jQuery, and Object-Oriented Design
-		o	50 Clock Hours
-		o	10 Weeks
-	•	FULL STACK WEB DEVELOPMENT (ADVANCED) - Full Stack Web Development: MongoDB, Backbone, Node, and Express
-		o	50 Clock Hours
-		o	10 Weeks
+* FULL STACK WEB DECELOPMENT (INTRO) - HTML, CSS, Git, and Responsive Web Design
+	* 50 Clock Hours
+	* 10 Weeks
+* FULL STACK WEB DEVELOPMENT (INTERMEDIATE) – JavsaScript, jQuery, and Object-Oriented Design
+	* 50 Clock Hours
+	* 10 Weeks
+* FULL STACK WEB DEVELOPMENT (ADVANCED) - Full Stack Web Development: MongoDB, Backbone, Node, and Express
+	* 50 Clock Hours
+	* 10 Weeks
 	
 (18) GRADING SYSTEM, PROGRESS POLICY, AND PROBATION
 
@@ -361,9 +361,9 @@ PROBATION
 	•	Students may complete “Remedial Work” to make up for unsatisfactory progress either during a subject or after a subject completion. Their “Remedial Work” will be reviewed and a determination will be made as to whether they will be allowed to continue with the program. 
 	
 (19) GRADUATION
-	•	Students are recognized when they complete all 3 subjects: FSWD 101, FSWD 102, or FSWD103 by completing all required work for that subject and maintaining an average at 70% or above. 
-	•	Upon completion of the entire program, students will be given a Certificate of Completion.
-	•	A person graduates by completing each of the 3 subjects in the program. 
+	* Students are recognized when they complete all 3 subjects: FSWD 101, FSWD 102, or FSWD103 by completing all required work for that subject and maintaining an average at 70% or above. 
+	* Upon completion of the entire program, students will be given a Certificate of Completion.
+	* A person graduates by completing each of the 3 subjects in the program. 
 
 (20) ATTENDANCE POLICY
 
