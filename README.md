@@ -1,6 +1,7 @@
 # Student Handbook
 
 * [Introduction](README.md)
+* [Course Catalog](course-catalog.md)
 * [Austin](austin.md)
   * [Intro](austin-intro.md)
   * [Intermediate](austin-intermediate.md)
