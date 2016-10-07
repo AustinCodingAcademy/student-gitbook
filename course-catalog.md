@@ -324,7 +324,9 @@ Subject Description:	The purpose of this subject is to teach students how to bui
 * Classes meet for 2.5 hours with one 10-minute break taken each class. 
 
 Program Outline: Full Stack Web Development
+
 The program consists of completing the following 3 subjects:
+
 * FULL STACK WEB DECELOPMENT (INTRO) - HTML, CSS, Git, and Responsive Web Design
 	* 50 Clock Hours
 	* 10 Weeks
@@ -361,7 +363,8 @@ PROBATION
 	•	Students may complete “Remedial Work” to make up for unsatisfactory progress either during a subject or after a subject completion. Their “Remedial Work” will be reviewed and a determination will be made as to whether they will be allowed to continue with the program. 
 	
 (19) GRADUATION
-	* Students are recognized when they complete all 3 subjects: FSWD 101, FSWD 102, or FSWD103 by completing all required work for that subject and maintaining an average at 70% or above. 
+
+	* Students are recognized when they complete all 3 subjects: FSWD 101, FSWD 102, or FSWD103 by completing all required work for that subject and maintaining an average at 70% or above.
 	* Upon completion of the entire program, students will be given a Certificate of Completion.
 	* A person graduates by completing each of the 3 subjects in the program. 
 
@@ -390,6 +393,7 @@ Students on the ACA campus are expected to behave in a manner that will create a
 	•	Sexual harassment in any form by students or any member of the administration, faculty, or staff is prohibited. The school is committed to creating and maintaining an environment for all school personnel and students that is free of harassment, forced sexual activity, or any other sexual communication or conduct that interferes with performance in the classroom or the workplace
 
 Sexual Harassment Defined
+
 	•	Unwelcome sexual advances, requests for sexual favors, and other verbal or physical conduct of a sexual nature constitute sexual harassment when:
 	•	submission to such conduct is made either explicitly or implicitly a term or condition of an individual's employment,
 	•	submission to or rejection of such conduct by an individual is used as the basis for employment decisions affecting such individuals, or
