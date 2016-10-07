@@ -17,7 +17,7 @@ These tutorials may seem a little abstract and hard to follow. You are not expec
 Note: Codeschool isn't free, but [here's a coupon](https://www.codeschool.com/enrollments/dC90a2Q1T1FTRFpHWmpuMFJHYnIwWURxeWg3WE0wY0dsb1FtZnh5U3pUUT0tLWhDN2ttVS9ZOEFBVk8yRHpRYlFrbHc9PQ==?mbsy=7Rfvv&mbsy_source=d04bfb49-c73b-42fc-b62d-299b5edc344e&campaignid=18315) for a whole month for only $9! Be sure to cancel the subscription if you do not want to continue.
 
 * [Codeschool Express.js Tutorial (all)](https://www.codeschool.com/courses/building-blocks-of-express-js)
-* [Codeschool Backbone.js Tutorial (Part One)](https://www.codeschool.com/courses/anatomy-of-backbone-js)
+* [Learning React](https://scotch.io/tutorials/learning-react-getting-started-and-concepts)
 * [Codeschool MongoDB Tutorial (Only level 1)](https://www.codeschool.com/courses/the-magical-marvels-of-mongodb)
 * [Codeschool Discover DevTools (all)](https://www.codeschool.com/courses/discover-devtools)
 
