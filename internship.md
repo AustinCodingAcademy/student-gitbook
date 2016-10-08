@@ -30,6 +30,6 @@ As much as you can. This is not an exercise to over-stress yourself, but one whe
 
 ## Where Do I Sign Up?
 
-Contact Kevin Colten (kevin@austincodingacademy.com) for details.
+Contact Kevin Colten (kevin [at] austincodingacademy [dot] com) for details.
 
 {% include "./footer.md" %}

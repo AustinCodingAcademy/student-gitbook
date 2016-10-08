@@ -8,7 +8,7 @@ Austin, Texas 78701
 
 PHONE (512) 827-8498
 
-* If you would like to have a hard copy or .pdf of this document, please email your request to Chris Lofton at clofton@austincodingacademy.com
+* If you would like to have a hard copy or .pdf of this document, please email your request to Chris Lofton at clofton [at] austincodingacademy [dot] com
 
 (2.a.) Catalog Volume 001
 (2.b.) Published (October 4th, 2016)
