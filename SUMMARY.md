@@ -1,8 +1,8 @@
 # Summary
 
 * [Introduction](README.md)
-* [Course Catalog](course-catalog.md)
 * [Austin](austin.md)
+  * [Course Catalog](course-catalog.md)
   * [Intro](austin-intro.md)
   * [Intermediate](austin-intermediate.md)
   * [Advanced](austin-advanced.md)
