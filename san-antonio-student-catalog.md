@@ -1,10 +1,10 @@
-COURSE CATALOG
+## COURSE CATALOG
 
-(1) Austin Coding Academy
+## ACA San Antonio
 
-701 Brazos, 16th Floor
+600 Soledad
 
-Austin, Texas 78701
+San Antonio, Texas 78205
 
 PHONE (512) 827-8498
 
@@ -16,7 +16,7 @@ Published (October 4th, 2016)
 
 Effective (October 4th, 2016)
 
-(3) TABLE OF CONTENTS
+## TABLE OF CONTENTS
 * History
 * Accreditation and Approvals
 * Description of Available Space, Facilities, and Equipment
@@ -40,7 +40,7 @@ Effective (October 4th, 2016)
 * Verification
 * Exhibits
 
-(4) HISTORY and PHILOSOPHY
+## HISTORY and PHILOSOPHY
 
 History
 Austin Coding Academy LLC was founded in June of 2014 by Luke Filipos and Christopher Sica with the goal of providing a program designed by the best minds in the industry and taught by professionals in the web development field. We teach a curriculum designed to make you proficient in full stack web development.
@@ -51,11 +51,11 @@ Everything you see on the internet has 2 sides to it. A user facing front end wi
 Course Philosophy
 Over the course of our program, our goal is to expose you to the skills you need to launch a successful career as a web developer. Our program is divided into Intro, Intermediate and Advanced level classes with an emphasis on teaching you incredible problem solving skills. By the end of the program, you’ll be equipped to be a valuable member of any web development team.
 
-(5) ACCREDITATION AND APPROVALS
+## ACCREDITATION AND APPROVALS
 
 Austin Coding Academy is Approved and Regulated by the Texas Workforce Commission, Career Schools and Colleges, Austin, Texas.
 
-(6) DESCRIPTION OF AVAILABLE SPACE, FACILITIES, AND EQUIPMENT
+## DESCRIPTION OF AVAILABLE SPACE, FACILITIES, AND EQUIPMENT
 
 * Location: Capital Factory, 701 Brazos St, 16th floor, Austin, TX 78701.
   * 2 large classrooms
@@ -81,7 +81,7 @@ Austin Coding Academy is Approved and Regulated by the Texas Workforce Commissio
   * There is ample room to work and plug in laptops.
   * There is a flat screen TV and a projector to show demonstrations.
 
-(7) MANAGEMENT
+## MANAGEMENT
 
 OFFICERS, DIRECTORS, OR TRUSTEES
 
@@ -91,7 +91,7 @@ OFFICERS, DIRECTORS, OR TRUSTEES
 
 * Chris Lofton: Director of Academics, Chris oversees curriculum development with Kevin Colten and is responsible for all teacher on-boarding, teacher training, quality control and student relations. Before working at ACA, Chris was a teacher with the University of Texas University Charter School Program, a teacher with KIPP in San Antonio, and a Teach For America corps member. He graduated from Texas State University with a degree in psychology.
 
-(8) KEY STAFF AND FACULTY
+## KEY STAFF AND FACULTY
 
 * Kevin Colten: Chief Technical Officer, Kevin Oversees curriculum development with Chris Lofton and is responsible for all technical tools and new material creation. Kevin graduated from Lamar University with a degree in Communications and also from App Academy with a certificate in software development. Kevin taught GED preparatory classes and some HTML material at Austin Community College’s Adult Ed program. Before working at ACA, Kevin was a senior developer at Continuum Analytics.
 
@@ -105,19 +105,12 @@ OFFICERS, DIRECTORS, OR TRUSTEES
 
 INSTRUCTORS
 
-* Canaan Davis: Instructor, Canaan graduated from Lamar University in Beaumont, Texas. He is a full time web developer living in Austin, Texas. He currently teaches FSWD 103.
+* Roberto Navarro: Instructor, Roberto graduated from Western Governor’s University in 2011 and has worked as a web developer for 3 years.  Roberto teaches FSWD 101. 
 
-* Travis Jefferson: Instructor, Travis graduated from Purdue University with a degree in Computer Engineering. He was worked as web developer for two and a half years and currently teaches FSWD 102.  
+* Carlos Navarro: Instructor, Carlos graduated from Texas State University.  He has several computer certifications and has worked as a full stack web developer for over 6 years. He teaches FSWD 102. 
 
-* Jon Woo: Instructor, Jon graduated from Texas State University with a degree in Computer Information in 2003 and has been working as a software developer since then. He is an instructor for FSWD 102.  
 
-* Luke Stenis: Instructor, Luke graduated from the University of Texas with a Master’s degree in Communications. He has been working in web development for 2 years.  He currently teaches FSWD 101.  
-
-* Ivo Meissner: Instructor, Ivo graduated from the University of Applied Sciences in 2011 and has been a web developer since he was 16 years old. With over 10 years of professional experience, Ivo share’s his experience in FSWD 101.
-
-* Rob Daly: Instructor, A graduate from Binghamton University, Rob has worked in web development for over a year. He augmented his coding skills with a Certificate of Completion from the Iron Yard, a full time coding bootcamp. After being a teaching assistance at the Coding Bootcamp at UT Austin for 6 months, Rob is now an instructor in FSWD 101.
-
-(9) FEES AND TUITION
+## FEES AND TUITION
 
 ACA’s Full Stack Web Development program is composed of 3 subjects. Each of our subjects is $2,490 for the 10 weeks of class. Tuition includes all costs of instruction with no other fees.  The entire program costs $7,470.00.
 
@@ -131,9 +124,9 @@ ACA’s Full Stack Web Development program is composed of 3 subjects. Each of ou
 
 We allow Capital Factory to handout 2 diversity scholarships per quarter.
 
-(10) SCHOOL CALENDAR
+## SCHOOL CALENDAR
 
-The entire course consists of 30 weeks of classes. Each subject offered is 10 weeks long and meets twice a week in the evenings, from 6:30-9:00 pm. Class is held either Monday and Wednesday or Tuesday and Thursday. All 3 subjects run concurrently. We run on a quarter system and have four sessions each year.
+The entire course consists of 30 weeks of classes. Each subject offered is 10 weeks long and meets twice a week in the evenings, from 6:15-8:45 pm. Class is held either Monday and Wednesday or Tuesday and Thursday. All 3 subjects run concurrently. We run on a quarter system and have four sessions each year.
 
 HOLIDAYS TO BE OBSERVED
 
@@ -167,11 +160,11 @@ There will be no classes during the following time periods:
 * September 30th, 2017 – October 8th, 2017
 * December 23rd, 2017 – January 14th, 2018
 
-(11) NORMAL HOURS OF OPERATION
+## NORMAL HOURS OF OPERATION
 
 SCHOOL HOURS OF OPERATION
 
-Classes begin at 6:30 pm and end at 9:00 pm. Students should not show up earlier than 6 pm. Students must exit the building by 9:15 pm.
+Classes begin at 6:15 pm and end at 8:45 pm. Students should not show up earlier than 5:45 pm. Students must exit the building by 9:00 pm.
 
 SCHOOL OFFICE OHOURS OF OPERATION
 
@@ -181,17 +174,11 @@ CLASS SCHEDULES
 
 * FULL STACK WEB DEVELOPMENT (INTRO)
   * Section 1
-    * Mondays and Wednesdays 6:30 – 9:00 pm
-  * Section 2
-    * Tuesdays and Thursdays 6:30 – 9:00 pm
+    * Tuesdays and Thursdays 6:15 – 8:45 pm
 
 * FULL STACK WEB DEVELOPMENT (INTERMEDIATE)
   * Section 1
-    * Mondays and Wednesdays 6:30 – 9:00 pm
-
-* FULL STACK WEB DEVELOPMENT (ADVANCED)
-  * Section 1
-    * Tuesdays and Thursdays 6:30 – 9:00 pm
+    * Mondays and Wednesdays 6:15 – 8:45 pm
 
 * More sections of each course may be offered based on sufficient enrollment for a subject.
 
@@ -203,7 +190,7 @@ MEALTIMES
 
 There are no meal times, but students may bring food or drinks to take care of their needs throughout the class period.
 
-(12) ADMISSION/ENROLLMENT POLICIES
+## ADMISSION/ENROLLMENT POLICIES
 
 The minimum age requirement at Austin Coding Academy is 18 years old. Students must have a high school diploma or GED. In order to be qualified for admission, students must pass the ACA Python coding assignment and an essay assignment. The ACA Python coding assignment includes sample code, and students must explain each line of code. If 80% (14 lines) of the lines of code are explained correctly, students pass the ACA Python coding assignment.  Students must also write a 1-2 page essay. A student passes the essay assignment by writing at least 1 page of coherent, grammatically correct text.
 
@@ -261,21 +248,21 @@ Please complete 1 of the 2 essay prompts below. Most students take about two pag
 * Where do you see yourself in five years?
 * What is an important truth that you believe that very few people agree with you on?
 
-(14) CREDIT FOR PREVIOUS EDUCATION, TRAINING, OR EXPERIENCE
+## CREDIT FOR PREVIOUS EDUCATION, TRAINING, OR EXPERIENCE
 
 Upon application to the director of admissions and demonstration of the proficiency in the elements that will be taught in the FULL STACK WEB DEVELOPMENT (INTRO), a student may be granted admission to FULL STACK WEB DEVELOPMENT (INTERMEDIATE). Upon application to the director of admissions and demonstration of the proficiency in the elements that will be taught in the FULL STACK WEB DEVELOPMENT (INTRO) and FULL STACK WEB DEVELOPMENT (INTERMEDIATE), a student may be granted admission to FULL STACK WEB DEVELOPMENT (ADVANCED).
 
-(15) CANCELLATION AND REFUND POLICIES
+## CANCELLATION AND REFUND POLICIES
 
 See Appendix 1 for full Refund and Cancellation Policies.
 
-(16) COURSE DESCRIPTIONS
+## COURSE DESCRIPTIONS
 
-FULL STACK WEB DEVELOPMENT
+### FULL STACK WEB DEVELOPMENT
 
 The purpose of this program is to prepare students for an entry-level software developer position. Graduates may find suitable employment in companies utilizing web development technology such as banks, marketing firms, software development companies, military institutions, design shops, etc. Graduates may also freelance, which means that they take on contract work to design websites and engineer web applications.  Additionally graduates may use their knowledge to build proprietary software and start their own companies. Upon completion of this program, students will be able to build full stack web applications similar to Trello, Twitter, or Facebook.
 
-FULL STACK WEB DEVELOPMENT
+### FULL STACK WEB DEVELOPMENT
 
   Subject # Subject Title Class Time Hours Lec/Lab/Total
   * FSWD 101  Full Stack Web Development (Intro)  40/10/50
@@ -286,9 +273,9 @@ FULL STACK WEB DEVELOPMENT
 The course lasts for 30 weeks. Each subject takes 10 weeks. Students must complete all major projects in order to be eligible for graduation. Students will receive a Certificate of Completion upon satisfactory completion of the course.  
 
 
-(17) A SYNOPSIS OF EACH SUBJECT OFFERED
+## A SYNOPSIS OF EACH SUBJECT OFFERED
 
-FSWD 101 FULL STACK WEB DEVELOPMENT (INTRO) - Introduction to HTML and CSS
+### FSWD 101 FULL STACK WEB DEVELOPMENT (INTRO) - Introduction to HTML and CSS
 Subject Hours:  50 course hours (40 lecture hours and 10 lab hours)
 
 Prerequisites:  High School Diploma or GED
@@ -297,26 +284,26 @@ Topics Covered: HTML, CSS, Git, Bootstrap, Responsive Web Design
 
 Subject Description:  The purpose of this subject is to teach students how to build professional, modern websites. Students learn industry standard technologies and approaches to design that will allow them to build responsive websites which means that the websites will look good on all devices (mobile, tablet, desktop, etc.).  Upon completion of this subject, students will be ready to work as web designers.
 
-FSWD 102 FULL STACK WEB DEVELOPMENT (INTERMEDIATE) - Introduction to JS and jQuery
+### FSWD 102 FULL STACK WEB DEVELOPMENT (INTERMEDIATE) - Introduction to JS and jQuery
 Subject Hours:  50 course hours (40 lecture hours and 10 lab hours)
 
 Prerequisites:  FSWD 101
 
-Topics Covered: JavaScript, jQuery, Object Oriented Design
+Topics Covered: C#, SQL, Object-Oriented Design
 
-Subject Description:  The purpose of this subject is to teach students the basics of JavaScript and jQuery. JavaScript is one of the most popular programming languages in the world and is supported by all modern browsers. jQuery is the most popular JavaScript library in use today.  By completing this course, students will be prepared for the advanced course.
+Subject Description:  C# is a multi-paradigm programming language encompassing strong typing, imperative, declarative, functional, generic, object-oriented (class-based), and component-oriented programming disciplines. SQL (Structured Query Language) is a special-purpose programming language designed for managing data held in a relational database management system (RDBMS), or for stream processing in a relational data stream management system (RDSMS). Students will use SQL to build web applications. Object-oriented design is the process of planning a system of interacting objects for the purpose of solving a software problem. Students will use C#, SQL, and Object-Oriented Design to build web applications.
 
 
-FSWD 103 FULL STACK WEB DEVELOPMENT (ADVANCED) - Advanced JS and jQuery
+### FSWD 103 FULL STACK WEB DEVELOPMENT (ADVANCED) - .NET
 Subject Hours:  50 course hours (40 lecture hours and 10 lab hours)
 
 Prerequisites:  FSWD 101, FSWD 102
 
-Topics Covered: MongoDB, Express, Backbone, Node, Full Stack Web Development and Frameworks
+Topics Covered: .NET, Full Stack Web Development and Frameworks
 
-Subject Description:  The purpose of this subject is to teach students how to build modern web apps utilizing JS frameworks and associated technologies. Upon completion, students will be prepared to begin working as full stack web developer.
+Subject Description:  The purpose of this subject is to teach students how to build modern web apps utilizing the .NET framework and associated technologies. Upon completion, students will be prepared to begin working as full stack web developer.
 
- (18) COURSE HOURS
+## COURSE HOURS
 
 * Each subject consists of 50 total hours. There is also an estimated 100 homework hours.
 * Including all 3 subjects (FSDW 101, FSWD 102, FSWD 103), students will earn a total of 150 class hours and complete an estimated 300 homework hours.
@@ -329,14 +316,14 @@ The program consists of completing the following 3 subjects:
 * FULL STACK WEB DEvELOPMENT (INTRO) - HTML, CSS, Git, and Responsive Web Design
   * 50 Clock Hours
   * 10 Weeks
-* FULL STACK WEB DEVELOPMENT (INTERMEDIATE) – JavaScript, jQuery, and Object-Oriented Design
+* FULL STACK WEB DEVELOPMENT (INTERMEDIATE) – C#, SQL
   * 50 Clock Hours
   * 10 Weeks
-* FULL STACK WEB DEVELOPMENT (ADVANCED) - Full Stack Web Development: MongoDB, Backbone, Node, and Express
+* FULL STACK WEB DEVELOPMENT (ADVANCED) - Full Stack Web Development: .NET
   * 50 Clock Hours
   * 10 Weeks
 
-(18) GRADING SYSTEM, PROGRESS POLICY, AND PROBATION
+## GRADING SYSTEM, PROGRESS POLICY, AND PROBATION
 
 Our teaching methodology is designed to build learning habits that last well beyond a student’s time with us in class. By valuing questions over answers and process over results in class, we develop students who excel at finding answers and producing results throughout their careers.
 
@@ -361,19 +348,19 @@ PROBATION
 * Students who do not finish all required assignments and maintain a course average above 70% will be assigned to “Repeat Subject”.
 * Students may complete “Remedial Work” to make up for unsatisfactory progress either during a subject or after a subject completion. Their “Remedial Work” will be reviewed and a determination will be made as to whether they will be allowed to continue with the program.
 
-(19) GRADUATION
+## GRADUATION
 
 * Students are recognized when they complete all 3 subjects: FSWD 101, FSWD 102, or FSWD103 by completing all required work for that subject and maintaining an average at 70% or above.
 * Upon completion of the entire program, students will be given a Certificate of Completion.
 * A person graduates by completing each of the 3 subjects in the program.
 
-(20) ATTENDANCE POLICY
+## ATTENDANCE POLICY
 
 Students are expected to attend each of the 60 classes offered over the 30-week period of each subject. All tests missed must be taken on the first day of attendance after the absence. A school shall charge for a full day of absence when the student fails to attend all of the scheduled class on that day. A student who misses more than 10% of class hours will be placed on attendance probation with conditions stipulated by the school director. Enrollment in the program will be terminated for a student who is absent for more than 25% (37.5 hours) of the class hours of the program. Five tardies to class will be counted as one absence. A student whose enrollment was terminated due to unsatisfactory attendance may reenroll on attendance probation in a subsequent term in the next 12 calendar months. Such re-enrollment does not circumvent the approved refund policy. If the reenrolled student on attendance probation is absent for more than 25% of the class hours, the student's enrollment in the program will be terminated, and the student will not be readmitted to the program. This policy will be strictly enforced absent exigent circumstances.
 
 * ACA will not terminate the enrollment of a student for lack of attendance at a point at which a refund would not be due.
 
-(21) STUDENT CONDUCT POLICY
+## STUDENT CONDUCT POLICY
 
 Students on the ACA campus are expected to behave in a manner that will create a safe and orderly academic environment for themselves and others. Students found in violation of these conduct expectations will be subject to disciplinary action which may include a written warning, dismissal, and/or referral to law enforcement officials. Below is a partial list of inappropriate behaviors that will be subject to disciplinary action. This list is not all-inclusive.
 
@@ -402,7 +389,7 @@ Re-enrollment after Dismissal for Violation of Student Conduct Expectations
 
 After one six-week term has elapsed, a student whose enrollment was terminated for violation of student conduct expectations that did not result in the involvement of law enforcement officials will have one opportunity for re-enrollment in a subsequent term in the next 12 calendar months.
 
- (22) GRIEVANCES
+## GRIEVANCES
 
 IT IS THE SCHOOL'S POLICY TO RESOLVE STUDENT GRIEVANCES BY WORKING DIRECTLY WITH  THE STUDENT, INSTRUCTOR, AND OTHER AFFECTED STUDENT(S). STUDENTS WITH UNRESOLVED GRIEVANCES MAY CONTACT:
 
@@ -414,25 +401,25 @@ Phone: (512) 936-6959
 [http://csc.twc.state.tx.us/](http://csc.twc.state.tx.us/)
 
 
-(23) PLACEMENT ASSISTANCE POLICY
+## PLACEMENT ASSISTANCE POLICY
 
 Job placement assistance is available at no charge for all students who are awarded the Advanced Class Certificate of Completion. ACA consistently builds and maintains relationships with employers looking to hire web developers and connects those employers with the appropriate students. ACA also has a jobs board where it posts currently hiring companies and their available positions. Students are encouraged to apply to jobs through that portal. Additionally, ACA does career readiness events like interview and resumé preparation seminars. While the ACA team takes great pride in the ACA graduates working in the web development industry, neither the school, its board, administration, or any faculty or staff member can guarantee employment.
 
-(24) True and Correct Statement
+## True and Correct Statement
 
 
 I hereby certify that the statements and information in this catalog are true and correct to the best of my knowledge and belief.
 
 Luke Filipos
 
-APPENDIX 1: CANCELLATION AND REFUND POLICIES
+## APPENDIX 1: CANCELLATION AND REFUND POLICIES
 
 
-CANCELLATION POLICY
+### CANCELLATION POLICY
 
 A full refund will be made to any student who cancels the enrollment contract within 72 hours (until midnight of the third day excluding Saturdays, Sundays and legal holidays) after the enrollment contract is signed. If the student is not scheduled for three class days during the first week, a full refund will be made to any student who cancels enrollment within the student’s first three scheduled class days, except that the school may retain not more than $100 in any administrative fees charged and items of extra expense that are necessary for the portion of the program attended and stated separately on the enrollment agreement.
 
-REFUND POLICY
+### REFUND POLICY
 
 1.  Refund computations will be based on scheduled course time of classes through the last documented day of an academically related activity. Leaves of absence, suspensions and school holidays will not be counted as part of the scheduled classes.
 1.  The effective date of termination for refund purposes will be the earliest of the following:
@@ -450,7 +437,7 @@ REFUND POLICY
 
 A full or partial refund may also be due in other circumstances of program deficiencies or violations of requirements for career schools and colleges.
 
-REFUND POLICY FOR STUDENTS CALLED TO ACTIVE MILITARY SERVICE
+### REFUND POLICY FOR STUDENTS CALLED TO ACTIVE MILITARY SERVICE
 
 1.  A student of the school or college who withdraws from the school or college as a result of the student being called to active duty in a military service of the United States or the Texas National Guard may elect one of the following options for each program in which the student is enrolled:
   1.  if tuition and fees are collected in advance of the withdrawal, a pro rata refund of any tuition, fees, or other charges paid by the student for the program and a cancellation of any unpaid tuition, fees, or other charges owed by the student for the portion of the program the student does not complete following withdrawal;
