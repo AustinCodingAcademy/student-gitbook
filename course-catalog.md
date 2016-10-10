@@ -10,9 +10,11 @@ PHONE (512) 827-8498
 
 * If you would like to have a hard copy or .pdf of this document, please email your request to Chris Lofton at clofton [at] austincodingacademy [dot] com
 
-(2.a.) Catalog Volume 001
-(2.b.) Published (October 4th, 2016)
-(2.c.) Effective (October 4th, 2016)
+Catalog Volume 001
+
+Published (October 4th, 2016) 
+
+Effective (October 4th, 2016)
 
 (3) TABLE OF CONTENTS
 * History
