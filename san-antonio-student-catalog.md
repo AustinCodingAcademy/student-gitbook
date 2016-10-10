@@ -53,12 +53,12 @@ Over the course of our program, our goal is to expose you to the skills you need
 
 ## ACCREDITATION AND APPROVALS
 
-Austin Coding Academy is Approved and Regulated by the Texas Workforce Commission, Career Schools and Colleges, Austin, Texas.
+ACA San Antonio is Approved and Regulated by the Texas Workforce Commission, Career Schools and Colleges, Austin, Texas.
 
 ## DESCRIPTION OF AVAILABLE SPACE, FACILITIES, AND EQUIPMENT
 
-* Location: Capital Factory, 701 Brazos St, 16th floor, Austin, TX 78701.
-  * 2 large classrooms
+* Location: Cafe Commerce, 600 Soledad, San Antonio, TX 78205.
+  * 1 large classrooms
 * Equipment
   * Microphone
   * Expo Markers
@@ -70,16 +70,13 @@ Austin Coding Academy is Approved and Regulated by the Texas Workforce Commissio
   * Students must bring their own laptops to class.
 
 * Description of Classroom
-  * Our Capital Factory locations allows us to maximize learning outcomes for our students by providing us appropriate classroom space.
+  * Our Cafe Cemmerce locations allows us to maximize learning outcomes for our students by providing us appropriate classroom space.
 * There are 2 spaces that we use.
 * Classroom 1
   * An estimated 600 square feet
   * There is ample room to work and plug in laptops.
   * There is white wall to project the lesson and code examples.
-* Classroom 2
-  * An estimated 500 square feet
-  * There is ample room to work and plug in laptops.
-  * There is a flat screen TV and a projector to show demonstrations.
+
 
 ## MANAGEMENT
 
@@ -121,8 +118,6 @@ ACA’s Full Stack Web Development program is composed of 3 subjects. Each of ou
 * Supplies: $0.00
 * Other Expenses: $0.00
 * Total Cost for Entire Program: $7,470.00
-
-We allow Capital Factory to handout 2 diversity scholarships per quarter.
 
 ## SCHOOL CALENDAR
 
