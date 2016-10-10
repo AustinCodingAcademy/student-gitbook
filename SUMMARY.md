@@ -15,7 +15,7 @@
   * [Intermediate](houston-intermediate.md)
   * [Advanced](houston-advanced.md)
 * [San Antonio](sanantonio.md)
-  * [Course Catalog](san-antonio-course-catalog.md)
+  * [Course Catalog](san-antonio-student-catalog.md)
   * [Intro](sanantonio-intro.md)
   * [Intermediate](sanantonio-intermediate.md)
   * [Advanced](sanantonio-advanced.md)
