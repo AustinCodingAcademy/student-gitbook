@@ -1,12 +1,12 @@
 ## COURSE CATALOG
 
-## ACA San Antonio
+### ACA San Antonio
 
-600 Soledad
+### 600 Soledad
 
-San Antonio, Texas 78205
+### San Antonio, Texas 78205
 
-PHONE (512) 827-8498
+### PHONE (512) 827-8498
 
 * If you would like to have a hard copy or .pdf of this document, please email your request to Chris Lofton at clofton [at] austincodingacademy [dot] com
 
