@@ -12,7 +12,7 @@ PHONE (512) 827-8498
 
 Catalog Volume 001
 
-Published (October 4th, 2016) 
+Published (October 4th, 2016)
 
 Effective (October 4th, 2016)
 
@@ -402,9 +402,16 @@ Re-enrollment after Dismissal for Violation of Student Conduct Expectations
 
 After one six-week term has elapsed, a student whose enrollment was terminated for violation of student conduct expectations that did not result in the involvement of law enforcement officials will have one opportunity for re-enrollment in a subsequent term in the next 12 calendar months.
 
- (22) GRIEVANCES
+### (22) GRIEVANCES
 
-IT IS THE SCHOOL'S POLICY TO RESOLVE STUDENT GRIEVANCES BY WORKING DIRECTLY WITH  THE STUDENT, INSTRUCTOR, AND OTHER AFFECTED STUDENT(S). STUDENTS WITH UNRESOLVED GRIEVANCES MAY CONTACT:
+It is the school's policy to resolve student grievances by working directly with the student, instructor, and other students if affected. Students with grievances should initially contact their instructor and articulate their grievance in writing. The instructor will notify the Director of Academics of student grievance and attempt to resolve the grievance. Attempts to resolve the grievance will be documented in email by the instructor and copied to the Director of Academics. If the instructor and student are unable to resolve the grievance, the grievance will be escalated to the Director of Academics. The Director of Academics will review prior resolution documentation, identify student concerns, needs, desires, and attempt to resolve the grievance with the student. The Director of Academics will document this process in writing in a student report file. If the Director of Academics is unable to resolve the student grievance, the Director of Academics will convene a committee of 2 student peers, 2 other certified instructors, and the Director of Academics to resolve the student grievance. The committee will review articulated grievance and documented attempts to resolve and form a majority decision for grievance resolution and present to student for approval. The Director of Academics will document their resolution in the student report file.
+
+### Chris Lofton, Director of Academics
+####(512) 827-8498
+#### clofton (at) austincodingacademy (dot) com
+
+If the committee solution is not accepted by the student, the student is able to contact:
+
 
 Texas Workforce Commission
 Career Schools and Colleges, Room 226T
