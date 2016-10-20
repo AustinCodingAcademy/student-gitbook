@@ -21,3 +21,5 @@
 * [Internship](internship.md)
 * [Resources](resources.md)
 * [Technologies](technologies.md)
+* Guides
+  * [Installing SSL Certificate](guide_ssl-install.md)
