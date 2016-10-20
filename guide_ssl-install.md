@@ -1,6 +1,11 @@
-# Step 1 - Set Up DigitalOcean
+# Installing an SSL Certificate on a DigitalOcean Droplet
+By [Jared Selcoe](https://github.com/jorions)
+Austin Coding Academy Graduate
+Q1 2016
 
-1. Create a DigitalOcean account 
+## Step 1 - Set Up DigitalOcean
+
+1. Create a DigitalOcean account
 
 2. If you are new to DigitalOcean, or have not already added an SSH key to your account, the first thing to do is add your SSH key to your DigitalOcean profile so that you can SSH into the Droplet. Steps 1-3 in [this guide](https://www.digitalocean.com/community/tutorials/how-to-use-ssh-keys-with-digitalocean-droplets) explain this process.
 
@@ -22,7 +27,7 @@
 
     - Lastly, if this is for a Droplet that is registered to a group account, you will need to be invited by that account to work on their Droplet, and then will need to add your SSH key to the group account by switching to that account and then using the steps shown above.
 
-# Step 2 - Set Up Your Droplet
+## Step 2 - Set Up Your Droplet
 
 1. For the remainder of this guide we will assume you are creating a new Droplet from scratch, and then for the sake of example setting up a Discourse server
 
@@ -86,7 +91,7 @@
 
     6. Server and browser now encrypt all transmitted data with the session key
 
-# Step 3A - Get and Install an SSL Certificate From Scratch
+## Step 3A - Get and Install an SSL Certificate From Scratch
 
 - NOTE: We will assume this is for a DigitalOcean Discourse server, but the general concepts should still apply for other servers. As such, the following information is based on [this guide](https://leland.me/https-discourse/) for DigitalOcean Discourse servers.
 
@@ -176,7 +181,7 @@
 
         2. Once complete, you will have to run the command again if you need to update your Postgres database. Also, if you run into issues, running it again may resolve the problem.
 
-# Step 3B - Get and Install an SSL Certificate From Another Server
+## Step 3B - Get and Install an SSL Certificate From Another Server
 
 1. SSH into your server
 
@@ -185,4 +190,3 @@
 3. Assuming your old server’s *ssl.key* (private key) and *ssl.crt* (SSL certificate) files have been downloaded to your local machine, copy them to your new machine using the command `scp ssl.key ssl.crt root@YOUR.IP.ADDRESS:/YOUR/PATH/TO/REMOTE/FOLDER`
 
 4. Lastly, follow the steps from section Step 3A > #4 and #5
-
