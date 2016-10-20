@@ -30,5 +30,12 @@
 * [Learn Perl](http://learn-perl.org/)
 * [Perl Tutorial](http://www.perltutorial.org/)
 
+## SSL Certificates
+* [Running Discourse Over HTTPS](https://leland.me/https-discourse/)
+* [Use SSH Keys with DigitalOcean](https://www.digitalocean.com/community/tutorials/how-to-use-ssh-keys-with-digitalocean-droplets)
+* [What Are SSL Certificates](https://www.digicert.com/ssl.htm)
+* [CSR Creation Guides for Many Servers](https://www.digicert.com/csr-creation.htm)
+* [SSL Certificate Chains](https://support.dnsimple.com/articles/what-is-ssl-certificate-chain/)
+
 
 {% include "./footer.md" %}
