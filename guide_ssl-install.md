@@ -1,6 +1,8 @@
 # Installing an SSL Certificate on a DigitalOcean Droplet
 By [Jared Selcoe](https://github.com/jorions)
+
 Austin Coding Academy Graduate
+
 Q1 2016
 
 ## Step 1 - Set Up DigitalOcean
