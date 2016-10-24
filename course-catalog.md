@@ -207,60 +207,6 @@ There are no meal times, but students may bring food or drinks to take care of t
 
 The minimum age requirement at Austin Coding Academy is 18 years old. Students must have a high school diploma or GED. In order to be qualified for admission, students must pass the ACA Python coding assignment and an essay assignment. The ACA Python coding assignment includes sample code, and students must explain each line of code. If 80% (14 lines) of the lines of code are explained correctly, students pass the ACA Python coding assignment.  Students must also write a 1-2 page essay. A student passes the essay assignment by writing at least 1 page of coherent, grammatically correct text.
 
-Python Coding Assignment
-
-Explain each line of code using the Internet as a resource.
-
-```python
-1 first_num = raw_input("Please input first number: ")  
-2 sec_num = raw_input("Please input second number: ")  
-3  
-4 answer = int(first_num) + int(sec_num)  
-5  
-6 print "Now I will add your two numbers: ", answer  
-7  
-8 print "Pretty cool, huh?"  
-9  
-10  print "Now I'll count backwards from ", answer  
-11  
-12  counter = answer  
-13  
-14  while (counter >= 0):  
-15    print counter  
-16    counter = counter - 1  
-17  
-18  print "All done!"
-```
-
-Python Coding Assignment Sample Solution
-
-* Line 1 is defining the variable “first num” to be the raw input, the actual number that is inputted. Also it is a prompt for the user to input the first number.
-* Line 2 is defining the variable “sec num” to be the raw input, the actual number that is inputted. Also it is a prompt for the user to input the second number.
-* Line 3 is a break.
-* Line 4 is defining the variable “answer” to be the sum of the integer for the variable “first num” and the integer for the variable “second num”
-* Line 5 is a break
-* Line 6 is telling the system to display “No I will add your two numbers:” and leaving a space at the end to put the number which defines the variable “answer” which is the sum of the 2 inputted numbers.
-* Line 7 is a break
-* Line 8 is telling the system to display “Pretty cool, huh?”
-* Line 9 is a break
-* Line 10 is telling the system to display “No I’ll count backwards from…the number defining the variable “answer” which is the sum of the 2 inputted numbers.
-* Line 11 is a break.
-* Line 12 is defining the variable “counter” to be the variable “answer” which is the sum of the 2 inputted numbers.
-* Line 13 is a break
-* Line 14 is establishing the conditions for the loop function to be while the counter is less than or equal to 0, the loop function will run.
-* Line 15 is telling the system to display the number which is the solution to the “counter” variable.
-* Line 16 is defining the variable “counter” to be one less than the previous counter.
-* Line 14 – 16 is a loop function which counts down from the sum of the 2 inserted numbers. It will stop after 0 because 0-1=-1, and -1 is not >=0.
-* Line 17 is a break
-* Line 18 is telling the system to display “All done!”
-
-
-ACA Essay Assignment
-
-Please complete 1 of the 2 essay prompts below. Most students take about two pages to complete the essay, but feel free to extend it as long as you need.
-* Where do you see yourself in five years?
-* What is an important truth that you believe that very few people agree with you on?
-
 (14) CREDIT FOR PREVIOUS EDUCATION, TRAINING, OR EXPERIENCE
 
 Upon application to the director of admissions and demonstration of the proficiency in the elements that will be taught in the FULL STACK WEB DEVELOPMENT (INTRO), a student may be granted admission to FULL STACK WEB DEVELOPMENT (INTERMEDIATE). Upon application to the director of admissions and demonstration of the proficiency in the elements that will be taught in the FULL STACK WEB DEVELOPMENT (INTRO) and FULL STACK WEB DEVELOPMENT (INTERMEDIATE), a student may be granted admission to FULL STACK WEB DEVELOPMENT (ADVANCED).
@@ -348,6 +294,9 @@ PROGRESS POLICY
 
 Satisfactory progress means completing all assignments and scoring an average of 70% or higher.
 Progress evaluation occurs once a week when instructors grade assignments and share feedback with students. 2-4 times throughout the course, a “checkpoint” is given to students which is equivalent to a test. The checkpoints ensure all students have accomplished all learning objectives. Failure to meet a learning objective will result in a tutoring session. At the end of each subject, students who completed the curriculum will receive a certificate showing they passed the subject and detailing that level of proficiency; additionally, we have an exit consultation with each student to help them figure out the next step, whether that is moving forward on a track with us, continuing their education on their own, launching a project, or finding employment.
+
+PAYMENT POLICY
+Our payment policy is full tuition paid PRIOR to the first night of class. We understand that scheduling finances to meet the needs of continued education can be complicated, so we provide a 2 week grace period for those circumstances. If after the first two weeks on instruction, payment in full has not been made, we have the right to remove a student from the class and roster.
 
 
 PROBATION
