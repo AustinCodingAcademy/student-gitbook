@@ -297,9 +297,9 @@ All assignments are graded. This includes homework, in-class projects, and the f
 
 PROGRESS POLICY
 
-Satisfactory progress means completing all assignments and scoring an average of 70% or higher.
-Progress evaluation occurs once a week when instructors grade assignments and share feedback with students. 2-4 times throughout the course, a “checkpoint” is given to students which is equivalent to a test. The checkpoints ensure all students have accomplished all learning objectives. Failure to meet a learning objective will result in a tutoring session. At the end of each subject, students who completed the curriculum will receive a certificate showing they passed the subject and detailing that level of proficiency; additionally, we have an exit consultation with each student to help them figure out the next step, whether that is moving forward on a track with us, continuing their education on their own, launching a project, or finding employment.
+Satisfactory progress means completing all assignments and scoring an average of 70% or higher. 
 
+Progress evaluation occurs once a week when instructors grade assignments and share feedback with students. 2-4 times throughout the course, a “checkpoint” is given to students which is equivalent to a test. The checkpoints ensure all students have accomplished all learning objectives. Failure to meet a learning objective will result in a tutoring session. At the end of the course, students who completed the curriculum will receive a certificate showing they passed the subject and detailing that level of proficiency; additionally, we have an exit consultation with each student to help them figure out thir next steps. 
 
 PROBATION
 
