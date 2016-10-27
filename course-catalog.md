@@ -130,7 +130,9 @@ ACA’s Full Stack Web Development program is composed of 3 subjects. Each of ou
 * Total Cost for Entire Program: $7,470.00
 
 Payment Policy
-Our payment policy is full tuition paid PRIOR to the first night of class. We understand that scheduling finances to meet the needs of continued education can be complicated, so we provide a 2 week grace period for those circumstances. If after the first two weeks on instruction, payment in full has not been made, we have the right to remove a student from the class and roster.
+
+Our payment policy is full tuition paid prior to the first night of class. We understand that scheduling finances to meet the needs of continued education can be complicated, so we provide a 2-week grace period for those circumstances. If payment in full has not been made before the completion of the first two weeks of instruction, a student may be removed from the class and roster. Contact your admissions advisor with any questions.
+
 
 We allow Capital Factory to handout 2 diversity scholarships per quarter.
 
