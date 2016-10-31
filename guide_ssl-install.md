@@ -153,7 +153,7 @@ Q1 2016
 
         - End-User Certificate - `User.crt`
 
-    1. These files can be combined on your local machine or on the server. Let’s assume that we are copying them onto the server and then combining them there. To copy them to the server, `cd` to the folder where your .crt files are and then use the command `scp {CARoot, Int1, Int2, User}.crt root@YOUR.IP.ADDRESS:/YOUR/PATH/TO/REMOTE/FOLDER`
+    1. These files can be combined on your local machine or on the server. Let’s assume that we are copying them onto the server and then combining them there. To copy them to the server, `cd` to the folder where your .crt files are and then use the command <!--email_off-->`scp {CARoot, Int1, Int2, User}.crt root@YOUR.IP.ADDRESS:/YOUR/PATH/TO/REMOTE/FOLDER`<!--/email_off-->
 
         - The `/YOUR/PATH/TO/REMOTE/FOLDER` should be wherever you created your CSR file, for the sake of convenience in later steps
 
@@ -189,6 +189,6 @@ Q1 2016
 
 2. Make sure the folder */var/discourse/shared/standalone/ssl* exists. If not, create it using the `mkdir` command
 
-3. Assuming your old server’s *ssl.key* (private key) and *ssl.crt* (SSL certificate) files have been downloaded to your local machine, copy them to your new machine using the command `scp ssl.key ssl.crt root@YOUR.IP.ADDRESS:/YOUR/PATH/TO/REMOTE/FOLDER`
+3. Assuming your old server’s *ssl.key* (private key) and *ssl.crt* (SSL certificate) files have been downloaded to your local machine, copy them to your new machine using the command <!--email_off-->`scp ssl.key ssl.crt root@YOUR.IP.ADDRESS:/YOUR/PATH/TO/REMOTE/FOLDER`<!--/email_off-->
 
 4. Lastly, follow the steps from section Step 3A > #4 and #5
