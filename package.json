@@ -5,7 +5,7 @@
     "gitbook-plugin-jsfiddle": "^1.0.0"
   },
   "scripts": {
-    "postinstall": "gitbook install && gitbook build && rm *.md",
+    "postinstall": "gitbook install && gitbook build",
     "test": "echo \"Error: no test specified\" && exit 0"
   }
 }
