@@ -157,7 +157,7 @@ A student can enroll at anytime for an upcoming class. Enrollment for a class en
 BEGINNING AND ENDING DATES OF TERMS
 
 * Q4 2016: Classes begin October 10th, 2016 and end December 23, 2016.
-* Q1 2017: Classes begin January 16th, 2017 and end March 21st, 2017.  
+* Q1 2017: Classes begin January 16th, 2017 and end March 28th, 2017.  
 * Q2 2017: Classes begin April 17th, 2017 and end June 30th, 2017.
 * Q3 2017: Classes begin July 17th, 2017 and end September 29th, 2017.
 * Q4 2017: Classes begin October 9th, 2017 and end December 22nd, 2017.
