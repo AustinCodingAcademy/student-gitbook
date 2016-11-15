@@ -2,18 +2,26 @@
 
 # Pre-work
 
-Please visit [LearnCS.org](http://www.learncs.org/) and complete:
-
-### Learn the Basics
-* Hello, World!
-* Variables and Types
-* Arrays
-* Lists
-* Dictionaries
-* Strings
-* For loops
-* While loops
-* Methods
+Please visit [Getting Started with C#](https://www.microsoft.com/net/tutorials/csharp/getting-started) and complete the following lessons:
+* Creating a Hello World Program
+* Learning about built-in Types and Variables
+* Working with Strings
+* Working with Dates and Times
+* Making Decisions in Your Program
+* Implementing Logical Expressions
+* Looping Based on a Logical Expression
+* Looping a Known Number of Times
+* Working with Arrays and Collections
+* Looping Through Members of a Collection
+* Defining and Calling Methods
+* Understanding Classes and Objects
+* Working with Scope and Accessibility Modifiers
+* Encapsulation and Object-Oriented Design
+* Understanding Namespaces
+* Introducing LINQ
+* When and How to use Exceptions
+* Testing Your Code
+* Common Patterns and Antipatterns
 
 # Syllabus
 
