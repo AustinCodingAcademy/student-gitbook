@@ -15,7 +15,7 @@
 
 ### Both:
 * [Make sure you have gitub downloaded.](https://git-for-windows.github.io/) It comes with gitbash which you will use as a terminal. 
-* Make sure you have the updated version of Visual Studio 2015.
+* [Make sure you have the updated version of Visual Studio Community 2015.](https://www.visualstudio.com/downloads/)
 * [Download .Net Core.](https://www.microsoft.com/net/core)
 
 
