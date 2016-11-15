@@ -2,7 +2,7 @@
 
 # Pre-work
 
-8 Make sure you have your environment setup. (Revisit Intermediate Pre-Work for environmnet setup instructions).
+Make sure you have your environment setup. (Revisit Intermediate Pre-Work for environmnet setup instructions).
 
 * [Complete CodeSchool .NET Core.](https://www.codeschool.com/courses/try-asp-net-core)
 * [Watch all these videos from Microsoft.](https://mva.microsoft.com/en-US/training-courses/introduction-to-asp-net-core-1-0-16841?l=yCG2vdE6C_6406218965)
