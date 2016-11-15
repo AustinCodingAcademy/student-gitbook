@@ -7,7 +7,7 @@
 * [Complete CodeSchool .NET Core.](https://www.codeschool.com/courses/try-asp-net-core)
 * [Watch all these videos from Microsoft.](https://mva.microsoft.com/en-US/training-courses/introduction-to-asp-net-core-1-0-16841?l=yCG2vdE6C_6406218965)
 * [Complete jQuery tutorial.](https://www.codecademy.com/learn/jquery)
-* [Explore the docs.](https://docs.microsoft.com/en-us/dotnet/articles/welcome)
+* [Explore the docs.](https://docs.microsoft.com/en-us/dotnet/articles/core/)
 
 # Syllabus
 
