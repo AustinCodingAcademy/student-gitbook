@@ -5,24 +5,18 @@
 1. Set up your environment.
 
 ### Mac:
-[Download Virtualbox:](https://www.virtualbox.org/wiki/Downloads)
-[Download MS Operating System](https://developer.microsoft.com/en-us/microsoft-edge/tools/vms/)
-[Download Google Chrome:](https://www.google.com/chrome/browser/desktop/)
+* [Download Virtualbox:](https://www.virtualbox.org/wiki/Downloads)
+* [Download MS Operating System](https://developer.microsoft.com/en-us/microsoft-edge/tools/vms/)
+* [Download Google Chrome:](https://www.google.com/chrome/browser/desktop/)
 
-*Students must put all their code on github or they will lose it.
+### Windows:
+* [Download Visual Studio Community:](https://www.visualstudio.com/downloads/)
+* [Download Chrome:](https://www.google.com/chrome/browser/desktop/)
 
-
-## Windows:
-[Download Visual Studio Community:](https://www.visualstudio.com/downloads/)
-[Download Chrome:](https://www.google.com/chrome/browser/desktop/)
-
-
-[Make sure you have gitub downloaded:](https://git-for-windows.github.io/)
-It comes with gitbash which you will use as a terminal. 
-
-
-Make sure you have the updated version of Visual Studio 2015.
-[Download .Net Core:](https://www.microsoft.com/net/core)
+### Both:
+* [Make sure you have gitub downloaded.](https://git-for-windows.github.io/) It comes with gitbash which you will use as a terminal. 
+* Make sure you have the updated version of Visual Studio 2015.
+* [Download .Net Core:](https://www.microsoft.com/net/core)
 
 
 2. Please visit [Getting Started with C#](https://www.microsoft.com/net/tutorials/csharp/getting-started) and complete the following lessons using Visual Studio.
