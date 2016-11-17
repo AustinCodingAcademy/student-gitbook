@@ -10,7 +10,7 @@ While the internship program is directed toward ACA graduates, there is usually 
 
 ## How Will It Be Organized?
 
-As a functioning development team, we will be using tools you will commonly find on the job. We have a kanban-style board where interns can pick work that interests or challenges them. [See it here!](https://wekan.austincodingacademy.com/b/5Lx3qDiinG39AqPdk/internship)
+As a functioning development team, we will be using tools you will commonly find on the job. We have a kanban-style board where interns can pick work that interests or challenges them.
 
 ## Is There Any Compensation?
 
