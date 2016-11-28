@@ -9,46 +9,42 @@ Make sure you have your environment setup. (Revisit Intermediate Pre-Work for en
 * [Complete jQuery tutorial.](https://www.codecademy.com/learn/jquery)
 * [Explore the docs.](https://docs.microsoft.com/en-us/dotnet/articles/core/)
 
-# Syllabus
+# Introduction
 
-Lesson 1: Learning The Fundamentals
+Welcome to ASP.NET Core! We're going to have a great class.
 
-Lesson 2: ASP.NET MVC Architecture
+Please make sure you complete all the: pPre-Work](https://student.austincodingacademy.com/_book/sanantonio-advanced.html)
 
-Lesson 2: Defining the Model (ORM) – Entity Framework
+Lessons
 
-Lesson 3: Routes and URLs
+Class Calendar:
 
-Lesson 3: Controllers and Actions
+* Day 1: [Lesson 1: Environment and First MVC App](01lesson.md)
+* Day 2: [Lesson 2: MVC Architecture](02lesson.md)
+* Day 3: [Lesson 3: Action Results and Routing](03lesson.md)
+* Day 4: [Lesson 4: Razor](04lesson.md)
+* Day 5: [Lesson 5: Features of Visual Studio](05lesson.md)
+* Day 6: Review and Catch Up Day
+* Day 7: [Checkpoint 1](01checkpoint.md)
+* Day 8: [Lesson 6: Database](06lesson.md)
+* Day 9: [Lesson 7: Forms](07lesson.md)
+* Day 10: [Lesson 8: Form Validation](08lesson.md)
+* Day 11: [Lesson 9: API](09lesson.md)
+* Day 12: [Lesson 10: AJAX Calls](10lesson.md)
+* Day 13: Review and Catch Up Day
+* Day 14: [Checkpoint 2](02checkpoint.md)
+* Day 15: [Lesson 11: Authentication and Authorization](11lesson.md)
+* Day 16: [Lesson 12: Putting it all Together (pt. 1)](12lesson.md)
+* Day 17: [Lesson 13: Putting it all Together (pt. 2)](13lesson.md)
+* Day 18: [Lesson 14: Deployment](14lesson.md)
+* Day 19: Work Day
+* Day 20: [Final Project Presentations](03checkpoint.md)
 
-Lesson 4: ASP.NET MVC Views
+Extension Lessons:
+  * [Extension Lesson 1](extensionlesson1.md)
 
-Lesson 4: Understanding Helpers
 
-Lesson 5: Using Data Validation Techniques
 
-Lesson 5: Authentication and Authorization
 
-Lesson 6: Using Ajax  
-
-Lesson 6: Understanding Web API
-
-Lesson 7: Building a Rick Client-Side UI
-
-Lesson 7: Plan an adaptive UI layout
-
-Lesson 8: Enhance application behavior (Browser detection)
-
-Lesson 8: Deployment (Server Configuration)
-
-Lesson 9: Data Queries
-
-Lesson 9: Threading and Asynchrony
-
-Lesson 10: Customizing and Extending ASP.NET MVC
-
-Lesson 10: Build a task based web application
-
-Course Assessment, Practice Exam and Certification Exam
 
 {% include "./footer.md" %}
