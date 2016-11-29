@@ -13,7 +13,7 @@ Make sure you have your environment setup. (Revisit Intermediate Pre-Work for en
 
 Welcome to ASP.NET Core! We're going to have a great class.
 
-Please make sure you complete all the: pPre-Work](https://student.austincodingacademy.com/_book/sanantonio-advanced.html)
+Please make sure you complete all the: [Pre-Work](https://student.austincodingacademy.com/_book/sanantonio-advanced.html)
 
 Lessons
 
