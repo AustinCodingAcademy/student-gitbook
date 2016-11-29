@@ -19,30 +19,26 @@ Lessons
 
 Class Calendar:
 
-* Day 1: [Lesson 1: Environment and First MVC App](01lesson.md)
-* Day 2: [Lesson 2: MVC Architecture](02lesson.md)
-* Day 3: [Lesson 3: Action Results and Routing](03lesson.md)
-* Day 4: [Lesson 4: Razor](04lesson.md)
-* Day 5: [Lesson 5: Features of Visual Studio](05lesson.md)
+* Day 1: Lesson 1: Environment and First MVC App
+* Day 2: Lesson 2: MVC Architecture
+* Day 3: Lesson 3: Action Results and Routing
+* Day 4: Lesson 4: Razor
+* Day 5: Lesson 5: Features of Visual Studio
 * Day 6: Review and Catch Up Day
-* Day 7: [Checkpoint 1](01checkpoint.md)
-* Day 8: [Lesson 6: Database](06lesson.md)
-* Day 9: [Lesson 7: Forms](07lesson.md)
-* Day 10: [Lesson 8: Form Validation](08lesson.md)
-* Day 11: [Lesson 9: API](09lesson.md)
-* Day 12: [Lesson 10: AJAX Calls](10lesson.md)
-* Day 13: Review and Catch Up Day
-* Day 14: [Checkpoint 2](02checkpoint.md)
-* Day 15: [Lesson 11: Authentication and Authorization](11lesson.md)
-* Day 16: [Lesson 12: Putting it all Together (pt. 1)](12lesson.md)
-* Day 17: [Lesson 13: Putting it all Together (pt. 2)](13lesson.md)
-* Day 18: [Lesson 14: Deployment](14lesson.md)
-* Day 19: Work Day
-* Day 20: [Final Project Presentations](03checkpoint.md)
-
-Extension Lessons:
-  * [Extension Lesson 1](extensionlesson1.md)
-
+* Day 7: Checkpoint 1
+* Day 8: Lesson 6: Database
+* Day 9: Lesson 7: Forms
+* Day 10: Lesson 8: Form Validation
+* Day 11: Lesson 9: Unit Testing
+* Day 12: Checkpoint 2 Preparation
+* Day 13: Lesson 10: In-Class Project: Setting Up
+* Day 14: Lesson 11: In-Class Project: Navigation
+* Day 15: Lesson 12: In-Class Project: Shopping Cart
+* Day 16: Lesson 13: In-Class Project: Administration
+* Day 17: Lesson 14: In-Class Project: Security
+* Day 18: Lesson 15: Deployment15lesson.md
+* Day 19: Review and Catch Up Day
+* Day 20: Final Project Presentations
 
 
 
