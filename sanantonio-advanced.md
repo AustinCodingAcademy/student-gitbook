@@ -36,7 +36,7 @@ Class Calendar:
 * Day 15: Lesson 12: In-Class Project: Shopping Cart
 * Day 16: Lesson 13: In-Class Project: Administration
 * Day 17: Lesson 14: In-Class Project: Security
-* Day 18: Lesson 15: Deployment15lesson.md
+* Day 18: Lesson 15: In-Class Project: Deployment
 * Day 19: Review and Catch Up Day
 * Day 20: Final Project Presentations
 
