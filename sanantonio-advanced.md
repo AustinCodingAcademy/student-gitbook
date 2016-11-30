@@ -9,6 +9,8 @@ Make sure you have your environment setup. (Revisit Intermediate Pre-Work for en
 * [Complete jQuery tutorial.](https://www.codecademy.com/learn/jquery)
 * [Explore the docs.](https://docs.microsoft.com/en-us/dotnet/articles/core/)
 
+Buy this [book](https://www.amazon.com/Pro-ASP-NET-Core-ADAM-FREEMAN/dp/1484203984/ref=sr_1_1?ie=UTF8&qid=1480529357&sr=8-1&keywords=pro+asp.net+core).
+
 # Introduction
 
 Welcome to ASP.NET Core! We're going to have a great class.
