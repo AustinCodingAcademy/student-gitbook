@@ -26,20 +26,20 @@ Class Calendar:
 * Day 3: Lesson 3: Action Results and Routing
 * Day 4: Lesson 4: Razor
 * Day 5: Lesson 5: Features of Visual Studio
-* Day 6: Review and Catch Up Day
-* Day 7: Checkpoint 1
-* Day 8: Lesson 6: Database
-* Day 9: Lesson 7: Forms
-* Day 10: Lesson 8: Form Validation
-* Day 11: Lesson 9: Unit Testing
-* Day 12: Checkpoint 2 Preparation
-* Day 13: Lesson 10: In-Class Project: Setting Up
-* Day 14: Lesson 11: In-Class Project: Navigation
-* Day 15: Lesson 12: In-Class Project: Shopping Cart
-* Day 16: Lesson 13: In-Class Project: Administration
-* Day 17: Lesson 14: In-Class Project: Security
-* Day 18: Lesson 15: In-Class Project: Deployment
-* Day 19: Review and Catch Up Day
+* Day 6: Checkpoint 1
+* Day 7: Lesson 6: Database
+* Day 8: Lesson 7: Forms
+* Day 9: Lesson 8: Form Validation
+* Day 10: Lesson 9: Unit Testing
+* Day 11: Checkpoint 2 Preparation
+* Day 12: Lesson 10: In-Class Project: Putting it all together to set up MVC project
+* Day 13: Lesson 10: In-Class Project: Putting it all together to set up MVC project
+* Day 14: Lesson 10: In-Class Project: Putting it all together to set up MVC project
+* Day 15: Lesson 11: In-Class Project: Navigation
+* Day 16: Lesson 12: In-Class Project: Shopping Cart
+* Day 17: Lesson 13: In-Class Project: Administration
+* Day 18: Lesson 14: In-Class Project: Security
+* Day 19: Lesson 15: In-Class Project: Deployment
 * Day 20: Final Project Presentations
 
 
