@@ -19,27 +19,10 @@
 * [Download .Net Core.](https://www.microsoft.com/net/core)
 
 
-## 2. Please visit [Getting Started with C#](https://www.microsoft.com/net/tutorials/csharp/getting-started) and complete the following lessons using Visual Studio.
+## 2. Complete the required pre-work.
 
-* Creating a Hello World Program
-* Learning about built-in Types and Variables
-* Working with Strings
-* Working with Dates and Times
-* Making Decisions in Your Program
-* Implementing Logical Expressions
-* Looping Based on a Logical Expression
-* Looping a Known Number of Times
-* Working with Arrays and Collections
-* Looping Through Members of a Collection
-* Defining and Calling Methods
-* Understanding Classes and Objects
-* Working with Scope and Accessibility Modifiers
-* Encapsulation and Object-Oriented Design
-* Understanding Namespaces
-* Introducing LINQ
-* When and How to use Exceptions
-* Testing Your Code
-* Common Patterns and Antipatterns
+* [Sololearn C# Tutorial](https://www.sololearn.com/Play/CSharp)
+* Complete all the lessons
 
 # Syllabus
 
