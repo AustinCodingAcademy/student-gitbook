@@ -27,6 +27,7 @@ __Bonus!__
 
 ### es6
 * [Read over es6. You'll be using it in the advanced class.](https://github.com/lukehoban/es6features)
+* [ES 6 Tutorial](https://www.codeschool.com/courses/es2015-the-shape-of-javascript-to-come)
 
 ### Must Reads
 * [How the Web Works: A Primer for Newcomers to Web Development (or anyone, really)](https://medium.freecodecamp.com/how-the-web-works-a-primer-for-newcomers-to-web-development-or-anyone-really-b4584e63585c#.ipp76okk8)
@@ -39,8 +40,6 @@ Here are some extra resources to help with understanding the technologies we'll 
 * [Command Line Power User Videos](http://commandlinepoweruser.com/)
 * [The Command Line Crash Course](http://cli.learncodethehardway.org/book/)
 * [freeCodeCamp Build Web Apps with Expressjs](https://www.freecodecamp.com/challenges/build-web-apps-with-expressjs)
-* [Backbone.js Tutorial Videos](http://m.youtube.com/playlist?list=PLTjRvDozrdlwn9IsHWEs9IQv3HQob4bH3)
-* [Backbone.js For Beginners: Best Tutorials, Videos, And Learning Materials](http://whatpixel.com/backbonejs-top-learning-resources/)
 
 ## Syllabus
 ### Lesson Zero
