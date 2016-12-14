@@ -7,12 +7,14 @@
 ### Codecademy
 
 * Language Skills:
-  * [HTML\/CSS](https://www.codecademy.com/learn/web)
+  * [HTM/CSS](https://www.codecademy.com/learn/web)
     ### Codeschool
 
 
 * Development Skills:
   * [Chrome Devtools \(Lesson 1\)](https://www.codeschool.com/courses/discover-devtools)
+    * [Learn Git in 15 Minutes](https://try.github.io/levels/1/challenges/1)
+
 
 
 
