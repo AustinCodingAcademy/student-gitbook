@@ -4,11 +4,8 @@
 
 ## Prework
 
-### Codecademy
-
 * Language Skills:
   * [HTML/CSS](https://www.codecademy.com/learn/web)
-    ### Codeschool
 
 
 * Development Skills:
