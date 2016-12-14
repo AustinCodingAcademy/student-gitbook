@@ -4,7 +4,6 @@
 
 ## Prework
 
-### Codecademy
 
 * Language Skills:
   * [HTM/CSS](https://www.codecademy.com/learn/web)
