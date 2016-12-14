@@ -7,7 +7,7 @@
 ### Codecademy
 
 * Language Skills:
-  * [HTML\/CSS](https://www.codecademy.com/learn/web)
+  * [HTML/CSS](https://www.codecademy.com/learn/web)
     ### Codeschool
 
 
