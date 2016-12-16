@@ -4,11 +4,22 @@
 
 ## Prework
 
-* Language Skills:
+#### Prepare your Machine
+
+* Install [Atom](http://atom.io/) on your laptop (Mac or Windows).
+* [Atom Installation Video](https://youtu.be/8sIwQabXSM8)
+* Once Atom is installed add these extensions:
+  * atom-live-server
+  * How to install **atom-live-server** extension: [Installing Extension Video](https://youtu.be/qeMMO7wkecs)
+  
+* PC Users: install [Gitbash](https://github.com/msysgit/msysgit/releases/).
+
+#### Prepare your Mind
+
+* Complete Language Skills:
   * [HTML/CSS](https://www.codecademy.com/learn/web)
 
-
-* Development Skills:
+* Complete Development Skills:
   * [Chrome Devtools \(Lesson 1\)](https://www.codeschool.com/courses/discover-devtools)
   * [Learn Git in 15 Minutes](https://try.github.io/levels/1/challenges/1)
 
