@@ -25,46 +25,31 @@
 
 
 
-## Syllabus
+## Suggested Class Layout
 
-Lesson 1 - Checkpoint 0 - Environment Setup and Class Introduction
+*Subject to change*
 
-Lesson 2 - Introduction to HTML
+Prior to Day 1: Pre-work
 
-Lesson 3 - HTML5 - Semantic Elements
-
-Lesson 4 - CSS - Cascading Style Sheet
-
-Lesson 5 - Checkpoint 1 - HTML & CSS working together
-
-Lesson 6 - CSS - Precedence and Selectors
-
-Lesson 7 - CSS - Float and Clear
-
-Lesson 8 - CSS - Box Model
-
-Lesson 9 - CSS Reset and Multipage Websites
-
-Lesson 10 - Checkpoint 2 - Float, Clear, and Box Model
-
-Lesson 11 - Media Query
-
-Lesson 12 - Introduction to Bootstrap
-
-Lesson 13 - Bootstrap Responsive Utility
-
-Lesson 14 - Bootstrap Navigation
-
-Lesson 15 - Checkpoint 3 - Media Queries and Bootstrap
-
-Lesson 16 - Animate.css
-
-Lesson 17 - Form Integration
-
-Lesson 18 - Build Final Projects
-
-Lesson 19 - Build Final Projects
-
-Lesson 20 Final Project - Final Project
+Day 1: esson 1 - Environment & Semantic Elements
+Day 2: Lesson 2 - HTML Page Layout & Relative Paths
+Day 3: Lesson 3 - CSS Selectors, Precedence, & Reset
+Day 4: Lesson 4 - Box Model
+Day 5: Checkpoint 1
+Day 6: Lesson 5 - Flexbox
+Day 7: Lesson 6 - Flexbox Grid System
+Day 8: Lesson 7 - Forms
+Day 9: Review
+Day 10: Checkpoint 2
+Day 11: Lesson 8 - JQuery
+Day 12: Lesson 9 - JQuery To Do App
+Day 13: Lesson 9 - JavaScript Data Types
+Day 14: Lesson 11 - JavaScript Conditionals
+Day 15: Lesson 12 - JavaScript Loops
+Day 16: Lesson 13 - JQuery FizzBuzz
+Day 17: Lesson 14 - JQuery Tic Tac Toe
+Day 18: Lesson 15 - JQuery Cats in Hats
+Day 19: Review
+Day 20: Checkpoint 3 Final Project
 
 {% include "./footer.md" %}
