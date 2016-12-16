@@ -29,11 +29,8 @@
 
 <iframe width="420" height="315" src="https://www.youtube.com/embed/l5c2MXy7aOU" frameborder="0" allowfullscreen></iframe>
 
-* Install [GitHub Desktop](https://desktop.github.com/). Run the app and sign in using your GitHub credentials. If the signing process does not appear click on the `gear` on the top right corner, click on `option`, and lastly click on `+ Add account`. Enter your GitHub credentials and click `login`.
 
-* Refer to [this](https://help.github.com/desktop/guides/getting-started/) handy guide if you run into any snags.
-
-* **Bonus:** Jumpstart your understanding of the Github workflow by watching [this quick video](https://youtu.be/_ALeswWzpBo).
+* Jumpstart your understanding of the Github workflow by watching [this quick video](https://youtu.be/_ALeswWzpBo).
 
 <iframe width="420" height="315" src="https://www.youtube.com/embed/F-2-h_Buino" frameborder="0" allowfullscreen></iframe>
 
