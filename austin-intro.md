@@ -22,7 +22,22 @@
 * Complete Development Skills:
   * [Chrome Devtools \(Lesson 1\)](https://www.codeschool.com/courses/discover-devtools)
   * [Learn Git in 15 Minutes](https://try.github.io/levels/1/challenges/1)
+  
+#### Prepare your Github
 
+* Create an account on [GitHub](http://www.github.com) using your real name. Remember your credentials because you are going to need them later.
+
+<iframe width="420" height="315" src="https://www.youtube.com/embed/l5c2MXy7aOU" frameborder="0" allowfullscreen></iframe>
+
+* Install [GitHub Desktop](https://desktop.github.com/). Run the app and sign in using your GitHub credentials. If the signing process does not appear click on the `gear` on the top right corner, click on `option`, and lastly click on `+ Add account`. Enter your GitHub credentials and click `login`.
+
+* Refer to [this](https://help.github.com/desktop/guides/getting-started/) handy guide if you run into any snags.
+
+* **Bonus:** Jumpstart your understanding of the Github workflow by watching [this quick video](https://youtu.be/_ALeswWzpBo).
+
+<iframe width="420" height="315" src="https://www.youtube.com/embed/F-2-h_Buino" frameborder="0" allowfullscreen></iframe>
+
+<iframe width="420" height="315" src="https://www.youtube.com/embed/mpuGlDSr45E" frameborder="0" allowfullscreen></iframe>
 
 
 ## Suggested Class Layout
@@ -30,8 +45,7 @@
 *Subject to change*
 
 * Prior to Day 1: Pre-work
-
-* Day 1: esson 1 - Environment & Semantic Elements
+* Day 1: Lesson 1 - Environment & Semantic Elements
 * Day 2: Lesson 2 - HTML Page Layout & Relative Paths
 * Day 3: Lesson 3 - CSS Selectors, Precedence, & Reset
 * Day 4: Lesson 4 - Box Model
