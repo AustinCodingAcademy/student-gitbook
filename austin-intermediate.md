@@ -4,11 +4,16 @@
 
 ## Prework
 
-[Codecademy](https://www.codecademy.com/) is a great resource for learning the syntax of different popular languages, as well as familiarizing yourself with important tools. Make an account and get started coding now. Try to do at lease little bit every day, but don't be afraid to go on a binge.
 
-[Code School](https://www.codeschool.com/) is another great resource for exposure to different subjects. Although not all subjects are free, the first lesson or two usually is.
+* [Codecademy](https://www.codecademy.com/) is a great resource for learning the syntax of different popular languages, as well as familiarizing yourself with important tools. Make an account and get started coding now. Try to do at lease little bit every day, but don't be afraid to go on a binge.
+
+* [Code School](https://www.codeschool.com/) is another great resource for exposure to different subjects. Although not all subjects are free, the first lesson or two usually is.
 
 #### For your prework \(\*\*work done before class starts\*\*\) you are to do:
+
+####  "Think Like a Programmer"
+Watch the ["Think Like a Programmer" video series](https://www.youtube.com/watch?v=YgzpqlF54lo&list=PLKQ5LYb497AZIZe9dBWy8GwLluVaMQVj0&index=1). 
+
 
 #### Codecademy: JavaScript
 Your future bread and butter.
