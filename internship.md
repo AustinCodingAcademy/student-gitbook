@@ -2,7 +2,7 @@
 
 # ACA DevTeam
 
-Lack of industry experience will be your biggest hurdle after graduating from ACA. To supplement that part of your resume, we offer you the chance to work with us! We have plenty of projects and tasks that you can test your skills against and learn something new. Whether it's building a [GitBook Plugin](https://github.com/AustinCodingAcademy/plugin-tonic-aca) to share with the world, development work on our [ACA Jobs Board](https://github.com/AustinCodingAcademy/jobskee-open-source-job-board), deploying our upcoming [feedback system](https://github.com/AustinCodingAcademy/phpback), or implementing new features and bug-fixes on our homegrown [Campus Manager](https://github.com/AustinCodingAcademy/aca-campus) app. All work will be open-source and shared with the world (and in your next job interview).
+Lack of industry experience will be your biggest hurdle after graduating from ACA. To supplement that part of your resume, we offer you the chance to work with us! We have plenty of projects and tasks that you can test your skills against and learn something new. Whether it's building a [GitBook Plugin](https://github.com/AustinCodingAcademy/plugin-tonic-aca) to share with the world, development work on our [ACA Jobs Board](https://github.com/AustinCodingAcademy/jobskee-open-source-job-board), or implementing new features and bug-fixes on our homegrown [Campus Manager](https://github.com/AustinCodingAcademy/campus-manager) app. All work will be open-source and shared with the world (and in your next job interview).
 
 ## Who Should Apply?
 
