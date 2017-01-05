@@ -2,8 +2,6 @@
 
 # Student Handbook
 
-# Summary
-
 Welcome! Below you will find links to the course catalog for your schools. 
 
 * [Austin Coding Academy](https://docs.google.com/document/d/1DleTa0IYkpZAUK9b3yNsJiE5Uc2D2tHF5lVWVH83ZiM/edit?usp=sharing)
