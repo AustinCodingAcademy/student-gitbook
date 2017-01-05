@@ -13,6 +13,7 @@
   * How to install **atom-live-server** extension: [Installing Extension Video](https://youtu.be/qeMMO7wkecs)
   
 * PC Users: install [Gitbash](https://github.com/msysgit/msysgit/releases/).
+* MAC Users: make sure your Xcode is updated.
 
 #### Prepare your Mind
 
