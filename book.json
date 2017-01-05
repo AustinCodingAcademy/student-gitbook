@@ -2,7 +2,8 @@
     "plugins": [
         "edit-link",
         "ga",
-        "collapsible-chapters"
+        "collapsible-chapters",
+        "replace-with-index-html"
     ],
     "pluginsConfig": {
         "ga": {
