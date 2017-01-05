@@ -1,3 +1,5 @@
+{% include "./header.md" %}
+
 # Student Handbook
 
 # Summary
@@ -11,3 +13,4 @@ Welcome! Below you will find links to the course catalog for your schools.
 
 In the side menu, you will find links to the pre-work and syllabus for your class. 
 
+{% include "./footer.md" %}
