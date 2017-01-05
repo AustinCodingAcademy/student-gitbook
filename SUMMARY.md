@@ -5,25 +5,25 @@
 
 
 * Austin
-  * [Intro](austin-intro.md)
-  * [Intermediate](austin-intermediate.md)
-  * [Advanced](austin-advanced.md)
+  * [Intro Pre-work and Syllabus](austin-intro.md)
+  * [Intermediate Pre-work and Syllabus](austin-intermediate.md)
+  * [Advanced Pre-work and Syllabus](austin-advanced.md)
 
   
 * Dallas
-  * [Intro](dallas-intro.md)
-  * [Intermediate](dallas-intermediate.md)
-  * [Advanced](dallas-advanced.md)
+  * [Intro Pre-work and Syllabus](dallas-intro.md)
+  * [Intermediate Pre-work and Syllabus](dallas-intermediate.md)
+  * [Advanced Pre-work and Syllabus](dallas-advanced.md)
   
   
 * Houston
-  * [Intro](houston-intro.md)
-  * [Intermediate](houston-intermediate.md)
-  * [Advanced](houston-advanced.md)
+  * [Intro Pre-work and Syllabus](houston-intro.md)
+  * [Intermediate Pre-work and Syllabus](houston-intermediate.md)
+  * [Advanced Pre-work and Syllabus](houston-advanced.md)
   
   
 * San Antonio
-  * [Intro](sanantonio-intro.md)
-  * [Intermediate](sanantonio-intermediate.md)
-  * [Advanced](sanantonio-advanced.md)
+  * [Intro Pre-work and Syllabus](sanantonio-intro.md)
+  * [Intermediate Pre-work and Syllabus](sanantonio-intermediate.md)
+  * [Advanced Pre-work and Syllabus](sanantonio-advanced.md)
   
