@@ -1,10 +1,29 @@
 # Summary
 
-Welcome! Below you will find links to the course catalog for your schools. 
 
-* [Austin Coding Academy](https://docs.google.com/document/d/1DleTa0IYkpZAUK9b3yNsJiE5Uc2D2tHF5lVWVH83ZiM/edit?usp=sharing)
-* [Dallas Coding Academy](https://docs.google.com/document/d/1A34e5Akso-1O7aCHGxqcq-uoVXbvCXPijdtKF98fzQU/edit?usp=sharing)
-* [Houston Coding Academy](https://docs.google.com/document/d/1U8_ZLO7L9vQHczANv45fHfMlh-zZjNQXYOEkBjc3AZg/edit?usp=sharing)
-* [San Antonio Coding Academy](https://docs.google.com/document/d/1ZMtSfoxoiBSwZFmEsM2VOqyUcXc7x8NujfyTPAIF4Vw/edit?usp=sharing)
+* [Home](README.md)
 
-In the side menu, you will find links to the pre-work and syllabus for your class. 
+
+* Austin
+  * [Intro](austin-intro.md)
+  * [Intermediate](austin-intermediate.md)
+  * [Advanced](austin-advanced.md)
+
+  
+* Dallas
+  * [Intro](dallas-intro.md)
+  * [Intermediate](dallas-intermediate.md)
+  * [Advanced](dallas-advanced.md)
+  
+  
+* Houston
+  * [Intro](houston-intro.md)
+  * [Intermediate](houston-intermediate.md)
+  * [Advanced](houston-advanced.md)
+  
+  
+* San Antonio
+  * [Intro](sanantonio-intro.md)
+  * [Intermediate](sanantonio-intermediate.md)
+  * [Advanced](sanantonio-advanced.md)
+  
