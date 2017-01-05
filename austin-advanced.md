@@ -40,6 +40,10 @@ Note: Codeschool isn't free, but [here's a coupon](https://www.codeschool.com/en
 These problems aren't necessarily related to class work, and are more concerned with programing concepts in general. The trick here is to complete these problems using javascript. (try and have problems 1 - 5 done before class if possible!)
 * [Project Euler](https://projecteuler.net/archives)
 
+#### More React
+*[React Fundamentals](https://egghead.io/courses/react-fundamentals)
+ * A free course on egghead.io, covering react fundamentals.
+
 #### Some flex stuff if your interested
 * [Flexbox Defense](http://www.flexboxdefense.com/)
 * [Flexbox Froggy](http://flexboxfroggy.com/)
@@ -49,101 +53,5 @@ Here are some extra resources to help with understanding the technologies we'll 
 * [Command Line Power User Videos](http://commandlinepoweruser.com/)
 * [The Command Line Crash Course](http://cli.learncodethehardway.org/book/)
 * [freeCodeCamp Build Web Apps with Express.js](https://www.freecodecamp.com/challenges/build-web-apps-with-expressjs)
-
-<!-- ## Syllabus
-### Lesson Zero
-#### How the internet works
-#### What is the "Full Stack"?
-
----
-### Lesson One
-#### Express.js
-#### `express` generator
-#### Templating using `ejs`
-
----
-### Lesson Two
-#### Routing in Express.js
-#### GET and POST requests types
-
----
-### Lesson Three
-#### Database Design
-#### MongoDB and Robomongo
-#### Mongoose.js and Models
-
----
-### Lesson Four
-
-#### PUT and DELETE request types
-#### Building RESTful routes
-#### Building RESTful Controllers
-
----
-###  Lesson Five
-#### Using `jQuery.ajax()`
-#### Using Backbone Models
-#### Using Backbone Collections
-
----
-### Lesson Six
-#### Backbone Views
-#### `el`, `template`, `render`
-#### Exercise
-Create Layout View
-
----
-### Lesson Seven
-#### Backbone Views
-#### `itemView`, `listView`
-
----
-### Lesson Eight
-#### Backbone collection and model `events`
-#### `initialize`, `listenTo`
-
----
-### Lesson Nine
-#### Backbone View Events
-#### `events`
-#### Exercise
-Delete tasks, add tasks
-
----
-### Lesson Ten
-#### Mongoose Model relations
-#### Flexbox
-#### Exercise
-Create Lane Model, Lane Views
-
----
-### Lesson Eleven
-#### jQuery UI, events
-#### Exercise
-Drag and drop tasks to lanes
-
----
-### Lesson Twelve
-#### Authentication with Passport.js
-#### Login/Register View
-#### Exercise
-Create User Model, relationships
-
----
-### Lesson Thirteen
-#### Backbone Router
-#### Exercise
-Create Board Model, relationships
-
----
-### Lesson Fourteen
-#### Deploying to Heroku
-#### Exercise
-
----
-### Stretch Goals
-#### Browserify + Gulp
-#### Breaking up code into modules
-#### Foundation + Sass -->
 
 {% include "./footer.md" %}
