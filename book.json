@@ -3,7 +3,8 @@
         "edit-link",
         "ga",
         "collapsible-chapters",
-        "replace-with-index-html"
+        "replace-with-index-html",
+        "discourse-external-integration"
     ],
     "pluginsConfig": {
         "ga": {
@@ -15,6 +16,9 @@
         "edit-link": {
             "base": "https://github.com/AustinCodingAcademy/student-gitbook/edit/master/",
             "label": "Edit This Page"
+        },
+        "discourse-external-integration": {
+            "discourseUrl": "https://discourse.austincodingacademy.com/"
         }
     }
 }
