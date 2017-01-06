@@ -4,16 +4,38 @@
 
 ## Prework
 
-### Codecademy
+#### Prepare your Machine
 
-* Language Skills:
-  * [HTML\/CSS](https://www.codecademy.com/learn/web)
-    ### Codeschool
+* Install [Atom](http://atom.io/) on your laptop (Mac or Windows).
+* [Atom Installation Video](https://youtu.be/8sIwQabXSM8)
+* Once Atom is installed add these extensions:
+  * atom-live-server
+  * How to install **atom-live-server** extension: [Installing Extension Video](https://youtu.be/qeMMO7wkecs)
+  
+* PC Users: install [Gitbash](https://github.com/msysgit/msysgit/releases/).
+* MAC Users: make sure your Xcode is updated.
 
+#### Prepare your Mind
 
-* Development Skills:
+* Complete Language Skills:
+  * [HTML/CSS](https://www.codecademy.com/learn/web)
+
+* Complete Development Skills:
   * [Chrome Devtools \(Lesson 1\)](https://www.codeschool.com/courses/discover-devtools)
+  * [Learn Git in 15 Minutes](https://try.github.io/levels/1/challenges/1)
+  
+#### Prepare your Github
 
+* Create an account on [GitHub](http://www.github.com) using your real name. Remember your credentials because you are going to need them later.
+
+<iframe width="420" height="315" src="https://www.youtube.com/embed/l5c2MXy7aOU" frameborder="0" allowfullscreen></iframe>
+
+
+* Jumpstart your understanding of the Github workflow by watching [this quick video](https://youtu.be/_ALeswWzpBo).
+
+<iframe width="420" height="315" src="https://www.youtube.com/embed/F-2-h_Buino" frameborder="0" allowfullscreen></iframe>
+
+<iframe width="420" height="315" src="https://www.youtube.com/embed/mpuGlDSr45E" frameborder="0" allowfullscreen></iframe>
 
 
 ## Syllabus
@@ -57,5 +79,6 @@ Lesson 18 - Build Final Projects
 Lesson 19 - Build Final Projects
 
 Lesson 20 Final Project - Final Project
+
 
 {% include "./footer.md" %}
