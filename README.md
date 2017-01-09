@@ -2,7 +2,7 @@
 
 # Student Handbook
 
-Welcome! Below you will find links to the intro packets. We suggest that all students read over the intro packets as they contain important information that will help you be successful. Additionally, in the side menu, you will find links to the pre-work and syllabus for your class. Finally the course catalog for your school is below. The course catalog is your comprehensive guide to all of your school's policies. It's important to take a look at and understand.
+Welcome! Below you will find links to the intro packets. We suggest that all students read over the intro packets as they contain important information that will help you be successful. Additionally, in the side menu, you will find links to the pre-work and syllabus for your class. Finally the course catalog for your school is below. The course catalog is your comprehensive guide to all of your school's policies.
 
 ### Intro Packets
 * [Austin Coding Academy](https://docs.google.com/document/d/1xytGUXwhsaHuUt6jTq9Yuh6eIniHuE9hxAat2Y4cHj4/edit?usp=sharing)
