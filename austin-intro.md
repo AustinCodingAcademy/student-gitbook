@@ -31,13 +31,6 @@
 <iframe width="420" height="315" src="https://www.youtube.com/embed/l5c2MXy7aOU" frameborder="0" allowfullscreen></iframe>
 
 
-* Jumpstart your understanding of the Github workflow by watching [this quick video](https://youtu.be/_ALeswWzpBo).
-
-<iframe width="420" height="315" src="https://www.youtube.com/embed/F-2-h_Buino" frameborder="0" allowfullscreen></iframe>
-
-<iframe width="420" height="315" src="https://www.youtube.com/embed/mpuGlDSr45E" frameborder="0" allowfullscreen></iframe>
-
-
 ## Syllabus
 
 Lesson 1 - Checkpoint 0 - Environment Setup and Class Introduction
