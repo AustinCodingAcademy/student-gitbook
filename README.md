@@ -6,6 +6,7 @@ Welcome! Below you will find links to the intro packets. We suggest that all stu
 
 ### Intro Packets
 * [Austin Coding Academy](https://docs.google.com/document/d/1xytGUXwhsaHuUt6jTq9Yuh6eIniHuE9hxAat2Y4cHj4/edit?usp=sharing)
+* [Dallas Coding Academy](https://docs.google.com/document/d/19WYWfs5_kOK7ApfhyHe2-iGhqdnma_kAeOwRxQ9NwTs/edit?usp=sharing)
 * [San Antonio Coding Academy](https://docs.google.com/document/d/1U0OSR5z1sPYDLNl14virVGIqaTpf4McNAusTuWHePGU/edit?usp=sharing)
 
 ### Course Catalogs
