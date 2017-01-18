@@ -33,9 +33,6 @@
 
 * Jumpstart your understanding of the Github workflow by watching [this quick video](https://youtu.be/_ALeswWzpBo).
 
-<iframe width="420" height="315" src="https://www.youtube.com/embed/F-2-h_Buino" frameborder="0" allowfullscreen></iframe>
-
-<iframe width="420" height="315" src="https://www.youtube.com/embed/mpuGlDSr45E" frameborder="0" allowfullscreen></iframe>
 
 
 ## Syllabus
