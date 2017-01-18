@@ -10,7 +10,7 @@ While the internship program is directed toward ACA graduates, there is usually 
 
 ## How Will It Be Organized?
 
-As a functioning development team, we will be using tools you will commonly find on the job. We have a [kanban-style](https://github.com/orgs/AustinCodingAcademy/projects/1) board where interns can pick work that interests or challenges them.
+As a functioning development team, we will be using tools you will commonly find on the job. We have a [kanban-style](https://waffle.io/AustinCodingAcademy/campus-manager) board where interns can pick work that interests or challenges them.
 
 ## Is There Any Compensation?
 
