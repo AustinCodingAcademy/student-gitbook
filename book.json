@@ -4,7 +4,7 @@
         "ga",
         "collapsible-chapters",
         "replace-with-index-html",
-        "discourse-external-integration"
+        "disqus"
     ],
     "pluginsConfig": {
         "ga": {
@@ -17,8 +17,8 @@
             "base": "https://github.com/AustinCodingAcademy/student-gitbook/edit/master/",
             "label": "Edit This Page"
         },
-        "discourse-external-integration": {
-            "discourseUrl": "https://discourse.austincodingacademy.com/"
+        "disqus": {
+          "shortName": "austincodingacademy"
         }
     }
 }
