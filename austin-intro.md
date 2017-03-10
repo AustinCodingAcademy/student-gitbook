@@ -24,6 +24,12 @@
   * [Chrome Devtools \(Lesson 1\)](https://www.codeschool.com/courses/discover-devtools)
   * [Learn Git in 15 Minutes](https://try.github.io/levels/1/challenges/1)
   
+#### Prepare your Career
+
+* Submit/prepare resume.
+* Identify target roles.
+* Work on developing needed skills. 
+  
 #### Prepare your Github
 
 * Create an account on [GitHub](http://www.github.com) using your real name. Remember your credentials because you are going to need them later.
