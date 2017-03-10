@@ -4,17 +4,6 @@
 
 ## Prework
 
-#### Prepare your Machine
-
-* Install [Atom](http://atom.io/) on your laptop (Mac or Windows).
-* [Atom Installation Video](https://youtu.be/8sIwQabXSM8)
-* Once Atom is installed add these extensions:
-  * atom-live-server
-  * How to install **atom-live-server** extension: [Installing Extension Video](https://youtu.be/qeMMO7wkecs)
-  
-* PC Users: install [Gitbash](https://github.com/msysgit/msysgit/releases/).
-* MAC Users: make sure your Xcode is updated.
-
 #### Prepare your Mind
 
 * Complete Language Skills:
@@ -36,6 +25,16 @@
 
 <iframe width="420" height="315" src="https://www.youtube.com/embed/l5c2MXy7aOU" frameborder="0" allowfullscreen></iframe>
 
+#### Prepare your Machine
+
+* Install [Atom](http://atom.io/) on your laptop (Mac or Windows).
+* [Atom Installation Video](https://youtu.be/8sIwQabXSM8)
+* Once Atom is installed add these extensions:
+  * atom-live-server
+  * How to install **atom-live-server** extension: [Installing Extension Video](https://youtu.be/qeMMO7wkecs)
+  
+* PC Users: install [Gitbash](https://github.com/msysgit/msysgit/releases/).
+* MAC Users: make sure your Xcode is updated.
 
 ## Syllabus
 
