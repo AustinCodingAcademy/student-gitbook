@@ -15,9 +15,10 @@
   
 #### Prepare your Career
 
-* Submit/prepare resume.
+* Prepare new resume.
 * Identify target roles.
 * Work on developing needed skills. 
+* Create or update [LinkedIn](https://www.linkedin.com/) with a picture/bio.
   
 #### Prepare your Github
 
