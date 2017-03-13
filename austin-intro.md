@@ -91,5 +91,6 @@
 * Week 10
 
   * Day 1 - Lesson 19: Manipulating Elements
+  * Final Project Presentations
 
 {% include "./footer.md" %}
