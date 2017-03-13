@@ -37,5 +37,61 @@
 * PC Users: install [Gitbash](https://github.com/msysgit/msysgit/releases/).
 * MAC Users: make sure your Xcode is updated.
 
+## Syllabus
+
+* Week 1
+
+  * Day 1 - Lesson 1: Git
+  * Day 2 - Lesson 2: Semantic Elements
+
+* Week 2
+
+  * Day 1 - Lesson 3: CSS
+  * Day 2 - Lesson 4: CSS Selectors
+
+* Week 3
+
+  * Day 1 - Lesson 5: Box Model
+  * Day 2 - Lesson 6: UI/UX
+  * Checkpoint 1
+
+
+* Week 4
+
+  * Day 1 - Lesson 7: Flexbox Layout
+  * Day 2 - Lesson 8: Media Queries
+
+* Week 5
+
+  * Day 1 -  Lesson 9: Bootstrap Grid
+  * Day 2 - Lesson 10: Transitions and Transformations
+
+* Week 6
+
+  * Day 1 - Lesson 11: Document Object Model
+  * Day 2 - Lesson 12: JavaScript Introduction
+  * Checkpoint 2
+  
+* Week 7
+
+  * Day 1 - Lesson 13: JavaScript Conditionals and Loops
+  * Day 2 - Lesson 14: JavaScript Advanced Array Methods
+  
+* Week 8
+
+  * Day 1 - Lesson 15: JQuery
+  * Day 2 - Lesson 16: Forms Introduction
+
+* Week 9
+
+  * Day 1 - Lesson 17: Forms Advanced
+  * Day 2 - Lesson 18: Media Controls and Canvas
+  * Checkpoint 3
+
+* Week 10
+
+  * Day 1 - Lesson 19: Manipulating Elements
+  * Day 2 - Final Project Presentations
+
 
 {% include "./footer.md" %}
