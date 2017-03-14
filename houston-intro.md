@@ -4,58 +4,95 @@
 
 ## Prework
 
-### Codecademy
+#### Prepare your Mind
 
-* Language Skills:
-  * [HTML\/CSS](https://www.codecademy.com/learn/web)
-    ### Codeschool
+* Complete Language Skills:
+  * [HTML/CSS](https://www.codeschool.com/learn/html-css)
 
-
-* Development Skills:
+* Complete Development Skills:
   * [Chrome Devtools \(Lesson 1\)](https://www.codeschool.com/courses/discover-devtools)
+  * [Learn Git in 15 Minutes](https://try.github.io/levels/1/challenges/1)
+  
+#### Prepare your Career
 
+* Prepare new resume.
+* Identify target roles.
+* Work on developing needed skills. 
+* Create or update [LinkedIn](https://www.linkedin.com/) with a picture/bio.
+  
+#### Prepare your Github
 
+* Create an account on [GitHub](http://www.github.com) using your real name. Remember your credentials because you are going to need them later.
+
+<iframe width="420" height="315" src="https://www.youtube.com/embed/l5c2MXy7aOU" frameborder="0" allowfullscreen></iframe>
+
+#### Prepare your Machine
+
+* Install [Atom](http://atom.io/) on your laptop (Mac or Windows).
+* [Atom Installation Video](https://youtu.be/8sIwQabXSM8)
+* Once Atom is installed add these extensions:
+  * atom-live-server
+  * How to install **atom-live-server** extension: [Installing Extension Video](https://youtu.be/qeMMO7wkecs)
+  
+* PC Users: install [Gitbash](https://github.com/msysgit/msysgit/releases/).
+* MAC Users: make sure your Xcode is updated.
 
 ## Syllabus
 
-Lesson 1 - Checkpoint 0 - Environment Setup and Class Introduction
+* Week 1
 
-Lesson 2 - Introduction to HTML
+  * Day 1 - Lesson 1: Git
+  * Day 2 - Lesson 2: Semantic Elements
 
-Lesson 3 - HTML5 - Semantic Elements
+* Week 2
 
-Lesson 4 - CSS - Cascading Style Sheet
+  * Day 1 - Lesson 3: CSS
+  * Day 2 - Lesson 4: CSS Selectors
 
-Lesson 5 - Checkpoint 1 - HTML & CSS working together
+* Week 3
 
-Lesson 6 - CSS - Precedence and Selectors
+  * Day 1 - Lesson 5: Box Model
+  * Day 2 - Lesson 6: UI/UX
+  * Checkpoint 1
 
-Lesson 7 - CSS - Float and Clear
 
-Lesson 8 - CSS - Box Model
+* Week 4
 
-Lesson 9 - CSS Reset and Multipage Websites
+  * Day 1 - Lesson 7: Flexbox Layout
+  * Day 2 - Lesson 8: Media Queries
 
-Lesson 10 - Checkpoint 2 - Float, Clear, and Box Model
+* Week 5
 
-Lesson 11 - Media Query
+  * Day 1 -  Lesson 9: Bootstrap Grid
+  * Day 2 - Lesson 10: Transitions and Transformations
 
-Lesson 12 - Introduction to Bootstrap
+* Week 6
 
-Lesson 13 - Bootstrap Responsive Utility
+  * Day 1 - Lesson 11: Document Object Model
+  * Day 2 - Lesson 12: JavaScript Introduction
+  * Checkpoint 2
+  
+* Week 7
 
-Lesson 14 - Bootstrap Navigation
+  * Day 1 - Lesson 13: JavaScript Conditionals and Loops
+  * Day 2 - Lesson 14: JavaScript Advanced Array Methods
+  
+* Week 8
 
-Lesson 15 - Checkpoint 3 - Media Queries and Bootstrap
+  * Day 1 - Lesson 15: JQuery
+  * Day 2 - Lesson 16: Forms Introduction
 
-Lesson 16 - Animate.css
+* Week 9
 
-Lesson 17 - Form Integration
+  * Day 1 - Lesson 17: Forms Advanced
+  * Day 2 - Lesson 18: Media Controls and Canvas
+  * Checkpoint 3
 
-Lesson 18 - Build Final Projects
+* Week 10
 
-Lesson 19 - Build Final Projects
+  * Day 1 - Lesson 19: Manipulating Elements
+  * Day 2 - Final Project Presentations
 
-Lesson 20 Final Project - Final Project
 
 {% include "./footer.md" %}
+
