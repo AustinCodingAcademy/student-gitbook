@@ -23,4 +23,5 @@ deployment:
       - ./gdrive sync upload ./$NAME $FILE_ID
       - git config --global user.email "kevin@austincodingacademy.com"
       - git config --global user.name "Kevin Colten"
+      - touch ./_book/.nojekyll
       - ./node_modules/.bin/gh-pages -d ./_book
