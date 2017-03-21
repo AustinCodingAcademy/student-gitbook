@@ -4,15 +4,17 @@ Hand out printed cheatsheets of the HTML and CSS terms, tags, elements.
 # Wine and Web
 
 
-## Welcome!
 ---
+## Welcome!
+
 Below you will find written instructions for the Wine and Web event.
 
 Instructors will be moving at a leisurely pace, but if you'd like to have a visual reference, this is the place!
 
-
-### Environment Setup
 ---
+### Environment Setup
+
+Please make sure you've downloaded the software we'll be using today
 * Download [Atom](https://atom.io/)
 * Download [Chrome](https://www.google.com/chrome/browser/desktop/index.html)
 
@@ -20,38 +22,42 @@ Instructors will be moving at a leisurely pace, but if you'd like to have a visu
 * Download [iTerm2](https://www.iterm2.com/)
 * Start Github account(https://github.com/) -->
 
-### Structure of Class
 ---
+### Structure of Class
+
 * Meet and Greet
 * Ice Breaker
 * Coding Lesson
 * Presentations
 
 
-### Objectives
 ---
+### Objectives
+
 * Learn about the basic building blocks of web apps
 * Experience a Learning Team environment
 * Understand the benefits of the Iterative Design Process
 
 
-### Key Questions
 ---
+### Key Questions
+
 <!-- * What is a web application?
 * What is MVC architecture? -->
 * What does the browser do?
 * What are HTML and CSS and how do they relate to each other?
+* How does a website work?
+* Can I create a website?
 
 
-### Project
 ---
-Most of you are here looking for a new career, so today we're going to create a resume page for your online Portfolio with the skills you'll have as a web developer.
+### Project
+
+Most of you are interested in a new career, so today we're going to create a resume page for an online Portfolio with the skills you'll have as a web developer.
 
 Today the resume will be modeled after
- * One of our graduates
  * A UX designer
-
-Feel free to revisit this document as you learn more and drive additional value.
+ * One of our graduates who became an Instructor
 
 We will leverage
  * Experience / Previous employment
@@ -63,38 +69,43 @@ We will leverage
  * Development / Design Team experience
  * Soft skills
 
-Extension - Host on gh-pages
+Extension - Host your website gh-pages
 
 
-## Learning Teams & Iterative Design
 ---
+## Learning Teams & Iterative Design
+
 We’re going to be partnering up today, so please sit a little closer to your partner. You should be able to see their computer screen clearly.
 
-Your support network here today will resemble the Learning Teams we have in our Intro classes.
+Your support network here today will resemble the Learning Teams we have in our Intro classes, which are based on Agile Development teams.
 
 Many people still believe the tropes about developers sitting in a basement or a van, eating HotPockets and drinking Mountain Dew.
 
-In reality, teams of developers, designers, marketers, salespeople, accountants, and managers all work together to create products and features using iterative design cycles involving actionable customer feedback.
+In reality, teams of developers, designers, marketers, salespeople, accountants, and managers all work together to create products and features using iterative design cycles. This process involves testing features and acting on customer feedback.
 
-Ever seen the apps on your phone ‘updating’? That’s iterative Design and Development teams using feedback from real customers to create new and enjoyable experiences.
+Ever seen the apps on your phone ‘updating’? That’s Iterative Design and Agile Development teams using feedback from real customers to create new and enjoyable experiences.
 
-Paired programming is one of the most effective ways that Iterative Design teams and web developers learn, so we'll be working in teams today.
+Paired programming is one of the most effective ways that Iterative Design teams and web developers learn, so we'll be working with partners today and iterating through our designs to optimize for increasingly better user experience.
 
 
-## Creating a web page
 ---
+## Creating a web page
+
 Modern browsers read ‘code’ from servers to create web pages that you see on your computer using commands written in HTML, CSS, and Javascript.
 
 Most developers use Chrome, but some others you might be familiar with are Safari and Internet Explorer.
 
-1. The browser reads and readys the HTML (content - words, images) using semantic
+1. The browser reads and readys the HTML (content - words, images) using semantic tags
 1. The browser uses CSS to style the content (sizing, colors, spacing, alignment, etc)
 1. The browser ‘renders’ the formatted content on our computer screens
 1. Javascript makes the page dynamic (but we won’t be using JS quite yet)
 
 
-## HTML
 ---
+## HTML
+
+Let's quickly review the basics -
+
 [HyperText Markup Language (HTML)](https://en.wikipedia.org/wiki/HTML) is the standard markup language for creating web pages and web applications.
 
 With Cascading Style Sheets (CSS), and JavaScript, it forms a triad of cornerstone technologies for the World Wide Web.[1]
@@ -106,6 +117,16 @@ HTML describes the structure of a web page semantically and originally included 
 Semantics means that tags are named after things humans are already familiar with.
 
 For example, `<h1>` is based on the word "heading", just like in a newspaper, which _most_ humans have seen before.
+
+#### HTML element structure
+
+![HTML tag diagram](./images/tags.jpg)
+
+Think of these tags as wrappers directing the browser to display the tags' contents in a certain way.
+
+>"Treat this text as a paragraph. Start here, `<p>` and stop here `</p>`."
+
+#### Common Tags
 
 | Tags | Meaning |
 | ---- | ------- |
@@ -120,24 +141,19 @@ For example, `<h1>` is based on the word "heading", just like in a newspaper, wh
 | `<a href=""></a>` | Anchor |
 | `<img src=""/>` | Image
 
-<!-- * `<h2>` = (smaller than h1) heading, `<h3>` through `<h6>` exist
-* `<p>` = paragraph
-* `<img>` = image
-* `<ul>` = unordered (un-numbered) list
-* `<li>` = list item
-* `<a>` = anchor (which means link to something, likely another site) -->
 
-#### HTML element structure
+#### Codepen
 
-![HTML tag diagram](./images/tags.jpg)
+<p data-height="665" data-theme-id="0" data-slug-hash="YZeYjV" data-default-tab="result" data-user="austincoding" data-embed-version="2" data-pen-title="YZeYjV" data-editable="true" class="codepen">See the Pen <a href="http://codepen.io/austincoding/pen/YZeYjV/">YZeYjV</a> by Austin Coding Academy (<a href="http://codepen.io/austincoding">@austincoding</a>) on <a href="http://codepen.io">CodePen</a>.</p>
+<script async src="https://production-assets.codepen.io/assets/embed/ei.js"></script>
 
-Think of these tags as wrappers directing the browser to display the tags' contents in a certain way.
 
->"Treat this text as a paragraph. Start here, `<p>` and stop here `</p>`."
 
 #### HTML code
 
-Now let us see what happens when we integrate some of the elements to our template. let's try adding the following to our codepens:
+Now let us see what happens when we integrate some of the elements to our template.
+
+Add the following to our codepens, within the `<body> </body>` tags:
 
 ```html
 <h1>First and Last name</h1>
@@ -149,17 +165,16 @@ Now let us see what happens when we integrate some of the elements to our templa
 </ul>
 <a href="#">email@gmail.com</a>
 <section></section>
-<img src="" />
+<img src="#" />
 ```
 
-
-### Wireframe with your teammate(s)
 ---
+### Wireframe with your teammate(s)
+
 Using a pen (or pencil) and the paper resume we handed out, let's see if we can identify all the elements we just learned about.
 
 ![UX Resume](./images/ux_resume.png)
-<!-- ![Stenis Resume](./images/stenis_resume.png) -->
-
+![Stenis Resume](./images/stenis_resume.png)
 
 * Sections
 * Headings  
@@ -169,8 +184,9 @@ Using a pen (or pencil) and the paper resume we handed out, let's see if we can 
 * Links
 
 
-### Content
 ---
+### Content
+
 Using the wireframes as a reference
 
 In our codepens (or Atom)
@@ -182,21 +198,31 @@ In our codepens (or Atom)
  * experience
  * education
  * tools
- *
 
- <!-- * Experience / Previous employment
- * Education
- * Portfolio of apps / sites
- * Languages / Frameworks
- * Tools / Software
- * Development Processes
- * Development / Design Team experience
- * Soft skills -->
 
 **Example**
-```
-<section id="skills"></section>
-```
+ ```html
+ <!DOCTYPE html>
+ <html>
+   <head>
+     <title></title>
+   </head>
+   <body>
+     <header>
+      <h1>Your Name</h1>
+      <h3>Web Developer</h3>
+     </header>
+     <section id="skills">
+      <ul>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
+      </ul>
+     </section>
+   </body>
+ </html>
+ ```
 
 Your previous experience is a springboard to your next career.
 
@@ -216,9 +242,9 @@ Now let's add some content in between the tags.
   *
 
 
-
-### Demo of Stage 1
 ---
+### Demo of Stage 1
+
 All of our work today is in its beginning stages.
 
 That's the perfect environment for receiving feedback.
@@ -234,22 +260,57 @@ Let's go around the room to showcase some of your products.
 We're asking for feedback about our formatting, specifically, to take us to next part of the lesson.
 
 
-
+---
 ### Feedback
+
+
 ---
-
-
 ### Break
----
+
 If you'd like to take a 5 minute break, please do so.
 
 We'll be walking around to assist and answer questions.
 
 
 
+
+
+
+# Index Portfolio page (Expansion Lesson 1)
+---
+Using Atom, implement the following code.
+
+```html
+<!DOCTYPE html>
+<html>
+  <head>
+    <title></title>
+  </head>
+  <body>
+  </body>
+</html>
+```
+
+Add the HTML code from your codepen in between the `<body> </body>` tags.
+
+
+
+
 ### CSS
 ---
 Now that we've gotten some feedback, let's dive into CSS so we can create a better experience for our readers.
+
+In our root folder, let's create a CSS folder and style.css file.
+
+Let's link our HTML and CSS
+
+
+
+
+
+
+
+
 
 
 
@@ -259,8 +320,10 @@ Now that we've gotten some feedback, let's dive into CSS so we can create a bett
 
 
 
-# Index Portfolio page (Expansion Lesson 1)
----
+
+
+
+
 
 
 
