@@ -69,8 +69,20 @@ We will leverage
  * Development / Design Team experience
  * Soft skills
 
-Extension - Host your website gh-pages
+Extension - Host your web page on gh-pages
 
+<!-- Larger Project w/ Iterations
+1. Codepen  
+  1. Showcase
+  1. Get feedback
+  1. Ideate
+  1. Prototype using
+1. Resume page based on UX and Stenis
+  1. Showcase
+  1. Get feedback
+  1. Ideate
+  1. Prototype using
+1. Tone-C Personal Resume Page -->
 
 ---
 ## Learning Teams & Iterative Design
@@ -108,7 +120,7 @@ Let's quickly review the basics -
 
 [HyperText Markup Language (HTML)](https://en.wikipedia.org/wiki/HTML) is the standard markup language for creating web pages and web applications.
 
-With Cascading Style Sheets (CSS), and JavaScript, it forms a triad of cornerstone technologies for the World Wide Web.[1]
+With Cascading Style Sheets (CSS), and JavaScript, it forms a triad of cornerstone technologies for the World Wide Web.
 
 Web browsers receive HTML documents from a webserver or from local storage and render them into multimedia web pages.
 
@@ -126,6 +138,15 @@ Think of these tags as wrappers directing the browser to display the tags' conte
 
 >"Treat this text as a paragraph. Start here, `<p>` and stop here `</p>`."
 
+##### Example
+```html
+<h1>This is the largest heading</h1>
+<p>This is a paragraph</p>
+<a href="#">This is a link</a>
+```
+
+
+---
 #### Common Tags
 
 | Tags | Meaning |
@@ -138,43 +159,28 @@ Think of these tags as wrappers directing the browser to display the tags' conte
 | `<p></p>` | Paragraph |
 | `<ul></ul>` | Unordered List |
 | `<li></li>` | List Item |
-| `<a href=""></a>` | Anchor |
-| `<img src=""/>` | Image
+| `<a href=""></a>` | Link anchor |
+| `<img src=""/>` | Image |
 
 
-#### Codepen
 
-<p data-height="665" data-theme-id="0" data-slug-hash="YZeYjV" data-default-tab="result" data-user="austincoding" data-embed-version="2" data-pen-title="YZeYjV" data-editable="true" class="codepen">See the Pen <a href="http://codepen.io/austincoding/pen/YZeYjV/">YZeYjV</a> by Austin Coding Academy (<a href="http://codepen.io/austincoding">@austincoding</a>) on <a href="http://codepen.io">CodePen</a>.</p>
+---
+#### Codepen of HTML code
+
+Click on the HTML button to see the code
+
+<p data-height="265" data-theme-id="0" data-slug-hash="YZeYjV" data-default-tab="html,result" data-user="austincoding" data-embed-version="2" data-pen-title="YZeYjV" data-editable="true" class="codepen">See the Pen <a href="http://codepen.io/austincoding/pen/YZeYjV/">YZeYjV</a> by Austin Coding Academy (<a href="http://codepen.io/austincoding">@austincoding</a>) on <a href="http://codepen.io">CodePen</a>.</p>
 <script async src="https://production-assets.codepen.io/assets/embed/ei.js"></script>
 
-
-
-#### HTML code
-
-Now let us see what happens when we integrate some of the elements to our template.
-
-Add the following to our codepens, within the `<body> </body>` tags:
-
-```html
-<h1>First and Last name</h1>
-<h2>Web Developer</h2>
-<h3>Lifelong Learner</h3>
-<p>Brief Bio</p>
-<ul>
- <li></li>
-</ul>
-<a href="#">email@gmail.com</a>
-<section></section>
-<img src="#" />
-```
 
 ---
 ### Wireframe with your teammate(s)
 
 Using a pen (or pencil) and the paper resume we handed out, let's see if we can identify all the elements we just learned about.
 
+<!-- ![Eddie Resume](./images/eddie_resume.png) -->
 ![UX Resume](./images/ux_resume.png)
-![Stenis Resume](./images/stenis_resume.png)
+<!-- ![Stenis Resume](./images/stenis_resume.png) -->
 
 * Sections
 * Headings  
@@ -182,6 +188,7 @@ Using a pen (or pencil) and the paper resume we handed out, let's see if we can 
 * Lists
 * Images
 * Links
+
 
 
 ---
@@ -276,8 +283,10 @@ We'll be walking around to assist and answer questions.
 
 
 
-# Index Portfolio page (Expansion Lesson 1)
+# Index Portfolio / Resume page (Expansion Lesson 1)
 ---
+We can see how a document/printout is similar to a web page.
+
 Using Atom, implement the following code.
 
 ```html
@@ -324,7 +333,14 @@ Let's link our HTML and CSS
 
 
 
+## Bonus - Host your own work!
 
+1. Make an account on https://github.com
+1. Verify your email
+1. Create a new repository using your username called `<your username here>.github.io`
+1. click "include a README", name it `index.html`, copy/paste your code, and commit.
+1. Visit `<your username here>.github.io` on your phone! You're a Web Developer now!
+1. Tell literally everybody at least twice.
 
 
 
