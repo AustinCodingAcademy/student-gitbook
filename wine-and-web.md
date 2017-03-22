@@ -1,5 +1,4 @@
-Hand out printed copies of the Developer Resume and pens so attendees can wireframe/diagram h1's, p's, ul's, etc.
-Hand out printed cheatsheets of the HTML and CSS terms, tags, elements.
+
 
 # Wine and Web
 
@@ -95,6 +94,9 @@ Most developers use Chrome, but some others you might be familiar with are Safar
 1. Javascript makes the page dynamic (but we won’t be using JS quite yet)
 
 
+<section style="margin-bottom: 50px;">
+</section>
+
 ---
 ## HTML
 
@@ -111,6 +113,8 @@ Semantics means that tags are named after things humans are already familiar wit
 
 For example, `<h1>` is based on the word "heading", just like in a newspaper, which _most_ humans have seen before.
 
+
+---
 #### HTML element structure
 
 ![HTML tag diagram](./images/tags.jpg)
@@ -119,14 +123,22 @@ Think of these tags as wrappers directing the browser to display the tags' conte
 
 >"Treat this text as a paragraph. Start here, `<p>` and stop here `</p>`."
 
+<section style="margin-bottom: 50px;">
+</section>
 
-##### Examples
+---
+#### Examples
+
 ```html
 <h1>This is the largest heading</h1>
 <p>This is a paragraph</p>
 <a href="https://www.google.com">This is a link to Google</a>
 ```
 
+<section style="margin-bottom: 50px;">
+</section>
+
+---
 #### Common Tags
 
 | Tags | Meaning |
@@ -146,6 +158,9 @@ The `<img />` needs a `src` attribute to provide the image we want to display, w
 
 In a similar fashion, the anchor tag `<a>` needs a `href` attribute - a _**h**ypertext **ref**erence_ - if we want it to link to another location.
 
+<section style="margin-bottom: 50px;">
+</section>
+
 ---
 ### Semantic Elements
 
@@ -159,6 +174,8 @@ So whenever any future developers read or edit your code, they will have an easi
 
 Plus, your code will be more condensed - remember, shorter code executes _faster_.
 
+
+---
 ### Sectioning using semantic elements
 
 ![](https://docs.google.com/drawings/d/1K9e8OgUnoZOWxDE18LCPK3hTRfEbiVbB0Bvd0Pe5MIg/pub?w=2251&h=1216)
@@ -183,6 +200,10 @@ Plus, your code will be more condensed - remember, shorter code executes _faster
   <footer>© 2016 Austin Coding Academy</footer>
 </body>
 ```
+
+
+<section style="margin-bottom: 100px;">
+</section>
 
 ---
 #### Semantic Elements
@@ -261,6 +282,8 @@ Using a pen (or pencil) and the paper resume we handed out, let's see if we can 
   <p data-height="965" data-theme-id="0" data-slug-hash="YZeYjV" data-default-tab="html,result" data-user="austincoding" data-embed-version="2" data-pen-title="YZeYjV" data-editable="true" class="codepen">See the Pen <a href="http://codepen.io/austincoding/pen/YZeYjV/">YZeYjV</a> by Austin Coding Academy (<a href="http://codepen.io/austincoding">@austincoding</a>) on <a href="http://codepen.io">CodePen</a>.</p>
 <script async src="https://production-assets.codepen.io/assets/embed/ei.js"></script>
 
+<section style="margin-bottom: 100px;">
+</section>
 
 ---
 ## CSS
@@ -396,21 +419,19 @@ selector:pseudo-class {
 <p data-height="235" data-theme-id="0" data-slug-hash="grVaJL" data-default-tab="html,result" data-user="mistakevin" data-embed-version="2" class="codepen">See the Pen <a href="http://codepen.io/mistakevin/pen/grVaJL/">grVaJL</a> by Kevin Colten (<a href="http://codepen.io/mistakevin">@mistakevin</a>) on <a href="http://codepen.io">CodePen</a>.</p>
 <script async src="//assets.codepen.io/assets/embed/ei.js"></script>
 
-
+<section style="margin-bottom: 50px;">
+</section>
 
 ---
 ### Codepen
 
 Click the CSS button of the Codepen
 
-<p data-height="965" data-theme-id="0" data-slug-hash="YZeYjV" data-default-tab="html,result" data-user="austincoding" data-embed-version="2" data-pen-title="YZeYjV" data-editable="true" class="codepen">See the Pen <a href="http://codepen.io/austincoding/pen/YZeYjV/">YZeYjV</a> by Austin Coding Academy (<a href="http://codepen.io/austincoding">@austincoding</a>) on <a href="http://codepen.io">CodePen</a>.</p>
-<script async src="https://production-assets.codepen.io/assets/embed/ei.js"></script>
-
-
----
 #### Let's add some styles to our sections using common attributes...
 
 For example, to center the content inside a specific section, apply this to the section using the section's id (#)
+
+#### Like this
 
 ```css
 #accolades {
@@ -418,6 +439,14 @@ For example, to center the content inside a specific section, apply this to the 
 }
 ```
 
+<p data-height="965" data-theme-id="0" data-slug-hash="YZeYjV" data-default-tab="html,result" data-user="austincoding" data-embed-version="2" data-pen-title="YZeYjV" data-editable="true" class="codepen">See the Pen <a href="http://codepen.io/austincoding/pen/YZeYjV/">YZeYjV</a> by Austin Coding Academy (<a href="http://codepen.io/austincoding">@austincoding</a>) on <a href="http://codepen.io">CodePen</a>.</p>
+<script async src="https://production-assets.codepen.io/assets/embed/ei.js"></script>
+
+
+---
+
+<section style="margin-bottom: 50px;">
+</section>
 
 ---
 ### Cheatsheet
