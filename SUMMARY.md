@@ -31,4 +31,5 @@
 * [Internship](internship.md)
 
 * Events
+  * [Intro to Web Dev](intro-to-web-dev.md)
   * [Wine and Web](wine-and-web.md)
