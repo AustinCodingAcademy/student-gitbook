@@ -275,10 +275,10 @@ All we have to do is practice our CSS skills by making our not-yet-interesting R
 
 To do that, let's go over the basics of CSS.
 
-Remember, CSS wants to target elements and sections in HTML, it just needs help understanding which elements and what we'd like those elements to look like. 
+Remember, CSS wants to target elements and sections in HTML, it just needs help understanding which elements and what we'd like those elements to look like.
 
-
-#### CSS Anatomy
+---
+### CSS Anatomy
 
 CSS consists of 2 components: selector and declaration.
 * **Selector** - selects the element to change
@@ -288,25 +288,34 @@ The declaration consists of 2 parts: a property and a value.
 * **Properties** - indicates what you want to change (color, width, height, font, etc.)
 * **Values** - specifies how it will change (color: blue, red, etc.)
 
-<section style="margin-top: 100px;">
+<section style="margin-top: 50px;">
 </section>
 
 ![CSS Anatomy](./images/css-rule-anatomy.jpg)
 
-<section style="margin-bottom: 100px;">
+<section style="margin-bottom: 50px;">
 </section>
 
-#### Class Selectors
+
+---
+### Class Selectors
+
 You'll target an HTML class with a dot in CSS.
 
 Many developers attach multiple classes to elements.
 
 It's not uncommon to have three to eight classes attached to one element.
 
+Each class can have many declarations.
+
 HTML
 ```html
 <div class="fancy">
   <p>I'm fancy!</p>
+</div>
+
+<div class="screen-wide  normal-height">
+  <p>I'm a good photo!</p>
 </div>
 ```
 
@@ -315,9 +324,21 @@ CSS
 .fancy {
   color: green;
 }
+
+.screen-wide {
+  width: 100%;
+  repeat: no-repeat;
+}
+
+.normal-height {
+  background-size: auto;
+}
 ```
 
-#### ID Selectors
+
+---
+### ID Selectors
+
 You'll target an HTML id with a hashtag in CSS.
 
 Many developers recommend using id's only once in a document.
@@ -339,7 +360,8 @@ CSS
 ```
 
 
-#### Attribute Selectors
+---
+### Attribute Selectors
 You are not restricted to the two special attributes, `class` and `id`. You can specify other attributes by using square brackets. Inside the brackets you put the attribute name, optionally followed by a matching operator and a value.
 
 HTML
@@ -360,7 +382,9 @@ CSS
 }
 ```
 
-#### Pseudo-class selectors
+
+---
+### Pseudo-class selectors
 A CSS [pseudo-class](https://developer.mozilla.org/en-US/docs/Web/CSS/Pseudo-classes) is a keyword added to selectors that specifies a special state of the element to be selected. For example `:hover` will apply a style when the user hovers over the element specified by the selector. These selectors are are not explicitly written in HTML, but are _always_ just there, and are only captured in CSS.
 
 ```css
@@ -374,14 +398,19 @@ selector:pseudo-class {
 
 
 
-Look in the CSS button of the Codepen
+---
+### Codepen
+
+Click the CSS button of the Codepen
 
 <p data-height="965" data-theme-id="0" data-slug-hash="YZeYjV" data-default-tab="html,result" data-user="austincoding" data-embed-version="2" data-pen-title="YZeYjV" data-editable="true" class="codepen">See the Pen <a href="http://codepen.io/austincoding/pen/YZeYjV/">YZeYjV</a> by Austin Coding Academy (<a href="http://codepen.io/austincoding">@austincoding</a>) on <a href="http://codepen.io">CodePen</a>.</p>
 <script async src="https://production-assets.codepen.io/assets/embed/ei.js"></script>
 
-Let's add some styles to our sections using common attributes...
 
-To center the content inside a specific section, apply this to the section using the section's id (#)
+---
+#### Let's add some styles to our sections using common attributes...
+
+For example, to center the content inside a specific section, apply this to the section using the section's id (#)
 
 ```css
 #accolades {
@@ -389,9 +418,9 @@ To center the content inside a specific section, apply this to the section using
 }
 ```
 
-Move CSS lesson here
+
 ---
-Use this Cheatsheet to help you
+### Cheatsheet
 
 ![CSS Cheatsheet](./images/css-cheat-sheet.png)
 
