@@ -596,10 +596,9 @@ Extension
 ---
 ### Key Questions
 
-* What is a web application?
-* What is MVC architecture?
-* Can I create and host a website?
-
+* How do Responsive websites work?
+* Can I create one?
+* What is required to host/launch a site?
 
 ---
 ### Project
@@ -611,14 +610,16 @@ Today the resume will be modeled after
 * One of our graduates who became an Instructor
 
 We will leverage
-* Experience / Previous employment
-* Education
-* Portfolio of apps / sites
 * Languages / Frameworks
+* Portfolio of apps / sites
 * Tools / Software
 * Development Processes
 * Development / Design Team experience
 * Soft skills
+* Experience / Previous employment
+* Education
+
+We want to highlight your new skills as a developer, so they go on top.
 
 Extension - Host your web page on gh-pages
 
@@ -636,7 +637,7 @@ Extension - Host your web page on gh-pages
 1. Tone-C Personal Resume Page -->
 
 ---
-## Learning Teams & Iterative Design
+## Learning Teams | Iterative Design
 
 We’re going to be partnering up today, so please sit a little closer to your partner. You should be able to see their computer screen clearly.
 
@@ -651,26 +652,139 @@ Ever seen the apps on your phone ‘updating’? That’s Iterative Design and A
 Paired programming is one of the most effective ways that Iterative Design teams and web developers learn, so we'll be working with partners today and iterating through our designs to optimize for increasingly better user experience.
 
 
+---
+## Presentation Skills
+
+We will be presenting our work today, as well. This will help us practice getting feedback and iterate based on what we know works and doesn't.
+
+Employers and hiring managers all agree that the most in-demand skill for developers is to have some presentation skill.
+
+
+<section style="margin-bottom: 400px;">
+</section>
+
+
+
+
 # Portfolio | Resume page
 ---
-We can see how a document/printout is similar to a web page.
 
-Using Atom, implement the following code.
+Showcase the locally served site
+Show the enlarged PDF of the Portfolio site
+![](./images/portfolio_long.png)
+
+
+
+---
+### Folder Structure
+
+  1. Create a new folder on your desktop, and name it Portfolio
+  1. Inside the Portfolio folder, create a file named index.html
+  1. Inside the Portfolio folder, create a folder named css
+  1. Inside the css folder, create a file called style.css
+  1. Inside the Portfolio folder, create a folder named images
+
+
+
+---
+###  Coding a webpage
+
+  1. Drag the Portfolio folder into the Atom icon on the bottom of your screen
+  1. Open the index.html file
+  1. Grab the following code and put it into the index.html file
+
 
 ```html
 <!DOCTYPE html>
 <html>
   <head>
-    <title></title>
+    <meta charset="UTF-8">
+    <title>Portfolio</title>
+
+    <!-- Skeleton Framework -->
+    <link rel="stylesheet" href="https://cdn.rawgit.com/oltmannsdaniel/skeleton-plus/master/css/skeleton-plus.min.css" type="text/css" />
+    <!-- Reference site: http://oltmannsdaniel.github.io/skeleton-plus/#examples -->
+
+    <!-- Developer Icons -->
+    <link rel="stylesheet" href="https://cdn.rawgit.com/konpa/devicon/4f6a4b08efdad6bb29f9cc801f5c07e263b39907/devicon.min.css">
+    <!-- Reference site: http://konpa.github.io/devicon/ -->
+
+    <!-- Personal stylesheet -->
+    <link rel="stylesheet" href="css/style.css"/>
   </head>
+
   <body>
+    <!-- Enter your code here -->
+
+
   </body>
 </html>
 ```
 
+---
+#### CDN's
+
+A CDN loads a lot of content into something you choose - namely your site.
+
+The goal of a CDN is to serve content to end-users with high availability and high performance.
+
+CDN's do this by putting your content in many places (servers) at once, providing superior coverage to your users. [Deep Dive](https://www.incapsula.com/cdn-guide/what-is-cdn-how-it-works.html)
+
+Think of Neo from the Matrix who wanted many different capabilities so he uploaded them quickly. That's what CDN's allow us to do for our sites.
+
+
+---
+#### Grid Systems
+
+
+
+---
+#### Skeleton Plus
+
+
+
+---
+#### Using Icons with a CDN
+
+
+
+
+---
+#### Directions
+
+Recreate the PDF above, using your knowledge of HTML, CSS, the Skeleton Plus Grid System, and the DevTool.
+
+1. Watch me
+1. Let's do it together
+1. Try it by yourselves, in teams
+
+I'll be walking around to assist
+
+---
+#### Copy
+
+Use the following copy in your 'About' section
+
+
+
+
+---
+
+
+
+
+
+
+
+
+
+
+
+
+
 Go to startbootstrap.com and download the Agency template
 
-U
+
 
 ## Bonus - Host your own work!
 
@@ -739,14 +853,18 @@ In our root folder, let's create a CSS folder and style.css file.
 Let's link our HTML and CSS
 
 ### Demo of Stage 2
+
+
+
+---
+
+
 ---
 
 
 
-
-
-
-
+<section style="margin-bottom: 600px;">
+</section>
 
 
 # MVC Architecture
@@ -782,6 +900,12 @@ That's the internet. That's how MVC architecture and web apps work.
 > Try typing in some of the things you need to do this week.
 
 
+
+
+
+
+<section style="margin-bottom: 600px;">
+</section>
 
 # Environment Setup / Prep for Success
 ---
