@@ -20,13 +20,14 @@ Note: Codeschool isn't free, but [here's a coupon](https://www.codeschool.com/en
 * [Learning React](https://scotch.io/tutorials/learning-react-getting-started-and-concepts)
 * [Official React Tutorial](https://facebook.github.io/react/tutorial/tutorial.html)
 * [Codeschool MongoDB Tutorial (Only level 1)](https://www.codeschool.com/courses/the-magical-marvels-of-mongodb)
-* [Codeschool Discover DevTools (all)](https://www.codeschool.com/courses/discover-devtools)
+* Egghead.io DevTools Tutorials [1](https://egghead.io/courses/using-chrome-developer-tools-elements), [2](https://egghead.io/courses/chrome-devtools-sources-panel) and [3](https://egghead.io/courses/chrome-devtools-network-panel)
+* Egghead.io [Basics of HTTP](https://egghead.io/courses/understand-the-basics-of-http)
 
 ### es6 / es2015
 * [Read over es6. You'll be using it in the advanced class.](https://github.com/lukehoban/es6features)
 * [ES 6 Tutorial](https://www.codeschool.com/courses/es2015-the-shape-of-javascript-to-come)
 * [ES6 Laracast](https://laracasts.com/series/es6-cliffsnotes/episodes/1)
-  * Some of these lessons are specific to the Laravel framework, so just skip those, or watch if your interested!
+  * Some of these lessons are specific to the Laravel framework, so just skip those, or watch if you're interested!
   
 ### Must Reads
 * [Thinking in React](https://facebook.github.io/react/docs/thinking-in-react.html)
@@ -37,7 +38,7 @@ Note: Codeschool isn't free, but [here's a coupon](https://www.codeschool.com/en
 
 ### Bonus!
 #### Project Euler
-These problems aren't necessarily related to class work, and are more concerned with programing concepts in general. The trick here is to complete these problems using javascript. (try and have problems 1 - 5 done before class if possible!)
+These problems aren't necessarily related to class work, and are more concerned with programming concepts in general. The trick here is to complete these problems using javascript. (try and have problems 1 - 5 done before class if possible!)
 * [Project Euler](https://projecteuler.net/archives)
 
 #### More React

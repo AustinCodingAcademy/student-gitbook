@@ -1,13 +1,13 @@
 Hand out printed copies of the Developer Resume and pens so attendees can wireframe/diagram h1's, p's, ul's, etc.
 Hand out printed cheatsheets of the HTML and CSS terms, tags, elements.
 
-# Wine and Web
+# Intro to Web Dev
 
 
 ---
 ## Welcome!
 
-Below you will find written instructions for the Wine and Web event.
+Below you will find written instructions for the Intro to Web Dev event.
 
 Instructors will be moving at a leisurely pace, but if you'd like to have a visual reference, this is the place!
 
