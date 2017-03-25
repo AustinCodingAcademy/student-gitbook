@@ -1,19 +1,19 @@
-{% include "./header.md" %}
+{% include './header.md' %}
 
 ## Whiteboarding
 
-"Whiteboarding" is a technique commonly used in technical interviews to understand
+'Whiteboarding' is a technique commonly used in technical interviews to understand
 how an applicant thinks when presented with a problem. Ideally, the problems
 should be solvable given an appropriate amount of time, but the applicant may
 be asked to end early once the problem solving abilities have been assessed. The
 goal of the applicant is **not to stress** about solving the problem, but to
 narrate the steps taken from the beginning to tackle the problem, even if the
 direction is potentially a dead-end. The applicant is usually encouraged to ask
-as many clarifying questions as possible, write "psuedocode", a kind of shorthand
+as many clarifying questions as possible, write 'psuedocode', a kind of shorthand
 code that would not be expected to run without errors.
 
 The problems are typically short logic problems where the solutions is not immediately
-apparent, or have some premeditated pitfalls and "edge-cases".
+apparent, or have some premeditated pitfalls and 'edge-cases'.
 
 ## Example: FizzBuzz
 
@@ -51,40 +51,40 @@ In this problem, instead of writing a function that takes a variable number `n`,
 just choose a number and write a simple loop.
 
 ```
-  for (i in 1 to 100) // <== what language is this? psuedocode!`
+for (i in 1 to 100) // <== what language is this? psuedocode!`
 
-    if i % 3 == 0
-      log('Fizz')
+  if i % 3 == 0
+    log 'Fizz'
 
-    else if i % 5 == 0
-      log('Buzz')
+  else if i % 5 == 0
+    log 'Buzz'
 
-    else if i % 3 == 0 and i % 5 == 0
-      log ('FizzBuzz')
+  else if i % 3 == 0 and i % 5 == 0
+    log 'FizzBuzz'
 
-    else
-      log (i)
+  else
+    log i
 ```
 
 ### 5. If you make a mistake, DON'T SWEAT IT
 Explain the mistake and fix it. That's gold to the interviewer. In fact, if you
-see a "low hanging fruit" type trap, don't just avoid it, walk through that as
+see a 'low hanging fruit' type trap, don't just avoid it, walk through that as
 well so you let the interviewer know you see it.
 
 ```
-  for (i in 1 to 100) // <== what language is this? psuedocode!`
+for (i in 1 to 100) // <== what language is this? psuedocode!
 
-    if i % 3 == 0
-      log('Fizz')
+  if i % 3 == 0
+    log 'Fizz'
 
-    else if i % 5 == 0
-      log('Buzz')
+  else if i % 5 == 0
+    log 'Buzz'
 
-    else if i % 3 == 0 and i % 5 == 0 // <== this needs to go first ...
-      log ('FizzBuzz')
+  else if i % 3 == 0 and i % 5 == 0 // <== this needs to go first ...
+    log 'FizzBuzz'
 
-    else
-      log (i)
+  else
+    log i
 ```
 
 ### 6. Don't worry about performance on your first run
@@ -103,7 +103,7 @@ fizzBuzz(n)
     i % 5 or ( str + = 'Buzz ')
     !(i % 3 and i % 5) or (str += (i + ' '))
 
-  log(str)
+  log str
 ```
 
 ## Preparation
@@ -118,36 +118,41 @@ can take a whack at!
 #### 1. Ordered words
 Some programming languages let you compare letters:
 
-`"a" < "z" //==> true`
+`'a' < 'z' //==> true`
 
 Write a method, `wordOrdered(word)`, which returns whether the letters in a
 `word` occur in alphabetical order:
+
 ```
-word_ordered?("amz") == true 
+wordOrdered('amz') //==>true
 
-word_ordered?("zma") == false 
+wordOrdered('zma') //==>false
 
-word_ordered?("aa") == true //repeats okay
+wordOrdered('aa') //==>true repeats are ok
 ```
 
 #### 2. Nearby words
-Write a method named `nearbyWords(str, word_list)` which takes in a string and
+Write a method named `nearbyWords(str, wordList)` which takes in a string and
 an array of valid words (the `wordlist`). It should return an array of words
 from the wordlist which have the same length as str but which are one letter different:
 ```
-WORDS = ["door", "moot", "boot", "boots"] 
-nearbyWords("moor", WORDS) == ["door", "moot"]
+WORDS = ['door', 'moot', 'boot', 'boots']
+
+nearbyWords('moor', WORDS) //==> ['door', 'moot']
 ```
+
 You may assume that the the input string and word list contain only lower case letters.
 
 #### 3. String encoding
 Write a method named `encode(str)` which takes in a string and returns an array
 of pairs: each pair contains the next distinct letter in the string, and the
 number consecutive repeats.
+
 ```
-encode("aaabbcbbaaa") ==   [["a", 3], ["b", 2], ["c", 1], ["b", 2], ["a", 3]] 
-encode("aaaaaaaaaa") == [["a", 10]] 
-encode("") == []
+encode('aaabbcbbaaa') //==> [['a', 3], ['b', 2], ['c', 1], ['b', 2], ['a', 3]]
+encode('aaaaaaaaaa') //==> [['a', 10]]
+encode('') == []
+
 ```
 
-{% include "./footer.md" %}
+{% include './footer.md' %}
