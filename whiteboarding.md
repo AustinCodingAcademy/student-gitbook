@@ -110,7 +110,10 @@ fizzBuzz(n)
 
 Little will do more to prepare you for the interview than to actually solve Whiteboarding
 problems beforehand. There are problems all around the web, some of my favorites
-being [Code Wars](https://www.codewars.com/) and [Project Euler](https://projecteuler.net/)
+being [Code Wars](https://www.codewars.com/) and [Project Euler](https://projecteuler.net/).
+There are many books online with sample problems and solutions that are a great way to
+learn something new and paractice at the same time. One favorite is
+[Cracking the Coding Interview](https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/098478280X)
 
 Here are some sample problems I have experienced in coding interviews that you
 can take a whack at!
