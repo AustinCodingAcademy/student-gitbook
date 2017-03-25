@@ -34,7 +34,7 @@ The interviewer will not be impressed if you silently solve the problem on the
 whiteboard. They want you to approach it from the beginning, step-by-step. And
 what if you where wrong or fell into a trap! Work. It. Out. Loud.
 
-### 2. Make sure your understand the problem
+### 2. Make sure you understand the problem
 
 The easiest way to do this is to write the problem on the board while explaining it
 back to the interviewer. This will clear up any questions and buy you some time to
