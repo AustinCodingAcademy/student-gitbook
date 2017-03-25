@@ -51,7 +51,7 @@ In this problem, instead of writing a function that takes a variable number `n`,
 just choose a number and write a simple loop.
 
 ```
-for (i in 1 to 100) // <== what language is this? psuedocode!`
+for (i in 1 to 100) // <== what language is this? psuedocode!
 
   if i % 3 == 0
     log 'Fizz'
