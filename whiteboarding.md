@@ -9,11 +9,11 @@ be asked to end early once the problem solving abilities have been assessed. The
 goal of the applicant is **not to stress** about solving the problem, but to
 narrate the steps taken from the beginning to tackle the problem, even if the
 direction is potentially a dead-end. The applicant is usually encouraged to ask
-as many clarifying questions as possible, write 'psuedocode', a kind of shorthand
+as many clarifying questions as possible, and to write 'psuedocode', a kind of shorthand
 code that would not be expected to run without errors.
 
-The problems are typically short logic problems where the solutions is not immediately
-apparent, or have some premeditated pitfalls and 'edge-cases'.
+The problems are typically short logic problems where the solution is not immediately
+apparent, or has some premeditated pitfalls and 'edge-cases'.
 
 ## Example: FizzBuzz
 
@@ -31,8 +31,8 @@ Let's go through a few tips:
 ### 1. If you think you already know the solution, don't solve it outright
 
 The interviewer will not be impressed if you silently solve the problem on the
-whiteboard. They want you to approach it from the beginning, step-by-step. And
-what if you where wrong or fell into a trap! Work. It. Out. Loud.
+whiteboard. They want you to approach it from the beginning and narrate step-by-step. And
+what if you where wrong or fell into a trap?! Work. It. Out. Loud.
 
 ### 2. Make sure you understand the problem
 
