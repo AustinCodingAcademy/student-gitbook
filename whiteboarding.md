@@ -154,7 +154,7 @@ number consecutive repeats.
 ```
 encode('aaabbcbbaaa') //==> [['a', 3], ['b', 2], ['c', 1], ['b', 2], ['a', 3]]
 encode('aaaaaaaaaa') //==> [['a', 10]]
-encode('') == []
+encode('') //==> []
 
 ```
 
