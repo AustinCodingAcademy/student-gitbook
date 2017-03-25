@@ -97,7 +97,7 @@ return and refactor.
 fizzBuzz(n)
   str = '';
 
-  for (i in 1 to 100)
+  for (i in 1 to n)
 
     i % 3 or ( str += 'Fizz ' )
     i % 5 or ( str + = 'Buzz ')
