@@ -66,8 +66,7 @@ We will leverage
 Extension - Host your web page on gh-pages
 
 
----
-## Learning Teams & Iterative Design
+<!--## Learning Teams & Iterative Design
 
 We’re going to be partnering up today, so please sit a little closer to your partner. You should be able to see their computer screen clearly.
 
@@ -79,7 +78,7 @@ In reality, teams of developers, designers, marketers, salespeople, accountants,
 
 Ever seen the apps on your phone ‘updating’? That’s Iterative Design and Agile Development teams using feedback from real customers to create new and enjoyable experiences.
 
-Paired programming is one of the most effective ways that Iterative Design teams and web developers learn, so we'll be working with partners today and iterating through our designs to optimize for increasingly better user experience.
+Paired programming is one of the most effective ways that Iterative Design teams and web developers learn, so we'll be working with partners today and iterating through our designs to optimize for increasingly better user experience. -->
 
 
 ---
@@ -600,6 +599,7 @@ Extension
 * Can I create one?
 * What is required to host/launch a site?
 
+
 ---
 ### Project
 
@@ -637,7 +637,7 @@ Extension - Host your web page on gh-pages
 1. Tone-C Personal Resume Page -->
 
 ---
-## Learning Teams | Iterative Design
+### Learning Teams | Iterative Design
 
 We’re going to be partnering up today, so please sit a little closer to your partner. You should be able to see their computer screen clearly.
 
@@ -653,26 +653,25 @@ Paired programming is one of the most effective ways that Iterative Design teams
 
 
 ---
-## Presentation Skills
+### Presentation Skills [Optional]
 
 We will be presenting our work today, as well. This will help us practice getting feedback and iterate based on what we know works and doesn't.
 
 Employers and hiring managers all agree that the most in-demand skill for developers is to have some presentation skill.
 
 
-<section style="margin-bottom: 400px;">
+<section style="margin-bottom: 100px;">
 </section>
-
-
 
 
 # Portfolio | Resume page
 ---
 
-Showcase the locally served site
-Show the enlarged PDF of the Portfolio site
-![](./images/portfolio_long.png)
+This is one of our graduate's Portfolio site - [Gizemist](http://www.gizemist.com/).
 
+Here's a PDF of a similar site we'll be creating today, using a responsive grid.
+
+![](./images/portfolio_long.png)
 
 
 ---
@@ -683,8 +682,6 @@ Show the enlarged PDF of the Portfolio site
   1. Inside the Portfolio folder, create a folder named images
   1. Inside the Portfolio folder, create a folder named css
   1. Inside the css folder, create a file called style.css
-
-
 
 
 ---
@@ -722,17 +719,21 @@ Show the enlarged PDF of the Portfolio site
 </html>
 ```
 
+
 ---
 #### CDN's
 
-A CDN is a link that loads a lot of content from a server into the your site with high availability and high performance.
+A CDN is a link that loads a lot of content from a series of servers into the your site with high availability and high performance.
 
 CDN's allow us to use links and keywords to add capabilities to sites like Google Fonts, Responsiveness, and icons.
 
-
 CDN's do this by putting the content in many places (servers) at once, providing superior coverage to your users. [Deep Dive](https://www.incapsula.com/cdn-guide/what-is-cdn-how-it-works.html)
 
-The Skeleton Plus CDN is the top link in the head, and the Developer Icon CDN is the second.
+ * First CDN - Skeleton Plus
+ * Second CDN - Developer Icon
+ * Third link to external stylesheet
+
+![Content Delivery Network](./images/cdn.png)
 
 
 ---
@@ -742,10 +743,46 @@ Grid systems are in almost every web app there is.
 
 They allow developers to make one site, not three, which **stacks its content instead of letting the content run off the side of the screen**, forcing users to scroll to the right.
 
+Most grid systems, including Skeleton and Bootstrap, include a responsive, mobile-first fluid grid system that appropriately scales up to 12 columns according to the screen size.
+
+![Numbered Grid](./images/grid_shot.png)
+
+
+---
+#### Layouts
+
+Grid systems are used for creating page layouts through a series of rows and columns that hold the content.
+
+CDNs allow developers to use specific keywords to implement previously created CSS without having to write thousands of lines of CSS.
+
+![Responsive Grid](./images/responsive_grid.jpg)
+
+
+---
+#### Sizing
+
+We will be making three distinctions: phone(xs), tablet(sm), and laptop(md). Since we have 12 columns in our grid, we can make several combinations that add up to 12, for example:
+
+<p data-height="504" data-theme-id="0" data-slug-hash="kXmVKp" data-default-tab="html,result" data-user="mistakevin" data-embed-version="2" data-editable="true" class="codepen">See the Pen <a href="http://codepen.io/mistakevin/pen/kXmVKp/">kXmVKp</a> by Kevin Colten (<a href="http://codepen.io/mistakevin">@mistakevin</a>) on <a href="http://codepen.io">CodePen</a>.</p>
+<script async src="//assets.codepen.io/assets/embed/ei.js"></script>
+
+
+---
+#### Column sizes
+
+By determining the number of columns for a specific screen size:
+ * All the other screen sizes bigger than the one described will inherit that size
+ * All the phone sized screens will be default to a 12 column width (full screen)
+
+When you define a container element like a `div` with `class="col-sm-4"`, you are setting a container 4 columns wide for small, medium, and large screen sizes, but for phone screens, it will be 12 columns wide.
+
+
 ---
 #### Skeleton Plus
 
+[Github > Skeleton Plus](http://oltmannsdaniel.github.io/skeleton-plus/#examples)
 
+Use the DevTool to analyze the
 
 ---
 #### Using Icons with a CDN
@@ -758,8 +795,11 @@ They allow developers to make one site, not three, which **stacks its content in
 
 Recreate the PDF above, using your knowledge of HTML, CSS, the Skeleton Plus Grid System, and the DevTool.
 
+1. Open the DevTool on the SkeletonPlus page
+1. Use the HTML classes named specifically to allow developers to call the CSS classes necessary. We don't want to have to write all that CSS!
+
 I'll show you how
-1. Watch me
+1. Watch me first
 1. Let's do it together
 1. Try it by yourselves, in teams
 
@@ -774,14 +814,7 @@ Use the following copy in your 'About' section
 
 
 ---
-
-
-
-
-
-
-
-## Bonus - Host your own work!
+#### Bonus - Host your own work!
 
 1. Make an account on https://github.com
 1. Verify your email
@@ -798,7 +831,7 @@ Use the following copy in your 'About' section
 
 
 
-# Iterative Design
+# Iterative Design [Extension]
 ---
 <!-- Larger Project w/ Iterations
 1. Codepen  
@@ -894,13 +927,11 @@ That's the internet. That's how MVC architecture and web apps work.
 
 > Try typing in some of the things you need to do this week.
 
-
-
-
-
-
 <section style="margin-bottom: 600px;">
 </section>
+
+
+
 
 # Environment Setup / Prep for Success
 ---
