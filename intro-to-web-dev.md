@@ -573,7 +573,7 @@ Please make sure you've downloaded the software we'll be using today
 
 Extension
 * Download [iTerm2](https://www.iterm2.com/)
-* Start Github account(https://github.com/)
+* Start [Github account](https://github.com/)
 
 
 ---
@@ -729,13 +729,18 @@ A CDN is a link that loads a lot of content from a server into the your site wit
 
 CDN's allow us to use links and keywords to add capabilities to sites like Google Fonts, Responsiveness, and icons.
 
+
 CDN's do this by putting the content in many places (servers) at once, providing superior coverage to your users. [Deep Dive](https://www.incapsula.com/cdn-guide/what-is-cdn-how-it-works.html)
+
+The Skeleton Plus CDN is the top link in the head, and the Developer Icon CDN is the second.
 
 
 ---
 #### Grid Systems
 
+Grid systems are in almost every web app there is.
 
+They allow developers to make one site, not three, which **stacks its content instead of letting the content run off the side of the screen**, forcing users to scroll to the right.
 
 ---
 #### Skeleton Plus
@@ -753,6 +758,7 @@ CDN's do this by putting the content in many places (servers) at once, providing
 
 Recreate the PDF above, using your knowledge of HTML, CSS, the Skeleton Plus Grid System, and the DevTool.
 
+I'll show you how
 1. Watch me
 1. Let's do it together
 1. Try it by yourselves, in teams
@@ -772,16 +778,6 @@ Use the following copy in your 'About' section
 
 
 
-
-
-
-
-
-
-
-
-
-Go to startbootstrap.com and download the Agency template
 
 
 
