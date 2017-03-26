@@ -680,9 +680,10 @@ Show the enlarged PDF of the Portfolio site
 
   1. Create a new folder on your desktop, and name it Portfolio
   1. Inside the Portfolio folder, create a file named index.html
+  1. Inside the Portfolio folder, create a folder named images
   1. Inside the Portfolio folder, create a folder named css
   1. Inside the css folder, create a file called style.css
-  1. Inside the Portfolio folder, create a folder named images
+
 
 
 
@@ -724,13 +725,11 @@ Show the enlarged PDF of the Portfolio site
 ---
 #### CDN's
 
-A CDN loads a lot of content into something you choose - namely your site.
+A CDN is a link that loads a lot of content from a server into the your site with high availability and high performance.
 
-The goal of a CDN is to serve content to end-users with high availability and high performance.
+CDN's allow us to use links and keywords to add capabilities to sites like Google Fonts, Responsiveness, and icons.
 
-CDN's do this by putting your content in many places (servers) at once, providing superior coverage to your users. [Deep Dive](https://www.incapsula.com/cdn-guide/what-is-cdn-how-it-works.html)
-
-Think of Neo from the Matrix who wanted many different capabilities so he uploaded them quickly. That's what CDN's allow us to do for our sites.
+CDN's do this by putting the content in many places (servers) at once, providing superior coverage to your users. [Deep Dive](https://www.incapsula.com/cdn-guide/what-is-cdn-how-it-works.html)
 
 
 ---
