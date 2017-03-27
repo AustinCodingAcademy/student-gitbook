@@ -669,9 +669,9 @@ Employers and hiring managers all agree that the most in-demand skill for develo
 
 This is one of our graduate's Portfolio site - [Gizemist](http://www.gizemist.com/).
 
-Here's a PDF of a similar site we'll be creating today, using a responsive grid.
+<!-- Here's a PDF of a similar site we'll be creating today, using a responsive grid.
 
-![](./images/portfolio_long.png)
+![](./images/portfolio_long.png) -->
 
 
 ---
@@ -772,6 +772,17 @@ CDNs allow developers to use specific keywords to implement previously created C
 ![Responsive Grid](./images/responsive_grid.jpg)
 
 
+
+---
+#### Bootstrap
+
+We'll be using Bootstrap, the most popular responsive grid system.
+
+[Bootstrap]
+
+If you'd like to do a deep dive into what Bootstrap can do, hit [this link]((https://www.bootstrapcdn.com/)).
+
+
 ---
 #### Sizing
 
@@ -793,21 +804,118 @@ When you define a container element like a `div` with `class="col-sm-4"`, you ar
 Let's copy and paste the following code into our HTML, in between the `<body>  </body>` tags.
 
 ```html
+    <section id="hero">
+      <div class="row text-center hero_text">
+        <h1>First and Last Name</h1>
+        <h4>Web Developer</h4>
+      </div>
+    </section>
 
+    <section id="about">
+      <div class="row">
+        <h3 class="text-center">
+          Employer's Needs and Goals
+        </h3>
+        <div class="value_to_company col-md-4 col-md-offset-2">
+          <p>Spicy jalapeno bacon ipsum dolor amet turkey kevin burgdoggen doner, prosciutto biltong alcatra meatloaf tongue beef ribs tri-tip shankle cow. T-bone pork chop bacon .</p>
+        </div>
+        <div class="goals_within_company col-md-4">
+          <p>Kielbasa turkey biltong turducken jerky sirloin. Shank pancetta ball tip frankfurter, tenderloin turducken leberkas kevin. Bresaola biltong jowl, short ribs ball tip pork belly.</p>
+        </div>
+      </div>
+    </section>
 
+    <section id="languages_skills">
+      <div class="row">
+        <h3 class="text-center">
+          Skills
+        </h3>
+        <div class="text-center col-md-1 col-md-offset-2">
+          <i class="devicon-html5-plain"></i>
+        </div>
+        <div class="text-center col-md-1">
+          <i class="devicon-css3-plain"></i>
+        </div>
+        <div class="text-center col-md-1">
+          <i class="devicon-javascript-plain"></i>
+        </div>
+        <div class="text-center col-md-1">
+          <i class="devicon-jquery-plain"></i>
+        </div>
+        <div class="text-center col-md-1">
+          <i class="devicon-github-plain"></i>
+        </div>
+        <div class="text-center col-md-1">
+          <i class="devicon-nodejs-plain"></i>
+        </div>
+        <div class="text-center col-md-1">
+          <i class="devicon-mongodb-plain"></i>
+        </div>
+        <div class="text-center col-md-1">
+          <i class="devicon-react-plain"></i>
+        </div>
+      </div>
+    </section>
+
+    <section id="portfolio">
+      <div class="row">
+        <h3 class="text-center">
+          Portfolio
+        </h3>
+        <!-- Add 3 images and a title for each project -->
+        <div class="">
+          <h4> </h4>
+          <img />
+        </div>
+        <div class="">
+          <h4> </h4>
+          <img />
+        </div>
+        <div class="">
+          <h4> </h4>
+          <img />
+        </div>
+      </div>
+    </section>
+
+    <section id="testimonial">
+      <div class="row">
+        <h3 class="text-center">
+          Testimonial
+        </h3>
+        <div class="col-md-6 col-md-offset-3">
+          <p>
+            Kielbasa turkey biltong turducken jerky sirloin. Shank pancetta ball tip frankfurter, tenderloin turducken leberkas kevin. Bresaola biltong jowl, short ribs ball tip pork belly. Spicy jalapeno bacon ipsum dolor amet turkey kevin burgdoggen doner, prosciutto biltong alcatra meatloaf tongue beef ribs tri-tip shankle cow. T-bone pork chop bacon .
+          </p>
+        </div>
+      </div>
+    </section>
+
+    <section id="contact">
+      <div class="row">
+        <h3 class="text-center">
+          Contact
+        </h3>
+        <!-- Use FontAwesome to add extra-large Email, LinkedIn, Github, Facebook icons -->
+        <div class="">
+
+        </div>
+        <div class="">
+
+        </div>
+        <div class="">
+
+        </div>
+        <div class="">
+
+        </div>
+      </div>
+    </section>
 ```
 <section style="margin-bottom: 50px;">
 </section>
 
 **Instructor to explain code above**
-
-
----
-#### Bootstrap
-
-[Bootstrap](https://www.bootstrapcdn.com/)
-
-If you'd like to do a deep dive into what Bootstrap can do, hit the link above.
 
 
 ---
@@ -829,20 +937,28 @@ Instructor will be walking around to assist
 ---
 #### Copy
 
-Use the following copy in your 'About' section
-
-
+Directions : Find copy on the Internet to use as copy in your 'About' section
 
 
 ---
 #### Using Icons with a CDN
 
+Directions : Find and use the code to enlarge the Developer icons
+
 Let's go to the webpages where we got our Icon CDNs. That's where we'll find the code and keywords we need to plug into our site.
 
-![Developer Icons](http://konpa.github.io/devicon/)
+[Developer Icons](http://konpa.github.io/devicon/)
 
-![Font Awesome](http://fontawesome.io/icons/)
+[Font Awesome](http://fontawesome.io/icons/)
 
+
+---
+#### CSS
+
+Find and download images to use in your CSS.
+
+Remember :
+ * Set heights for background images
 
 
 ---
