@@ -707,21 +707,17 @@ Here's a PDF of a similar site we'll be creating today, using a responsive grid.
     <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
     <!-- Reference site: https://www.bootstrapcdn.com/ -->
 
-
     <!-- Developer Icons -->
     <link rel="stylesheet" href="https://cdn.rawgit.com/konpa/devicon/4f6a4b08efdad6bb29f9cc801f5c07e263b39907/devicon.min.css">
     <!-- Reference site: http://konpa.github.io/devicon/ -->
 
-
-    <!-- Font Awesome Icons -->
+    <!-- FontAwesome Icons -->
     <script src="https://use.fontawesome.com/0751a07f97.js"></script>
     <!-- Reference site: http://fontawesome.io/icons/ -->
-
 
     <!-- Personal stylesheet -->
     <link rel="stylesheet" href="css/style.css"/>
   </head>
-
   <body>
     <!-- Enter your code here -->
 
@@ -731,10 +727,8 @@ Here's a PDF of a similar site we'll be creating today, using a responsive grid.
 
     <!-- Your code ends here -->
 
-
   <!-- Bootstrap jQuery CDN -->
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
-
   <!-- Bootstrap Javascript CDN -->
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
   </body>
@@ -743,17 +737,15 @@ Here's a PDF of a similar site we'll be creating today, using a responsive grid.
 
 
 ---
-#### **C** ontent **D** elivery **N** etwork
+#### Content Delivery Network
 
 A CDN is a link that loads a lot of content from a series of servers into the your site with high availability and high performance.
 
-CDN's allow us to use links and keywords to add capabilities to sites like Google Fonts, Responsiveness, and icons.
+You can see the CDN links above - Bootstrap, DeveloperIcons, and FontAwesome.
+
+CDN's allow us to use links to databases and special keywords to add capabilities to sites. For example: responsiveness and icons.
 
 CDN's do this by putting the content in many places (servers) at once, providing superior coverage to your users. [Deep Dive](https://www.incapsula.com/cdn-guide/what-is-cdn-how-it-works.html)
-
- * First CDN - Skeleton Plus
- * Second CDN - Developer Icon
- * Third link to external stylesheet
 
 ![Content Delivery Network](./images/cdn.png)
 
@@ -765,7 +757,7 @@ Grid systems are in almost every web app there is.
 
 They allow developers to make one site, not three, which **stacks its content instead of letting the content run off the side of the screen**, forcing users to scroll to the right.
 
-Most grid systems, including Skeleton and Bootstrap, include a responsive, mobile-first fluid grid system that appropriately scales up to 12 columns according to the screen size.
+Most grid systems, including Bootstrap, include a responsive, mobile-first fluid grid system that appropriately scales up to 12 columns according to the screen size.
 
 ![Numbered Grid](./images/grid_shot.png)
 
@@ -807,29 +799,23 @@ Let's copy and paste the following code into our HTML, in between the `<body>  <
 <section style="margin-bottom: 50px;">
 </section>
 
-**Here's the break down of what this code does**
+**Instructor to explain code above**
 
 
 ---
 #### Bootstrap
 
-[Github > Skeleton Plus](http://oltmannsdaniel.github.io/skeleton-plus/#examples)
+[Bootstrap](https://www.bootstrapcdn.com/)
 
-Use the DevTool to analyze the
-
-
----
-#### Using Icons with a CDN
-
-
+If you'd like to do a deep dive into what Bootstrap can do, hit the link above.
 
 
 ---
 #### Directions
 
-Recreate the PDF above, using your knowledge of HTML, CSS, the Skeleton Plus Grid System, and the DevTool.
+Recreate the PDF above, using your knowledge of HTML, CSS, the Bootstrap Grid System, and the DevTool.
 
-1. Open the DevTool on the SkeletonPlus page
+1. Follow the examples on the [Bootstrap page](https://www.bootstrapcdn.com/)
 1. Use the HTML classes named specifically to allow developers to call the CSS classes necessary. We don't want to have to write all that CSS!
 
 I'll show you how
@@ -837,13 +823,25 @@ I'll show you how
 1. Let's do it together
 1. Try it by yourselves, in teams
 
-I'll be walking around to assist
+Instructor will be walking around to assist
+
 
 ---
 #### Copy
 
 Use the following copy in your 'About' section
 
+
+
+
+---
+#### Using Icons with a CDN
+
+Let's go to the webpages where we got our Icon CDNs. That's where we'll find the code and keywords we need to plug into our site.
+
+![Developer Icons](http://konpa.github.io/devicon/)
+
+![Font Awesome](http://fontawesome.io/icons/)
 
 
 
