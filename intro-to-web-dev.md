@@ -689,23 +689,34 @@ Here's a PDF of a similar site we'll be creating today, using a responsive grid.
 
   1. Drag the Portfolio folder into the Atom icon on the bottom of your screen
   1. Open the index.html file
-  1. Grab the following code and put it into the index.html file
+  1. Copy the following code and Paste it into your index.html file in Atom
+   * Developers rarely start from scratch. They use prefabricated solutions with built in capabilities
 
 
 ```html
 <!DOCTYPE html>
 <html>
   <head>
-    <meta charset="UTF-8">
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
     <title>Portfolio</title>
 
-    <!-- Skeleton Framework -->
-    <link rel="stylesheet" href="https://cdn.rawgit.com/oltmannsdaniel/skeleton-plus/master/css/skeleton-plus.min.css" type="text/css" />
-    <!-- Reference site: http://oltmannsdaniel.github.io/skeleton-plus/#examples -->
+    <!-- Bootstrap Framework -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <!-- Reference site: https://www.bootstrapcdn.com/ -->
+
 
     <!-- Developer Icons -->
     <link rel="stylesheet" href="https://cdn.rawgit.com/konpa/devicon/4f6a4b08efdad6bb29f9cc801f5c07e263b39907/devicon.min.css">
     <!-- Reference site: http://konpa.github.io/devicon/ -->
+
+
+    <!-- Font Awesome Icons -->
+    <script src="https://use.fontawesome.com/0751a07f97.js"></script>
+    <!-- Reference site: http://fontawesome.io/icons/ -->
+
 
     <!-- Personal stylesheet -->
     <link rel="stylesheet" href="css/style.css"/>
@@ -715,13 +726,24 @@ Here's a PDF of a similar site we'll be creating today, using a responsive grid.
     <!-- Enter your code here -->
 
 
+
+
+
+    <!-- Your code ends here -->
+
+
+  <!-- Bootstrap jQuery CDN -->
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+
+  <!-- Bootstrap Javascript CDN -->
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
   </body>
 </html>
 ```
 
 
 ---
-#### CDN's
+#### **C** ontent **D** elivery **N** etwork
 
 A CDN is a link that loads a lot of content from a series of servers into the your site with high availability and high performance.
 
@@ -779,63 +801,17 @@ When you define a container element like a `div` with `class="col-sm-4"`, you ar
 Let's copy and paste the following code into our HTML, in between the `<body>  </body>` tags.
 
 ```html
-<section id="hero">
-  <div class="row">
-    <div class="">
 
-    </div>
-  </div>
-</section>
-
-<section id="about">
-  <div class="row">
-    <div class="">
-
-    </div>
-  </div>
-</section>
-
-<section id="languages_skills">
-  <div class="row">
-    <div class="">
-
-    </div>
-  </div>
-</section>
-
-<section id="portfolio">
-  <div class="row">
-    <div class="">
-
-    </div>
-  </div>
-</section>
-
-<section id="testimonial">
-  <div class="row">
-    <div class="">
-
-    </div>
-  </div>
-</section>
-
-<section id="contact">
-  <div class="row">
-    <div class="">
-
-    </div>
-  </div>
-</section>
 
 ```
 <section style="margin-bottom: 50px;">
 </section>
 
-**Here's the break down of what this code does:**
+**Here's the break down of what this code does**
 
 
 ---
-#### Skeleton Plus
+#### Bootstrap
 
 [Github > Skeleton Plus](http://oltmannsdaniel.github.io/skeleton-plus/#examples)
 
