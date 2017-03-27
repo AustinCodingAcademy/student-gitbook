@@ -776,6 +776,63 @@ By determining the number of columns for a specific screen size:
 
 When you define a container element like a `div` with `class="col-sm-4"`, you are setting a container 4 columns wide for small, medium, and large screen sizes, but for phone screens, it will be 12 columns wide.
 
+Let's copy and paste the following code into our HTML, in between the `<body>  </body>` tags.
+
+```html
+<section id="hero">
+  <div class="row">
+    <div class="">
+
+    </div>
+  </div>
+</section>
+
+<section id="about">
+  <div class="row">
+    <div class="">
+
+    </div>
+  </div>
+</section>
+
+<section id="languages_skills">
+  <div class="row">
+    <div class="">
+
+    </div>
+  </div>
+</section>
+
+<section id="portfolio">
+  <div class="row">
+    <div class="">
+
+    </div>
+  </div>
+</section>
+
+<section id="testimonial">
+  <div class="row">
+    <div class="">
+
+    </div>
+  </div>
+</section>
+
+<section id="contact">
+  <div class="row">
+    <div class="">
+
+    </div>
+  </div>
+</section>
+
+```
+<section style="margin-bottom: 50px;">
+</section>
+
+**Here's the break down of what this code does:**
+
 
 ---
 #### Skeleton Plus
@@ -783,6 +840,7 @@ When you define a container element like a `div` with `class="col-sm-4"`, you ar
 [Github > Skeleton Plus](http://oltmannsdaniel.github.io/skeleton-plus/#examples)
 
 Use the DevTool to analyze the
+
 
 ---
 #### Using Icons with a CDN
