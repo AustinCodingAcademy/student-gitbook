@@ -428,65 +428,48 @@ For example, to center the content inside a specific section, apply this to the 
 ### Greg HTML
 
 ```html
-
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html><head><META http-equiv="Content-Type" content="text/html; charset=utf-8"></head><body>
-
-<div>
   <div>
-  	<div>
-  		<div>
-  			<img src="http://headshot.jpg">
-  		</div>
-
-  		<div>
-  			<h1>Farmer Joe</h1>
-  			<h2>Farmer</h2>
-  		</div>
-
-  		<div>
-  			<ul>
-  				<li>e: <a href="mailto:farmerjoe@farms.com" target="_blank">farmerjoe@farms.com</a></li>
-  				<li>w: <a href="http://www.FarmersSite.com/" target="_blank">www.FarmersSite.com</a></li>
-  				<li>m: 0123456789</li>
-  			</ul>
-  		</div>
-
-  		<div>
-      </div>
-  	</div>
-
-  	<div>
-				<div>
-					<h1>Objective</h1>
-				</div>
-				<div>
-					<p>Seeking a strong and respectable position in operations management in an upcoming organization.</p>
-				</div>
-
+    <div>
+    	<div>
+    		<div>
+    			<h1>Farmer Joe</h1>
+    			<h2>Farmer</h2>
+    		</div>
+    		<div>
+    			<ul>
+    				<li>
+              e: <a target="_blank" href="mailto:farmerjoe@farms.com" >farmerjoe@farms.com</a>
+            </li>
+    				<li>
+              w: <a href="http://www.FarmersSite.com/" target="_blank">www.FarmersSite.com</a>
+            </li>
+    				<li>
+              m: 0123456789
+            </li>
+    			</ul>
+    		</div>
+    	</div>
+    	<div>
   			<div>
-        </div>
-
+  				<h1>Objective</h1>
+  			</div>
+  			<div>
+  				<p>Seeking a strong and respectable position in operations management in an upcoming organization.</p>
+  			</div>
   			<div>
   				<h1>Work Experience</h1>
   			</div>
-
   			<div>
   					<h2>Assistant Plant Manager</h2>
   					<p>Tyler, Texas</p>
   					<p>Oversee all the aspects of the organization including profit and loss as well as budget. Manage 600+ employers over four shifts in an entire day.</p>
-
   					<h2>Plant Superintendent</h2>
   					<p>Little Rock, AR</p>
   					<p>Directly responsible for all phases of production over an eight department complex. Oversee 250+ employees. Coordinate production with sales department. Handle U.S.D.A relations while maintaining high yield.</p>
   			</div>
-
-  			<div>
-        </div>
-
   			<div>
   				<h1>Key Skills</h1>
   			</div>
-
   			<div>
   				<ul>
   				<li>Reduced turnover rate by 15%</li>
@@ -495,26 +478,17 @@ For example, to center the content inside a specific section, apply this to the 
   					<li>Implement sanitation inspection</li>
   				</ul>
   			</div>
-
-  			<div>
-        </div>
-
   			<div>
   				<h1>Education</h1>
   			</div>
-
   			<div>
   					<h2>Bachelors Degree - Poultry Science - University of Arkansas</h2>
   					<p>Qualification</p>
   					<p>Description</p>
   			</div>
-
-  			<div>
-        </div>
-
-  	</div>
+    	</div>
+    </div>
   </div>
-</div>
 ```
 
 ---
@@ -985,17 +959,6 @@ Ever seen the apps on your phone ‘updating’? That’s Iterative Design and A
 Paired programming is one of the most effective ways that Iterative Design teams and web developers learn, so we'll be working with partners today and iterating through our designs to optimize for increasingly better user experience.
 
 
----
-### Presentation Skills [Optional]
-
-We will be presenting our work today, as well. This will help us practice getting feedback and iterate based on what we know works and doesn't.
-
-Employers and hiring managers all agree that the most in-demand skill for developers is to have some presentation skill.
-
-
-<section style="margin-bottom: 100px;">
-</section>
-
 
 # Portfolio | Resume page
 ---
@@ -1084,6 +1047,14 @@ CDN's do this by putting the content in many places (servers) at once, providing
 
 
 ---
+#### Bootstrap
+
+We'll be using Bootstrap, the most popular responsive grid system.
+
+If you'd like to do a deep dive into what Bootstrap can do, hit [this Bootstrap link](https://www.bootstrapcdn.com/)
+
+
+---
 #### Grid Systems
 
 Grid systems are in almost every web app there is.
@@ -1103,17 +1074,6 @@ Grid systems are used for creating page layouts through a series of rows and col
 CDNs allow developers to use specific keywords to implement previously created CSS without having to write thousands of lines of CSS.
 
 ![Responsive Grid](./images/responsive_grid.jpg)
-
-
-
----
-#### Bootstrap
-
-We'll be using Bootstrap, the most popular responsive grid system.
-
-[Bootstrap]
-
-If you'd like to do a deep dive into what Bootstrap can do, hit [this link]((https://www.bootstrapcdn.com/)).
 
 
 ---
@@ -1305,9 +1265,33 @@ Remember :
 1. Tell literally everybody at least twice.
 
 
+---
+
+
+---
 
 
 
+<section style="display:block; content:''; clear:both;">
+
+  <section style="float: left; width: 50%; text-align: center;" id="learn_more">
+
+    <a href="https://austincodingacademy.com/" style="width: 30%; padding: 10px 50px; color: black; background-color: #84FFFF;">Learn More</a>
+
+  </section>
+
+  <section style="float: left; width: 50%; text-align: center;" id="apply_now">
+
+    <a href="https://austincodingacademy.com/apply/" style="width: 30%; padding: 10px 50px; color: black; background-color: #64FFDA; ">Apply Now</a>
+
+  </section>
+</section>
+
+
+
+
+<section style="margin-bottom: 600px;">
+</section>
 
 
 
@@ -1327,6 +1311,16 @@ Remember :
   1. Prototype using
 1. Tone-C Personal Resume Page -->
 
+
+---
+### Presentation Skills
+
+We will be presenting our work today, as well. This will help us practice getting feedback and iterate based on what we know works and doesn't.
+
+Employers and hiring managers all agree that one of the most in-demand skills for developers to have are presentation skills.
+
+
+---
 ### Demo of Stage 1
 
 All of our work today is in its beginning stages.
@@ -1353,27 +1347,56 @@ If you'd like to take a 5 minute break, please do so.
 
 We'll be walking around to assist and answer questions.
 
-### CSS
+
 ---
+### CSS
+
 Now that we've gotten some feedback, let's dive into CSS so we can create a better experience for our readers.
 
 In our root folder, let's create a CSS folder and style.css file.
 
 Let's link our HTML and CSS
 
+
+---
 ### Demo of Stage 2
 
+Let's go around the room to showcase our products again to see if we created something closer to what our user want.
+
+Don't worry about creating the perfect experience. Our goal is to keep getting feedback and building. Delightful experiences are moving targets. 
+
 
 
 ---
 
 
 ---
+
+
+
+<section style="display:block; content:''; clear:both;">
+
+  <section style="float: left; width: 50%; text-align: center;" id="learn_more">
+
+    <a href="https://austincodingacademy.com/" style="width: 30%; padding: 10px 50px; color: black; background-color: #84FFFF;">Learn More</a>
+
+  </section>
+
+  <section style="float: left; width: 50%; text-align: center;" id="apply_now">
+
+    <a href="https://austincodingacademy.com/apply/" style="width: 30%; padding: 10px 50px; color: black; background-color: #64FFDA; ">Apply Now</a>
+
+  </section>
+</section>
+
 
 
 
 <section style="margin-bottom: 600px;">
 </section>
+
+
+
 
 
 # MVC Architecture
@@ -1412,6 +1435,34 @@ That's the internet. That's how MVC architecture and web apps work.
 </section>
 
 
+---
+
+
+---
+
+
+
+<section style="display:block; content:''; clear:both;">
+
+  <section style="float: left; width: 50%; text-align: center;" id="learn_more">
+
+    <a href="https://austincodingacademy.com/" style="width: 30%; padding: 10px 50px; color: black; background-color: #84FFFF;">Learn More</a>
+
+  </section>
+
+  <section style="float: left; width: 50%; text-align: center;" id="apply_now">
+
+    <a href="https://austincodingacademy.com/apply/" style="width: 30%; padding: 10px 50px; color: black; background-color: #64FFDA; ">Apply Now</a>
+
+  </section>
+</section>
+
+
+
+
+<section style="margin-bottom: 600px;">
+</section>
+
 
 
 # Environment Setup / Prep for Success
@@ -1439,3 +1490,34 @@ How to learn many difficult things quickly
 
 * Gitbook
  * Processes
+
+
+
+
+ ---
+
+
+ ---
+
+
+
+ <section style="display:block; content:''; clear:both;">
+
+   <section style="float: left; width: 50%; text-align: center;" id="learn_more">
+
+     <a href="https://austincodingacademy.com/" style="width: 30%; padding: 10px 50px; color: black; background-color: #84FFFF;">Learn More</a>
+
+   </section>
+
+   <section style="float: left; width: 50%; text-align: center;" id="apply_now">
+
+     <a href="https://austincodingacademy.com/apply/" style="width: 30%; padding: 10px 50px; color: black; background-color: #64FFDA; ">Apply Now</a>
+
+   </section>
+ </section>
+
+
+
+
+ <section style="margin-bottom: 600px;">
+ </section>
