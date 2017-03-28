@@ -358,6 +358,8 @@ CSS
 }
 ```
 
+<!--
+
 
 ---
 ### Attribute Selectors
@@ -396,6 +398,8 @@ selector:pseudo-class {
 <script async src="//assets.codepen.io/assets/embed/ei.js"></script>
 
 
+-->
+
 
 ---
 ### Codepen
@@ -422,6 +426,8 @@ For example, to center the content inside a specific section, apply this to the 
 ### Cheatsheet
 
 ![CSS Cheatsheet](./images/css-cheat-sheet.png)
+
+<!--
 
 
 ---
@@ -732,6 +738,8 @@ section:last-child {
 
 ```
 
+-->
+
 
 <section style="margin-top: 100px;">
 </section>
@@ -771,13 +779,13 @@ section:last-child {
 
   <section style="float: left; width: 50%; text-align: center;" id="learn_more">
 
-    <a href="https://austincodingacademy.com/" style="width: 30%; padding: 10px 50px; color: black; background-color: #84FFFF;">Learn More</a>
+    <a href="https://dallascodingacademy.com/" style="width: 30%; padding: 10px 50px; color: black; background-color: #84FFFF;">Learn More</a>
 
   </section>
 
   <section style="float: left; width: 50%; text-align: center;" id="apply_now">
 
-    <a href="https://austincodingacademy.com/apply/" style="width: 30%; padding: 10px 50px; color: black; background-color: #64FFDA; ">Apply Now</a>
+    <a href="https://dallascodingacademy.com/apply/" style="width: 30%; padding: 10px 50px; color: black; background-color: #64FFDA; ">Apply Now</a>
 
   </section>
 </section>
@@ -1276,13 +1284,13 @@ Remember :
 
   <section style="float: left; width: 50%; text-align: center;" id="learn_more">
 
-    <a href="https://austincodingacademy.com/" style="width: 30%; padding: 10px 50px; color: black; background-color: #84FFFF;">Learn More</a>
+    <a href="https://dallascodingacademy.com/" style="width: 30%; padding: 10px 50px; color: black; background-color: #84FFFF;">Learn More</a>
 
   </section>
 
   <section style="float: left; width: 50%; text-align: center;" id="apply_now">
 
-    <a href="https://austincodingacademy.com/apply/" style="width: 30%; padding: 10px 50px; color: black; background-color: #64FFDA; ">Apply Now</a>
+    <a href="https://dallascodingacademy.com/apply/" style="width: 30%; padding: 10px 50px; color: black; background-color: #64FFDA; ">Apply Now</a>
 
   </section>
 </section>
@@ -1363,7 +1371,7 @@ Let's link our HTML and CSS
 
 Let's go around the room to showcase our products again to see if we created something closer to what our user want.
 
-Don't worry about creating the perfect experience. Our goal is to keep getting feedback and building. Delightful experiences are moving targets. 
+Don't worry about creating the perfect experience. Our goal is to keep getting feedback and building. Delightful experiences are moving targets.
 
 
 
