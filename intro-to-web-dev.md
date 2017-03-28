@@ -432,99 +432,89 @@ For example, to center the content inside a specific section, apply this to the 
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html><head><META http-equiv="Content-Type" content="text/html; charset=utf-8"></head><body>
 
 <div>
-<div>
-	<div>
-		<div>
-			<img src="http://headshot.jpg">
-		</div>
+  <div>
+  	<div>
+  		<div>
+  			<img src="http://headshot.jpg">
+  		</div>
 
-		<div>
-			<h1>Farmer Joe</h1>
-			<h2>Farmer</h2>
-		</div>
+  		<div>
+  			<h1>Farmer Joe</h1>
+  			<h2>Farmer</h2>
+  		</div>
 
-		<div>
-			<ul>
-				<li>e: <a href="mailto:farmerjoe@farms.com" target="_blank">farmerjoe@farms.com</a></li>
-				<li>w: <a href="http://www.FarmersSite.com/" target="_blank">www.FarmersSite.com</a></li>
-				<li>m: 0123456789</li>
-			</ul>
-		</div>
-		<div></div>
-	</div>
+  		<div>
+  			<ul>
+  				<li>e: <a href="mailto:farmerjoe@farms.com" target="_blank">farmerjoe@farms.com</a></li>
+  				<li>w: <a href="http://www.FarmersSite.com/" target="_blank">www.FarmersSite.com</a></li>
+  				<li>m: 0123456789</li>
+  			</ul>
+  		</div>
 
-	<div>
+  		<div>
+      </div>
+  	</div>
 
-
+  	<div>
 				<div>
 					<h1>Objective</h1>
 				</div>
-
 				<div>
 					<p>Seeking a strong and respectable position in operations management in an upcoming organization.</p>
 				</div>
 
-			<div></div>
+  			<div>
+        </div>
 
+  			<div>
+  				<h1>Work Experience</h1>
+  			</div>
 
+  			<div>
+  					<h2>Assistant Plant Manager</h2>
+  					<p>Tyler, Texas</p>
+  					<p>Oversee all the aspects of the organization including profit and loss as well as budget. Manage 600+ employers over four shifts in an entire day.</p>
 
+  					<h2>Plant Superintendent</h2>
+  					<p>Little Rock, AR</p>
+  					<p>Directly responsible for all phases of production over an eight department complex. Oversee 250+ employees. Coordinate production with sales department. Handle U.S.D.A relations while maintaining high yield.</p>
+  			</div>
 
-			<div>
-				<h1>Work Experience</h1>
-			</div>
+  			<div>
+        </div>
 
-			<div>
+  			<div>
+  				<h1>Key Skills</h1>
+  			</div>
 
-					<h2>Assistant Plant Manager</h2>
-					<p>Tyler, Texas</p>
-					<p>Oversee all the aspects of the organization including profit and loss as well as budget. Manage 600+ employers over four shifts in an entire day.</p>
+  			<div>
+  				<ul>
+  				<li>Reduced turnover rate by 15%</li>
+  					<li>Managed a crew of 60 people.</li>
+  					<li>Increased line efficiency by 25%</li>
+  					<li>Implement sanitation inspection</li>
+  				</ul>
+  			</div>
 
+  			<div>
+        </div>
 
+  			<div>
+  				<h1>Education</h1>
+  			</div>
 
-					<h2>Plant Superintendent</h2>
-					<p>Little Rock, AR</p>
-					<p>Directly responsible for all phases of production over an eight department complex. Oversee 250+ employees. Coordinate production with sales department. Handle U.S.D.A relations while maintaining high yield.</p>
+  			<div>
+  					<h2>Bachelors Degree - Poultry Science - University of Arkansas</h2>
+  					<p>Qualification</p>
+  					<p>Description</p>
+  			</div>
 
+  			<div>
+        </div>
 
-			</div>
-			<div></div>
-
-
-
-
-			<div>
-				<h1>Key Skills</h1>
-			</div>
-
-			<div>
-				<ul>
-				<li>Reduced turnover rate by 15%</li>
-					<li>Managed a crew of 60 people.</li>
-					<li>Increased line efficiency by 25%</li>
-					<li>Implement sanitation inspection</li>
-				</ul>
-			</div>
-			<div></div>
-
-
-
-
-			<div>
-				<h1>Education</h1>
-			</div>
-
-			<div>
-
-					<h2>Bachelors Degree - Poultry Science - University of Arkansas</h2>
-					<p>Qualification</p>
-					<p>Description</p>
-			</div>
-			<div></div>
-
-	</div>
+  	</div>
+  </div>
 </div>
-</div>
-</body></html>
 ```
 
 ---
