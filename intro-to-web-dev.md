@@ -1262,7 +1262,7 @@ Let's copy and paste the following code into our HTML, in between the `<body>  <
 ---
 #### Directions
 
-Recreate the PDF above, using your knowledge of HTML, CSS, the Bootstrap Grid System, and the DevTool.
+Recreate the site - [Gizemist](http://www.gizemist.com/) - above, using your knowledge of HTML, CSS, the Bootstrap Grid System, and the DevTool.
 
 1. Follow the examples on the [Bootstrap page](https://www.bootstrapcdn.com/)
 1. Use the HTML classes named specifically to allow developers to call the CSS classes necessary. We don't want to have to write all that CSS!
