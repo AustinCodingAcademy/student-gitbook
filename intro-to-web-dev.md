@@ -1110,13 +1110,22 @@ Most grid systems, including Bootstrap, include a responsive, mobile-first fluid
 
 Grid systems are used for creating page layouts through a series of rows and columns that hold the content.
 
-CDNs allow developers to use specific keywords to implement previously created CSS without having to write thousands of lines of CSS.
+Notice how each color is comprised of a number of columns (that add up to 12) within a row.
+
+For example, in Monitor view, within the top row
+* Red area (usually a logo) takes up 2 columns
+* White area takes up 5 columns
+* Yellow are takes up 5 columns
+All the columns add up to 12!
+
 
 ![Responsive Grid](./images/responsive_grid.jpg)
 
 
 ---
 #### Sizing
+
+CDNs allow developers to use specific keywords to implement previously created CSS without having to write thousands of lines of CSS.
 
 We will be making three distinctions: phone(xs), tablet(sm), and laptop(md). Since we have 12 columns in our grid, we can make several combinations that add up to 12, for example:
 
