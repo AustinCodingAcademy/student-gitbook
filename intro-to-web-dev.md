@@ -47,15 +47,13 @@ No need to download anything today.
 ---
 ### Project
 
-Most of you are interested in a new career, so today we're going to create a resume page for an online Portfolio with the skills you'll have as a web developer.
+Imagine yourself as a web developer. You've completed 9 months at Dallas Coding Academy and you're ready to start your new career.
 
-Today the resume will be modeled after
- * A UX designer
- * One of our graduates who became an Instructor
+Use the example below to create a developer resume.
 
 We will leverage
  * Experience / Previous employment
- * Education
+ * Education (Dallas Coding Academy!)
  * Portfolio of apps / sites
  * Languages / Frameworks
  * Tools / Software
@@ -63,7 +61,43 @@ We will leverage
  * Development / Design Team experience
  * Soft skills
 
-Extension - Host your web page on gh-pages
+
+ <section style="margin-bottom: 50px;">
+ </section>
+
+
+### Hit the "Edit on Codepen button", top right, to use the full Codepen site
+
+
+<p data-height="965" data-theme-id="0" data-slug-hash="YZeYjV" data-default-tab="html,result" data-user="austincoding" data-embed-version="2" data-pen-title="YZeYjV" data-editable="true" class="codepen">See the Pen <a href="http://codepen.io/austincoding/pen/YZeYjV/">YZeYjV</a> by Austin Coding Academy (<a href="http://codepen.io/austincoding">@austincoding</a>) on <a href="http://codepen.io">CodePen</a>.</p>
+<script async src="https://production-assets.codepen.io/assets/embed/ei.js"></script>
+
+
+
+---
+## Need some help? Read below
+---
+
+
+<section style="margin-bottom: 100px;">
+</section>
+
+
+<!--
+
+Most of you are interested in a new career, so today we're going to create a resume page for an online Portfolio with the skills you'll have as a web developer.
+
+-->
+
+<!--
+
+Today the resume will be modeled after
+ * A UX designer
+ * One of our graduates who became an Instructor
+
+
+
+ -->
 
 
 <!--## Learning Teams & Iterative Design
@@ -248,7 +282,7 @@ Using a pen (or pencil) and the paper resume we handed out, let's see if we can 
 
 
 ---  
-#### Codepen of HTML code
+#### HTML code
 
   Click on the HTML button to see the code
 
@@ -256,9 +290,6 @@ Using a pen (or pencil) and the paper resume we handed out, let's see if we can 
   1. Now include an unordered list  `<ul></ul>` in each new section.
   1. Nest some list items `<li></li>` in the unordered lists.
 
-
-  <p data-height="965" data-theme-id="0" data-slug-hash="YZeYjV" data-default-tab="html,result" data-user="austincoding" data-embed-version="2" data-pen-title="YZeYjV" data-editable="true" class="codepen">See the Pen <a href="http://codepen.io/austincoding/pen/YZeYjV/">YZeYjV</a> by Austin Coding Academy (<a href="http://codepen.io/austincoding">@austincoding</a>) on <a href="http://codepen.io">CodePen</a>.</p>
-<script async src="https://production-assets.codepen.io/assets/embed/ei.js"></script>
 
 
 ---
