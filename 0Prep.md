@@ -1,6 +1,6 @@
 {% include "./header.md" %}
 
-# Web 101 Prework
+# 101 Intro to Web Pre-work
 * Bring your questions to student orientation.
 * Pre-work for other classes can be found in your class textbook by signing into our Campus Manager platform.
 
