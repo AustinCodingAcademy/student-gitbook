@@ -7,18 +7,18 @@
 </div>
 <script type="text/javascript">
   var img, city, key;
-  switch (window.location.host) {
-    case 'student.houstontxcodingacademy.com':
+  switch (window.location.host.split('.')[1]) {
+    case 'houstontxcodingacademy':
       img = "https://en.gravatar.com/userimage/107370100/8929bf98bfb0323911888716a93da00b.png";
       city = "Houston";
       key = "houstontx";
       break;
-    case 'student.sanantoniocodingacademy.com':
+    case 'sanantoniocodingacademy':
       img = "https://secure.gravatar.com/userimage/107370100/0918789e7818ad581794ec8ae0a889d8.png";
       city = "San Antonio";
       key = "sanantonio";
       break;
-    case 'student.dallascodingacademy.com':
+    case 'dallascodingacademy':
       img = "https://secure.gravatar.com/userimage/107370100/4e6f9d7f5c483b96ca3907d1929ea27c.png";
       city = "Dallas";
       key = "dallas";
