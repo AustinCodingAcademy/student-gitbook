@@ -1,7 +1,8 @@
 {% include "./header.md" %}
 
-# Prework
-* Bring your questions to orientation.
+# Web 101 Prework
+* Bring your questions to student orientation.
+* Pre-work for other classes can be found in your class textbook by signing into our Campus Manager platform.
 
 #### Prepare your Machine
 You'll need 3 essential utilities: a **web browser**, a **text editor**, and a **terminal emulator** (AKA Command Line Interface).
