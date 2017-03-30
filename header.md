@@ -14,12 +14,12 @@
       key = "houstontx";
       break;
     case 'student.sanantoniocodingacademy.com':
-      img = "https://en.gravatar.com/userimage/107370100/4e6f9d7f5c483b96ca3907d1929ea27c.png";
+      img = "https://secure.gravatar.com/userimage/107370100/0918789e7818ad581794ec8ae0a889d8.png";
       city = "San Antonio";
       key = "sanantonio";
       break;
     case 'student.dallascodingacademy.com':
-      img = "https://en.gravatar.com/userimage/107370100/0918789e7818ad581794ec8ae0a889d8.png";
+      img = "https://secure.gravatar.com/userimage/107370100/4e6f9d7f5c483b96ca3907d1929ea27c.png";
       city = "Dallas";
       key = "dallas";
       break;
