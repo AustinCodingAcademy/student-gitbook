@@ -22,7 +22,7 @@ macOS | Windows | Linux
 [Install Git](https://git-scm.com/) | No further installation is needed. | Use your package manager to install the latest version of [Git](https://git-scm.com/): ```sudo apt-get install git```
 
 **macOS & Linux users:**
-The only thing you should do now is add some colors to your prompt to make the command line more readeable. We'll do this by installing [oh-my-zsh](http://ohmyz.sh/):
+The only thing you should do now is add some colors to your prompt to make the command line more readable. We'll do this by installing [oh-my-zsh](http://ohmyz.sh/):
 1. Open your Terminal.
 2. Copy the below code:
 ```
@@ -36,6 +36,7 @@ sh -c "$(curl -fsSL https://raw.github.com/robbyrussell/oh-my-zsh/master/tools/i
 * Complete Language Skills:
   * [HTML/CSS](https://www.codeschool.com/learn/html-css)
   * Just complete Lesson 1
+  * Don't pay for anything
 
 * Complete Development Skills:
   * [Egghead.io - Chrome DevTools](https://egghead.io/courses/using-chrome-developer-tools-elements)
