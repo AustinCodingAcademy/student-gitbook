@@ -1,0 +1,6 @@
+AuthType Basic
+AuthName "AustinCodingAcademyAuth"
+AuthUserFile /app/.htpasswd
+Require valid-user
+RewriteEngine On
+RewriteRule ^(.*)\.html$ $1.php [L]

@@ -21,7 +21,3 @@ deployment:
       - sed -e "s#DRIVE_ACCESS_TOKEN#$(echo $DRIVE_ACCESS_TOKEN)#g" -e "s#DRIVE_REFRESH_TOKEN#$(echo $DRIVE_REFRESH_TOKEN)#g" ./token_v2.txt > ~/.gdrive/token_v2.json
       - sudo chmod +x gdrive
       - ./gdrive sync upload ./$NAME $FILE_ID
-      - git config --global user.email "kevin@austincodingacademy.com"
-      - git config --global user.name "Kevin Colten"
-      - touch ./_book/.nojekyll
-      - ./node_modules/.bin/gh-pages --dotfiles true -d ./_book
