@@ -1,6 +1,6 @@
 # Summary
 
-* [Home](README.md)
+* [Home](./README.md)
 * [Pre-work](0Prep.md)
 * [JavaScript Web Development Syllabus](FSWD-JS.md)
   * [101 Intro to Web](FSWD-JS.md#101-intro-to-web)

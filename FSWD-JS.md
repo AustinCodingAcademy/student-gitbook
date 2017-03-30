@@ -1,3 +1,5 @@
+{% include "./header.md" %}
+
 # Full Stack Web Development - JavaScript
 
 ## 101 Intro to Web
@@ -217,3 +219,5 @@ The purpose of this course is to teach students how to build modern web apps uti
 
   * Day 1 - Lesson 19: Deployment
   * Day 2 - Final Project Presentations
+
+{% include "./footer.md" %}

@@ -1,3 +1,5 @@
+{% include "./header.md" %}
+
 # Full Stack Web Development - C# .NET
 
 ## 101 Intro to Web
@@ -213,3 +215,5 @@ The purpose of this subject is to teach students how to build modern web apps ut
 
   * Day 1 - Lesson 19: Deployment
   * Day 2 - Final Project Presentations
+
+{% include "./footer.md" %}
