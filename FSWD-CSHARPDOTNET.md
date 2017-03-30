@@ -1,6 +1,6 @@
 # Full Stack Web Development - C# .NET
 
-## Web 101 - Intro
+## 101 Intro to Web
 
 #### Subject Description
 The purpose of this course is to teach students how to develop professional, modern websites and become familiar with the basics of HTML, CSS and JavaScript. Students learn industry standard technologies and approaches to design that will allow them to build responsive and interactive websites which means that the websites will look good on all devices (mobile, tablet, desktop, etc.) and respond to user interface.
@@ -74,7 +74,7 @@ The purpose of this course is to teach students how to develop professional, mod
   * Day 1 - Lesson 19: Manipulating Elements
   * Day 2 - Final Project Presentations
 
-## FSWD 221 - Intermediate
+## 221 C# .NET Full Stack
 
 #### Subject Description
 The purpose of this course is to teach students the basics of C# and SQL. C# is one of the most popular programming languages in the world and is supported by all modern browsers. SQL is one of most popular databases in use today.
@@ -147,7 +147,7 @@ The purpose of this course is to teach students the basics of C# and SQL. C# is 
   * Day 2 - Final Project Presentations
 
 
-## FSWD 321 - Advanced
+## 321 C# .NET Full Stack
 
 #### Subject Description
 The purpose of this subject is to teach students how to build modern web apps utilizing the .NET framework and associated technologies. Upon completion, students will be prepared to begin working as full stack web developer.

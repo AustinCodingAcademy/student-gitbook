@@ -1,6 +1,6 @@
 # Full Stack Web Development - JavaScript
 
-## Web 101 - Intro
+## 101 Intro to Web
 
 #### Subject Description
 The purpose of this course is to teach students how to develop professional, modern websites and become familiar with the basics of HTML, CSS and JavaScript. Students learn industry standard technologies and approaches to design that will allow them to build responsive and interactive websites which means that the websites will look good on all devices (mobile, tablet, desktop, etc.) and respond to user interface.
@@ -74,7 +74,7 @@ The purpose of this course is to teach students how to develop professional, mod
   * Day 1 - Lesson 19: Manipulating Elements
   * Day 2 - Final Project Presentations
 
-## FSWD 211 - Intermediate
+## 211 JavaScript Full Stack
 
 #### Subject Description
 The purpose of this course is to teach students the basics of JavaScript and REACT. JavaScript is one of the most popular programming languages in the world and is supported by all modern browsers. REACT is a popular JavaScript Library used for user interface. By completing this course, students will be prepared for the advanced course.
@@ -146,7 +146,7 @@ The purpose of this course is to teach students the basics of JavaScript and REA
   * Day 2 - Final Project Presentations
 
 
-## FSWD 311 - Advanced
+## 311 JavaScript Full Stack
 
 #### Subject Description
 The purpose of this course is to teach students how to build modern web apps utilizing JavaScript frameworks and associated technologies. This course will qualify students for employment at an entry-level web developer.
