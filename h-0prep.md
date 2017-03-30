@@ -51,8 +51,6 @@ As you work through the Pre-Work, we ask that you:
   * After a bit of Googling, you find a good resource.
   * Bookmark the page (`⌘ + d` / `control + d`), and in this dialogue box, either *select* a corresponding bookmarks folder from the dropdown menu or *create* a new one:
 
-![Bookmark](https://raw.githubusercontent.com/AustinCodingAcademy/web-gitbook/ms-certificate/images/chromeBookmark.png?token=AR2Ajay45Wg3yfhpYOsrlPXjO9ejWA1Dks5Y0B7RwA%3D%3D)
-
 #### Prepare your Career
 
 * Prepare new resume.
@@ -115,6 +113,7 @@ Read 'Objective 1.1: Create the document structure'.
   <title>(your name here)'s Resume</title>
   ```
   Then **Save**.
+
 7. Now we'll **add** your changes to the staging area, **commit** them and, finally, **push** the changes up to GitHub. In your Terminal, do:
 ```shell
 git add -A
@@ -275,7 +274,7 @@ The declaration consists of 2 parts: a property and a value.
 * **Properties** - indicates what you want to change (color, width, height, font, etc.)
 * **Values** - specifies how it will change (color: blue, red, etc.)
 
-![CSS Anatomy](./images/03/css-rule-anatomy.jpg)
+![CSS Anatomy](images/tags.jpg)
 
 ### Cascading and Inheritance
 When you style an element, you can use many different possible methods in order to achieve a desired result. Under the hood, CSS relies on a specific '_order of inheritance_' to determine which methods end up affecting how your element is rendered by _prioritizing some methods over others_. This complex interaction makes CSS powerful, but it can also make it confusing and difficult to debug.

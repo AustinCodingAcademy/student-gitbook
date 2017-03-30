@@ -51,8 +51,6 @@ As you work through the Pre-Work, we ask that you:
   * After a bit of Googling, you find a good resource.
   * Bookmark the page (`⌘ + d` / `control + d`), and in this dialogue box, either *select* a corresponding bookmarks folder from the dropdown menu or *create* a new one:
 
-![Bookmark](https://raw.githubusercontent.com/AustinCodingAcademy/web-gitbook/ms-certificate/images/chromeBookmark.png?token=AR2Ajay45Wg3yfhpYOsrlPXjO9ejWA1Dks5Y0B7RwA%3D%3D)
-
 #### Prepare your Career
 
 * Prepare new resume.
@@ -66,8 +64,6 @@ As you work through the Pre-Work, we ask that you:
 
 <iframe width="420" height="315" src="https://www.youtube.com/embed/l5c2MXy7aOU" frameborder="0" allowfullscreen></iframe>
 
-{% include "./footer.md" %}
-s
 
 #### Study for the first day of class:
 
@@ -78,19 +74,6 @@ Read 'Objective 1.1: Create the document structure'.
 * Once Atom is installed add these extensions:
   * atom-live-server
   * How to install **atom-live-server** extension: [Installing Extension Video](https://youtu.be/qeMMO7wkecs)
-
-**Note:** all assignments should be reviewed by one of member of your learning team. It is YOUR responsibility to make sure your code gets reviewed by at least 1 member of your learning team. For a full review, your code must receive at least 3 comments. Code reviewers should check for the following:
-
-    * Indentation
-    * Commenting on code
-    * Readability
-    * Neatness
-    * Design
-    * Effectiveness - does the code do what it is supposed to?
-    * Ask questions about anything that isn't clear.
-
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Et-Td-v8lVo" frameborder="0" allowfullscreen></iframe>
 
 ## How to obtain your `web-workbook` using `git`
 
@@ -130,6 +113,7 @@ Read 'Objective 1.1: Create the document structure'.
   <title>(your name here)'s Resume</title>
   ```
   Then **Save**.
+
 7. Now we'll **add** your changes to the staging area, **commit** them and, finally, **push** the changes up to GitHub. In your Terminal, do:
 ```shell
 git add -A
@@ -290,7 +274,7 @@ The declaration consists of 2 parts: a property and a value.
 * **Properties** - indicates what you want to change (color, width, height, font, etc.)
 * **Values** - specifies how it will change (color: blue, red, etc.)
 
-![CSS Anatomy](./images/03/css-rule-anatomy.jpg)
+![CSS Anatomy](images/tags.jpg)
 
 ### Cascading and Inheritance
 When you style an element, you can use many different possible methods in order to achieve a desired result. Under the hood, CSS relies on a specific '_order of inheritance_' to determine which methods end up affecting how your element is rendered by _prioritizing some methods over others_. This complex interaction makes CSS powerful, but it can also make it confusing and difficult to debug.
