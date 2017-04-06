@@ -59,14 +59,6 @@ As you work through the Pre-Work, we ask that you:
 
 #### Study for the first day of class:
 
-Read 'Objective 1.1: Create the document structure'.
-
-* Install [Atom](http://atom.io/) on your laptop (Mac or Windows).
-* [Atom Installation Video](https://youtu.be/8sIwQabXSM8)
-* Once Atom is installed add these extensions:
-  * atom-live-server
-  * How to install **atom-live-server** extension: [Installing Extension Video](https://youtu.be/qeMMO7wkecs)
-
 ## How to obtain your `web-workbook` using `git`
 
 * Make sure pre-work is completed.
