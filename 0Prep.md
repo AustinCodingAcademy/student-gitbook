@@ -18,8 +18,8 @@ You'll need 3 essential utilities: a **web browser**, a **text editor**, and a *
 macOS | Windows | Linux
 --------------|------------|-------
 Use your terminal | Install Gitbash - which happens automatically when you install git| The default terminal in both GNOME and KDE will be more than sufficient.
-[Install XCode Command Line Tools](https://mac-how-to.gadgethacks.com/how-to/install-command-line-developer-tools-without-xcode-0168115/) and [Homebrew](https://brew.sh/). Brew will come in handy if you run into any snags during environment setup. | [Install Git Bash for Windows](https://github.com/msysgit/msysgit/releases/) | Move to the next step.
-[Install Git](https://git-scm.com/) | [Install git](https://git-for-windows.github.io/) | Use your package manager to install the latest version of [Git](https://git-scm.com/): ```sudo apt-get install git```
+Download Homebrew [Homebrew](https://brew.sh/). Brew will come in handy if you run into any snags during environment setup. | Move to the next step. | Move to the next step.
+Install Gi by typing this command into your terminal: `brew install git` | [Install git](https://git-for-windows.github.io/) | Use your package manager to install the latest version of [Git](https://git-scm.com/): ```sudo apt-get install git```
 
 **macOS & Linux users:**
 The only thing you should do now is add some colors to your prompt to make the command line more readable. We'll do this by installing [oh-my-zsh](http://ohmyz.sh/):
