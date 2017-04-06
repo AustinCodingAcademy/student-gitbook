@@ -21,16 +21,6 @@ Use your terminal | Install Gitbash - which happens automatically when you insta
 Download Homebrew [Homebrew](https://brew.sh/). Brew will come in handy if you run into any snags during environment setup. | Move to the next step. | Move to the next step.
 Install Git by typing this command into your terminal: `brew install git` | [Install git](https://git-for-windows.github.io/) | Use your package manager to install the latest version of [Git](https://git-scm.com/): ```sudo apt-get install git```
 
-**macOS & Linux users:**
-The only thing you should do now is add some colors to your prompt to make the command line more readable. We'll do this by installing [oh-my-zsh](http://ohmyz.sh/):
-1. Open your Terminal.
-2. Copy the below code:
-```
-sh -c "$(curl -fsSL https://raw.github.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"
-```
-3. Paste it into your Terminal, and run it.
-4. Close and re-open your Terminal. That's it! Enjoy your lovely new prompt.
-
 #### Prepare your Mind
 
 * Complete Language Skills:
