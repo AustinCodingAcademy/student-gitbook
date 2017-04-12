@@ -17,19 +17,9 @@ You'll need 3 essential utilities: a **web browser**, a **text editor**, and a *
 
 macOS | Windows | Linux
 --------------|------------|-------
-[Install iTerm2](http://iterm2.com/) | [Install cmder (full version)](http://cmder.net/) | The default terminal in both GNOME and KDE will be more than sufficient.
-[Install XCode Command Line Tools](https://mac-how-to.gadgethacks.com/how-to/install-command-line-developer-tools-without-xcode-0168115/) and [Homebrew](https://brew.sh/). Brew will come in handy if you run into any snags during environment setup. | [Install Git Bash for Windows](https://github.com/msysgit/msysgit/releases/) | Move to the next step.
-[Install Git](https://git-scm.com/) | No further installation is needed. | Use your package manager to install the latest version of [Git](https://git-scm.com/): ```sudo apt-get install git```
-
-**macOS & Linux users:**
-The only thing you should do now is add some colors to your prompt to make the command line more readable. We'll do this by installing [oh-my-zsh](http://ohmyz.sh/):
-1. Open your Terminal.
-2. Copy the below code:
-```
-sh -c "$(curl -fsSL https://raw.github.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"
-```
-3. Paste it into your Terminal, and run it.
-4. Close and re-open your Terminal. That's it! Enjoy your lovely new prompt.
+Use your terminal | Install Gitbash - which happens automatically when you install git| The default terminal in both GNOME and KDE will be more than sufficient.
+Download Homebrew [Homebrew](https://brew.sh/). Brew will come in handy if you run into any snags during environment setup. | Move to the next step. | Move to the next step.
+Install Git by typing this command into your terminal: `brew install git` | [Install git](https://git-for-windows.github.io/) | Use your package manager to install the latest version of [Git](https://git-scm.com/): ```sudo apt-get install git```
 
 #### Prepare your Mind
 
@@ -68,14 +58,6 @@ As you work through the Pre-Work, we ask that you:
 
 
 #### Study for the first day of class:
-
-Read 'Objective 1.1: Create the document structure'.
-
-* Install [Atom](http://atom.io/) on your laptop (Mac or Windows).
-* [Atom Installation Video](https://youtu.be/8sIwQabXSM8)
-* Once Atom is installed add these extensions:
-  * atom-live-server
-  * How to install **atom-live-server** extension: [Installing Extension Video](https://youtu.be/qeMMO7wkecs)
 
 ## How to obtain your `web-workbook` using `git`
 
