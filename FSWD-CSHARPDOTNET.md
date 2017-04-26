@@ -152,7 +152,7 @@ The purpose of this course is to teach students the basics of C# and SQL. C# is 
 ## 321 C# .NET Full Stack
 
 #### Subject Description
-The purpose of this subject is to teach students how to build modern web apps utilizing the .NET framework and associated technologies. Upon completion, students will be prepared to begin working as full stack web developer.
+The purpose of this subject is to teach students how to build modern web apps utilizing the .NET framework and associated technologies. Upon completion, students will be prepared to begin working as a full stack web developer.
 
 #### Subject Hours
 50 Course Hours

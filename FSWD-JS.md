@@ -5,7 +5,7 @@
 ## 101 Intro to Web
 
 #### Subject Description
-The purpose of this course is to teach students how to develop professional, modern websites and become familiar with the basics of HTML, CSS and JavaScript. Students learn industry standard technologies and approaches to design that will allow them to build responsive and interactive websites which means that the websites will look good on all devices (mobile, tablet, desktop, etc.) and respond to user interface.
+The purpose of this course is to teach students how to develop professional, modern websites and become familiar with the basics of HTML, CSS and JavaScript. Students learn industry standard technologies and approaches to design that will allow them to build responsive and interactive websites which means that the websites will look good on all devices (mobile, tablet, desktop, etc.) and respond to user interface. 
 
 #### Subject Hours
 50 Course Hours
@@ -85,9 +85,9 @@ The purpose of this course is to teach students the basics of JavaScript and REA
 50 Course Hours
 
 #### Performance Objectives
-* Build terminal applications using JavaScript .
-* Build user interface applications using REACT.
-* Build first web application.
+* Build terminal applications using JavaScript
+* Build user interface applications using REACT
+* Build first web application
 
 #### Daily Content Outline
 
@@ -151,7 +151,7 @@ The purpose of this course is to teach students the basics of JavaScript and REA
 ## 311 JavaScript Full Stack
 
 #### Subject Description
-The purpose of this course is to teach students how to build modern web apps utilizing JavaScript frameworks and associated technologies. This course will qualify students for employment at an entry-level web developer.
+The purpose of this course is to teach students how to build modern web apps utilizing JavaScript frameworks and associated technologies. This course will qualify students for employment as an entry-level web developer.
 
 #### Subject Hours
 50 Course Hours
