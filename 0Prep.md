@@ -5,6 +5,8 @@
 * Pre-work for other classes can be found in your class textbook by signing into our Campus Manager platform.
 
 #### Prepare your Machine
+*San Antonio students will use a slightly different code editor.*
+*VS Code is great alternative to atom if you want to try it out*
 You'll need 3 essential utilities: a **web browser**, a **text editor**, and a **terminal emulator** (AKA Command Line Interface).
 1. Install [Google Chrome](https://support.google.com/chrome/answer/95346?co=GENIE.Platform%3DDesktop&hl=en-GB)
   - Chrome is a robust browser with fantastic development tooling, as you'll soon find out.
