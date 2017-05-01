@@ -30,8 +30,9 @@ Install Git by typing this command into your terminal: `brew install git` | [Ins
 
 * Complete Development Skills:
   * [Egghead.io - Chrome DevTools](https://egghead.io/courses/using-chrome-developer-tools-elements)
-  * [Learn Git in 15 Minutes](https://try.github.io/levels/1/challenges/1)
+  * [Learn Git](https://www.codecademy.com/learn/learn-git)
   * [Watch this short DevTips series about Git](https://www.youtube.com/watch?v=1h9_cB9mPT8&list=PLqGj3iMvMa4LFz8DZ0t-89twnelpT4Ilw). You can skip the third video (Using GitHub Desktop).
+  * [Learn Command Line](https://www.codecademy.com/learn/learn-the-command-line)
 
 If you feel overwhelmed or don't understand what's going on - don't worry! That's what we're here for.
 
