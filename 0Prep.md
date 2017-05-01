@@ -177,7 +177,7 @@ It doesn't look like much, but the important thing to note here is that it meets
 
 ## HTML element structure
 
-![Element Anatomy](./images/01/tags.jpg)
+![Element Anatomy](images/tags.jpg)
 
 ### Playing with the code
 
