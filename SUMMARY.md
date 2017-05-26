@@ -1,7 +1,6 @@
 # Summary
 
 * [Home](./README.md)
-* [Pre-work](0Prep.md)
 * [JavaScript Web Development Syllabus](FSWD-JS.md)
   * [101 Intro to Web](FSWD-JS.md#101-intro-to-web)
   * [211 JavaScript Full Stack](/FSWD-JS.md#211-javascript-full-stack)
@@ -10,7 +9,8 @@
   * [101 Intro to Web](/FSWD-CSHARPDOTNET.md#101-intro-to-web)
   * [221 C# .NET Full Stack](/FSWD-CSHARPDOTNET.md#221-c-net-full-stack)
   * [321 C# .NET Full Stack](/FSWD-CSHARPDOTNET.md#321-c-net-full-stack)
-* Events
+* [Intro to Web Pre-work](0Prep.md)
+<!--* Events
   * [Intro to Web Dev](intro-to-web-dev.md)
   * [Whiteboarding](whiteboarding.md)
-  * [Intro to WebVR](webvr.md)
+  * [Intro to WebVR](webvr.md)-->
