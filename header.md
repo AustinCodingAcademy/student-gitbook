@@ -1,3 +1,10 @@
+<script src="https://cdnjs.cloudflare.com/ajax/libs/fetch/2.0.3/fetch.min.js"></script>
+<script>
+  fetch('/_book/gitbook/style.css').catch(error => {
+    window.location = window.location.href;
+  });
+</script>
+
 <div style="display: flex; align-items: center">
   <img alt="logo" id="logo-img" src="https://en.gravatar.com/userimage/107370100/a08594145564536138dfaaf072c7b241.png" />
   <h1 style="margin: 0 10px;">
@@ -25,7 +32,7 @@
       key = "dallas";
       break;
     default:
-      img = "http://en.gravatar.com/userimage/107370100/a08594145564536138dfaaf072c7b241.png";
+      img = "https://en.gravatar.com/userimage/107370100/a08594145564536138dfaaf072c7b241.png";
       city = "Austin";
       key = "austin";
       break;
