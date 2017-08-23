@@ -4,7 +4,8 @@
   },
   "scripts": {
     "postinstall": "gitbook install && gitbook build",
-    "test": "echo \"Error: no test specified\" && exit 0"
+    "test": "echo \"Error: no test specified\" && exit 0",
+    "gitbook": "gitbook"
   },
   "devDependencies": {
     "gh-pages": "^0.12.0"
