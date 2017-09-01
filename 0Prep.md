@@ -18,7 +18,7 @@ You'll need 3 essential utilities: a **web browser**, a **text editor**, and a *
 macOS | Windows | Linux
 --------------|------------|-------
 Use your terminal | Install Gitbash - which happens automatically when you install git| The default terminal in both GNOME and KDE will be more than sufficient.
-Install Git by typing this command into your terminal: `brew install git` | [Install git](https://git-for-windows.github.io/) | Use your package manager to install the latest version of [Git](https://git-scm.com/): ```sudo apt-get install git```
+Install [Homebrew](https://brew.sh/). Install Git by typing this command into your terminal: `brew install git` | [Install git](https://git-for-windows.github.io/) | Use your package manager to install the latest version of [Git](https://git-scm.com/): ```sudo apt-get install git```
 
 ## Prepare your Mind
 
