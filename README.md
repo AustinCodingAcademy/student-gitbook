@@ -11,10 +11,10 @@ Welcome! Below you will find links to the intro packets. We suggest that all stu
 * [Houston Coding Academy](https://docs.google.com/document/d/1T2J4Wks6shRqV3ex6KmalOfCCLlD2QhPicPxHbWfPsI/edit?usp=sharing)
 
 ### Course Catalogs
-* [Austin Coding Academy](https://docs.google.com/document/d/1DleTa0IYkpZAUK9b3yNsJiE5Uc2D2tHF5lVWVH83ZiM/edit?usp=sharing)
+* [Austin Coding Academy](https://docs.google.com/document/d/123TPV2I6gx1EWJu0vEwl8_nSzc6pFwtyBGH8i30h2c4/edit?usp=sharing)
 * [Dallas Coding Academy](https://docs.google.com/document/d/1A34e5Akso-1O7aCHGxqcq-uoVXbvCXPijdtKF98fzQU/edit?usp=sharing)
 * [Houston Coding Academy](https://docs.google.com/document/d/1U8_ZLO7L9vQHczANv45fHfMlh-zZjNQXYOEkBjc3AZg/edit?usp=sharing)
-* [North Austin Coding Academy](https://docs.google.com/document/d/1QL0RaM-kVpVYlnKEQWu7Pe-PPjL5CPuO6K7aZ9pcyJg/edit?usp=sharing)
+* [North Austin Coding Academy](https://docs.google.com/a/austincodingacademy.com/document/d/1LoT7N5vCxANQ7CN-MCS55ZuOtXHgjkJs3qeI8rG_XBE/edit?usp=sharing)
 * [San Antonio Coding Academy](https://docs.google.com/document/d/1ZMtSfoxoiBSwZFmEsM2VOqyUcXc7x8NujfyTPAIF4Vw/edit?usp=sharing)
 
 {% include "./footer.md" %}
