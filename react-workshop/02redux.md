@@ -21,7 +21,7 @@ each component since we have a global store. BUT we can still have `this.state`
 in the component, but it'll only include component-type properties.
 
 ## How do we access our store in the component?
-We can pass our store into our components with our `mapStateToProps` function below. It does
+We can pass our store into our components with our `mapStateToProps` function. It does
 just that, maps our global state (aka, the store) into our props.
 
 ![](https://docs.google.com/drawings/d/e/2PACX-1vTOx0vrAD0P-KZDFIpGwkUN6erquPyQYdfgTNddxxnlWNHEpx0dpK1GcuTxcdpIspjSTivV_YfwDkOf/pub?w=960&h=720)
