@@ -7,6 +7,10 @@ can share it. This is a great idea, because since all components are "plugged in
 no matter where you are in a large app, whatever component you are in will respond
 to changes in the store.
 
+We can even see our store in real time!
+* Chrome [Redux DevTools](https://chrome.google.com/webstore/detail/redux-devtools/lmhkpmbekcpmknklioeibfkpmmfibljd)
+* Firefox [Redux DevTools](https://addons.mozilla.org/en-US/firefox/addon/remotedev/)
+
 ## Where did our state go?
 An important note here is that we move away from having local data "states" for
 each component since we have a global store. BUT we can still have `this.state`
