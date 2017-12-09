@@ -11,6 +11,10 @@ We can even see our store in real time!
 * Chrome [Redux DevTools](https://chrome.google.com/webstore/detail/redux-devtools/lmhkpmbekcpmknklioeibfkpmmfibljd)
 * Firefox [Redux DevTools](https://addons.mozilla.org/en-US/firefox/addon/remotedev/)
 
+and we'll need this in a bit
+
+`window.__REDUX_DEVTOOLS_EXTENSION__ && window.__REDUX_DEVTOOLS_EXTENSION__()`
+
 ## Where did our state go?
 An important note here is that we move away from having local data "states" for
 each component since we have a global store. BUT we can still have `this.state`
