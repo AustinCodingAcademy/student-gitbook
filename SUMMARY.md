@@ -13,7 +13,12 @@
   * [241 Web Design](/FSWD-WEBDESIGN.md#web-design-241-intermediate)
   * [341 Web Design](/FSWD-WEBDESIGN.md#web-design-341-advanced)
 * [Intro to Web Pre-work](0Prep.md)
-<!--* Events
+* Events
   * [Intro to Web Dev](intro-to-web-dev.md)
   * [Whiteboarding](whiteboarding.md)
-  * [Intro to WebVR](webvr.md)-->
+  * [Intro to WebVR](webvr.md)
+  * Intro to React + Redux
+    * [ES6 and JSX](react-workshop/00es6.md)
+    * [React](react-workshop/01react.md)
+    * [Redux](react-workshop/02redux.md)
+    * [Webpack](react-workshop/03webpack.md)

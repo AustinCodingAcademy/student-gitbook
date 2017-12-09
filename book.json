@@ -3,7 +3,8 @@
         "edit-link",
         "ga",
         "collapsible-chapters",
-        "replace-with-index-html"
+        "replace-with-index-html",
+        "tonic-aca"
     ],
     "pluginsConfig": {
         "ga": {
