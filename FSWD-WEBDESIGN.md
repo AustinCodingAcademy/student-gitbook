@@ -45,7 +45,81 @@ You will get real world experience working with a client (yes your classmate tot
 
 ## Syllabus
 
-#### Web Design 241 (Intermediate)
+## 101 Intro to Web
+
+#### Subject Description
+The purpose of this course is to teach students how to develop professional, modern websites and become familiar with the basics of HTML, CSS and JavaScript. Students learn industry standard technologies and approaches to design that will allow them to build responsive and interactive websites which means that the websites will look good on all devices (mobile, tablet, desktop, etc.) and respond to user interface. 
+
+#### Subject Hours
+50 Course Hours
+
+#### Performance Objectives
+* Structure websites with HTML.
+* Style HTML with CSS.
+* Build responsive websites with Flexbox and Bootstrap Grid.
+* Use Git for version control and code collaboration.
+* Use JQuery to manipulate the Document Object Model.
+* Be fluent in the basics of JavaScript.
+
+#### Daily Content Outline
+
+* Week 1
+
+  * Day 1 - Lesson 1: Git
+  * Day 2 - Lesson 2: Semantic Elements
+
+* Week 2
+
+  * Day 1 - Lesson 3: CSS
+  * Day 2 - Lesson 4: CSS Selectors
+
+* Week 3
+
+  * Day 1 - Lesson 5: Box Model
+  * Day 2 - Lesson 6: UI/UX
+
+* Checkpoint 1 - Weekend Take Home Project (Test)
+
+* Week 4
+
+  * Day 1 - Lesson 7: Flexbox Layout
+  * Day 2 - Lesson 8: Media Queries
+
+* Week 5
+
+  * Day 1 -  Lesson 9: Bootstrap Grid
+  * Day 2 - Lesson 10: Transitions and Transformations
+
+* Week 6
+
+  * Day 1 - Lesson 11: Document Object Model
+  * Day 2 - Lesson 12: JavaScript Introduction
+
+* Checkpoint 2 - Weekend Take Home Project (Test)
+
+* Week 7
+
+  * Day 1 - Lesson 13: JavaScript Conditionals and Loops
+  * Day 2 - Lesson 14: JavaScript Advanced Array Methods
+
+* Week 8
+
+  * Day 1 - Lesson 15: JQuery
+  * Day 2 - Lesson 16: Forms Introduction
+
+* Week 9
+
+  * Day 1 - Lesson 17: Forms Advanced
+  * Day 2 - Lesson 18: Media Controls and Canvas
+
+* Checkpoint 3 - Weekend Take Home Project (Test)
+
+* Week 10
+
+  * Day 1 - Lesson 19: Manipulating Elements
+  * Day 2 - Final Project Presentations
+
+#### Web Design 231 (Intermediate)
 * Week 1
   * Day 1 – Syllabus, Environment, Teams
   * Day 2 – Iterative Design, Personas
@@ -118,8 +192,17 @@ You will get real world experience working with a client (yes your classmate tot
   * Day 19 – Icons, Taglines, Positioning statements
   * Day 20 – Final Project Presentations
 
-#### Web Design 341 (Advanced)
-* Weeks 11 - 20
-  * Additional topics mentioned in course description
+#### Web Design 331 (Advanced)
+
+* Week 1 Lesson - SEO
+* Week 2 - Google Analytics & Webmaster Tools
+* Week 3 - Email Marketing
+* Week 4 - Affiliate Marketing
+* Week 5 - Introduction to Wordpress
+* Week 6 - Wordpress Issues
+* Week 7 - Site Migration
+* Week 8 - Theme Development
+* Week 9 & 10 - Final Projects
+
 
 {% include "./footer.md" %}

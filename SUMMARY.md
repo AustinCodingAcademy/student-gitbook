@@ -10,8 +10,9 @@
   * [221 C# .NET Full Stack](/FSWD-CSHARPDOTNET.md#221-c-net-full-stack)
   * [321 C# .NET Full Stack](/FSWD-CSHARPDOTNET.md#321-c-net-full-stack)
 * [Web Design Syllabus](FSWD-WEBDESIGN.md)
-  * [241 Web Design](/FSWD-WEBDESIGN.md#web-design-241-intermediate)
-  * [341 Web Design](/FSWD-WEBDESIGN.md#web-design-341-advanced)
+  * [101 Intro to Web](FSWD-WEBDESIGN.md#101-intro-to-web)
+  * [231 Web Design](/FSWD-WEBDESIGN.md#web-design-231-intermediate)
+  * [331 Web Design](/FSWD-WEBDESIGN.md#web-design-331-advanced)
 * [Intro to Web Pre-work](0Prep.md)
 * Events
   * [Intro to Web Dev](intro-to-web-dev.md)
