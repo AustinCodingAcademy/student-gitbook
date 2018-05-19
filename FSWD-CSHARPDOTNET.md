@@ -2,6 +2,15 @@
 
 # Full Stack Web Development - C# .NET
 
+This program consists of 3 courses:
+* 101 Intro to Web
+* 221 C# .NET
+* 321 C# .NET
+
+Our students who graduated from this program have found jobs at Frost Bank, Microsoft, and with Military Contractors.  
+
+Each course is explained below.
+
 ## 101 Intro to Web
 
 #### Subject Description
@@ -76,7 +85,7 @@ The purpose of this course is to teach students how to develop professional, mod
   * Day 1 - Lesson 19: Manipulating Elements
   * Day 2 - Final Project Presentations
 
-## 221 C# .NET Full Stack
+## 221 C# .NET
 
 #### Subject Description
 The purpose of this course is to teach students the basics of C# and SQL. C# is one of the most popular programming languages in the world and is supported by all modern browsers. SQL is one of most popular databases in use today.
@@ -149,7 +158,7 @@ The purpose of this course is to teach students the basics of C# and SQL. C# is 
   * Day 2 - Final Project Presentations
 
 
-## 321 C# .NET Full Stack
+## 321 C# .NET 
 
 #### Subject Description
 The purpose of this subject is to teach students how to build modern web apps utilizing the .NET framework and associated technologies. Upon completion, students will be prepared to begin working as a full stack web developer.

@@ -2,6 +2,15 @@
 
 # Full Stack Web Development - JavaScript
 
+This program consists of 3 courses:
+* 101 Intro to Web
+* 211 JavaScript Full Stack
+* 311 JavaScript Full Stack
+
+Our students who graduated from this program have found jobs at Verizon, Walmart, and many Austin Startups.  
+
+Each course is explained below.
+
 ## 101 Intro to Web
 
 #### Subject Description

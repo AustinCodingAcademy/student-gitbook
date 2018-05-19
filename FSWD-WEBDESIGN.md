@@ -1,8 +1,13 @@
 {% include "./header.md" %}
 
-# Web Design
+# UX/Freelance (Web Design)
 
-**Fundamentals of Product Development: Iterative Design and Personas**
+This program consists of 3 courses:
+* 101 Intro to Web
+* 231 UX Development
+* 331 Wordpress Development
+
+Our students who graduated from this program are successfully freelancing.  
 
 #### Objective
 The purpose of this course is to teach students how to design websites as a freelance web designer or as a web designer for a company. The coursework will cover graphic design, choosing color schemes, crafting User Experience and User Interface, CSS frameworks, building with templates, static page generation, and how to work with clients.
@@ -119,7 +124,7 @@ The purpose of this course is to teach students how to develop professional, mod
   * Day 1 - Lesson 19: Manipulating Elements
   * Day 2 - Final Project Presentations
 
-#### Web Design 231 (Intermediate)
+#### 231 UX Development
 * Week 1
   * Day 1 – Syllabus, Environment, Teams
   * Day 2 – Iterative Design, Personas
@@ -192,7 +197,7 @@ The purpose of this course is to teach students how to develop professional, mod
   * Day 19 – Icons, Taglines, Positioning statements
   * Day 20 – Final Project Presentations
 
-#### Web Design 331 (Advanced)
+#### 331 Wordpress Development
 
 * Week 1 Lesson - SEO
 * Week 2 - Google Analytics & Webmaster Tools
