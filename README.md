@@ -30,7 +30,7 @@ Our curriculum is designed by industry experts to give you important job skills.
 
 ### Course Catalogs
 
-We are a licensed Career School in the State of Texas. We work with the Texas Workforce Commission to ensure all of our students are treated fairly and with respect. You may view our course catalogs, which have been approved by the Texas Workforce Commissoin, below: 
+We are a licensed Career School in the State of Texas. We work with the Texas Workforce Commission to ensure all of our students are treated fairly and with respect. You may view our course catalogs, which have been approved by the Texas Workforce Commission, below: 
 
 * [Austin Coding Academy](https://docs.google.com/document/d/123TPV2I6gx1EWJu0vEwl8_nSzc6pFwtyBGH8i30h2c4/edit?usp=sharing)
 * [North Austin Coding Academy](https://docs.google.com/a/austincodingacademy.com/document/d/1LoT7N5vCxANQ7CN-MCS55ZuOtXHgjkJs3qeI8rG_XBE/edit?usp=sharing)
