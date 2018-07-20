@@ -1,0 +1,21 @@
+{
+    "plugins": [
+        "edit-link",
+        "ga",
+        "collapsible-chapters",
+        "replace-with-index-html",
+        "tonic-aca"
+    ],
+    "pluginsConfig": {
+        "ga": {
+            "token": "UA-68821515-2",
+            "configuration": {
+                "name": "Student"
+            }
+        },
+        "edit-link": {
+            "base": "https://github.com/AustinCodingAcademy/student-gitbook/edit/master/",
+            "label": "Edit This Page"
+        }
+    }
+}

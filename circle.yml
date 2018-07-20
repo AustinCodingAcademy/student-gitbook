@@ -1,0 +1,23 @@
+machine:
+  environment:
+    NAME: Student
+    FILE_ID: 0B9BrFrtW87-UeHM1b08wVDJxc2M
+  node:
+    version: 5.6.0
+general:
+  branches:
+    only:
+      - master
+deployment:
+  master:
+    branch: master
+    commands:
+      - wget -nv -O- https://raw.githubusercontent.com/kovidgoyal/calibre/master/setup/linux-installer.py | python -c "import sys; main=lambda x,y:sys.stderr.write('Download failed\n'); exec(sys.stdin.read()); main('~/calibre-bin', True)"
+      - mkdir ./$NAME
+      - PATH=$PATH:~/calibre-bin/calibre && gitbook pdf ./ ./$NAME/$NAME.pdf
+      - PATH=$PATH:~/calibre-bin/calibre && gitbook epub ./ ./$NAME/$NAME.epub
+      - PATH=$PATH:~/calibre-bin/calibre && gitbook mobi ./ ./$NAME/$NAME.mobi
+      - mkdir ~/.gdrive
+      - sed -e "s#DRIVE_ACCESS_TOKEN#$(echo $DRIVE_ACCESS_TOKEN)#g" -e "s#DRIVE_REFRESH_TOKEN#$(echo $DRIVE_REFRESH_TOKEN)#g" ./token_v2.txt > ~/.gdrive/token_v2.json
+      - sudo chmod +x gdrive
+      - ./gdrive sync upload ./$NAME $FILE_ID
