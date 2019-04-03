@@ -1,14 +1,6 @@
 # Summary
 
 * [Home](./README.md)
-* [JavaScript Web Development Syllabus](FSWD-JS.md)
-  * [101 Intro to Web](FSWD-JS.md#101-intro-to-web)
-  * [211 JavaScript Full Stack](/FSWD-JS.md#211-javascript-full-stack)
-  * [311 JavaScript Full Stack](/FSWD-JS.md#311-javascript-full-stack)
-* [C# .NET Web Development Syllabus](FSWD-CSHARPDOTNET.md)
-  * [101 Intro to Web](/FSWD-CSHARPDOTNET.md#101-intro-to-web)
-  * [221 C# .NET Full Stack](/FSWD-CSHARPDOTNET.md#221-c-net-full-stack)
-  * [321 C# .NET Full Stack](/FSWD-CSHARPDOTNET.md#321-c-net-full-stack)
 * Intro to Web Pre-work
   * [Step 1 Prepare Your Machine](webPreClassWork/01Prep.md)
   * [Step 2 CodePen](webPreClassWork/02Prep.md)
