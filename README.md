@@ -12,17 +12,6 @@ We offers 2 tracks of focus:
 
 Our curriculum is designed by industry experts to give you important job skills. Everything you learn will help you land the job of your dreams. Our graduates are finding great jobs and impressing their bosses with their knowledge and skills.
 
-### Explore the curriculum for each track:
-
-* [JavaScript Web Development Syllabus](FSWD-JS.md)
-  * [101 Intro to Web](FSWD-JS.md#101-intro-to-web)
-  * [211 JavaScript Full Stack](/FSWD-JS.md#211-javascript-full-stack)
-  * [311 JavaScript Full Stack](/FSWD-JS.md#311-javascript-full-stack)
-* [C# .NET Web Development Syllabus](FSWD-CSHARPDOTNET.md)
-  * [101 Intro to Web](/FSWD-CSHARPDOTNET.md#101-intro-to-web)
-  * [221 C# .NET Full Stack](/FSWD-CSHARPDOTNET.md#221-c-net-full-stack)
-  * [321 C# .NET Full Stack](/FSWD-CSHARPDOTNET.md#321-c-net-full-stack)
-
 ### Course Catalogs
 
 We are a licensed Career School in the State of Texas. We work with the Texas Workforce Commission to ensure all of our students are treated fairly and with respect. You may view our course catalogs, which have been approved by the Texas Workforce Commission, below:
